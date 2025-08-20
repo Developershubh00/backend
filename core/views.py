@@ -79,9 +79,42 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from drf_yasg.utils import swagger_auto_schema
 from drf_yasg import openapi
 
+# class LoginAPIView(APIView):
+#     @swagger_auto_schema(
+#         request_body=LoginSerializer,
+#         responses={
+#             200: openapi.Response(
+#                 description="Successful login",
+#                 examples={
+#                     "application/json": {
+#                         "access": "your_jwt_token",
+#                         "refresh": "your_refresh_token",
+#                         "user_id": 1,
+#                         "username": "shubh",
+#                         "email": "shubh@example.com"
+#                     }
+#                 }
+#             ),
+#             401: "Invalid credentials",
+#         }
+#     )
+#     def post(self, request):
+#         serializer = LoginSerializer(data=request.data)
+#         if serializer.is_valid():
+#             return Response(serializer.validated_data, status=status.HTTP_200_OK)
+#         return Response(serializer.errors, status=status.HTTP_401_UNAUTHORIZED)
 class LoginAPIView(APIView):
+    permission_classes = [AllowAny]
+    
     @swagger_auto_schema(
-        request_body=LoginSerializer,
+        request_body=openapi.Schema(
+            type=openapi.TYPE_OBJECT,
+            properties={
+                'email': openapi.Schema(type=openapi.TYPE_STRING),
+                'password': openapi.Schema(type=openapi.TYPE_STRING),
+            },
+            required=['email', 'password']
+        ),
         responses={
             200: openapi.Response(
                 description="Successful login",
@@ -89,9 +122,6 @@ class LoginAPIView(APIView):
                     "application/json": {
                         "access": "your_jwt_token",
                         "refresh": "your_refresh_token",
-                        "user_id": 1,
-                        "username": "shubh",
-                        "email": "shubh@example.com"
                     }
                 }
             ),
@@ -99,11 +129,46 @@ class LoginAPIView(APIView):
         }
     )
     def post(self, request):
-        serializer = LoginSerializer(data=request.data)
-        if serializer.is_valid():
-            return Response(serializer.validated_data, status=status.HTTP_200_OK)
-        return Response(serializer.errors, status=status.HTTP_401_UNAUTHORIZED)
-
+        email = request.data.get('email')
+        password = request.data.get('password')
+        
+        if not email or not password:
+            return Response({
+                'detail': 'Email and password are required'
+            }, status=status.HTTP_400_BAD_REQUEST)
+        
+        try:
+            # Find user by email
+            user = User.objects.get(email=email)
+            
+            # Authenticate using username (since Django auth uses username)
+            authenticated_user = authenticate(
+                request, 
+                username=user.username, 
+                password=password
+            )
+            
+            if authenticated_user:
+                # Generate tokens
+                refresh = RefreshToken.for_user(authenticated_user)
+                
+                return Response({
+                    'access': str(refresh.access_token),
+                    'refresh': str(refresh),
+                }, status=status.HTTP_200_OK)
+            else:
+                return Response({
+                    'detail': 'Invalid credentials'
+                }, status=status.HTTP_401_UNAUTHORIZED)
+                
+        except User.DoesNotExist:
+            return Response({
+                'detail': 'Invalid credentials'
+            }, status=status.HTTP_401_UNAUTHORIZED)
+        except Exception as e:
+            return Response({
+                'detail': 'Login failed'
+            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
 # Removed duplicate SignupView and ProfileView definitions to avoid conflicts.
@@ -129,12 +194,51 @@ class SignupView(generics.CreateAPIView):
             user = serializer.save()
             return Response(UserProfileSerializer(user).data, status=201)
         return Response(serializer.errors, status=400)
+
+
+# class ProfileView(APIView):
+#     permission_classes = [permissions.IsAuthenticated]
+
+#     def get(self, request):
+#         serializer = UserProfileSerializer(request.user)
+#         return Response(serializer.data)
+
+#     def put(self, request):
+#         user = request.user
+#         # Update all fields that are provided
+#         if 'email' in request.data:
+#             user.email = request.data['email']
+#         if 'name' in request.data:
+#             user.first_name = request.data['name']
+#         if 'phone' in request.data:
+#             user.phone = request.data['phone']
+#         if 'neet_rank' in request.data:
+#             user.neet_rank = request.data['neet_rank']
+#         if 'category' in request.data:
+#             user.category = request.data['category']
+#         if 'state' in request.data:
+#             user.state = request.data['state']
+        
+#         user.save()
+#         serializer = UserProfileSerializer(user)
+#         return Response(serializer.data)
+
 class ProfileView(APIView):
     permission_classes = [permissions.IsAuthenticated]
 
     def get(self, request):
-        serializer = UserProfileSerializer(request.user)
-        return Response(serializer.data)
+        user = request.user
+        # Map backend field names to frontend expected names
+        user_data = {
+            'id': user.id,
+            'email': user.email,
+            'name': user.first_name,
+            'phone': user.phone,
+            'neetRank': user.neet_rank,  # Map neet_rank to neetRank
+            'category': user.category,
+            'state': user.state,
+        }
+        return Response(user_data)
 
     def put(self, request):
         user = request.user
@@ -145,16 +249,26 @@ class ProfileView(APIView):
             user.first_name = request.data['name']
         if 'phone' in request.data:
             user.phone = request.data['phone']
-        if 'neet_rank' in request.data:
-            user.neet_rank = request.data['neet_rank']
+        if 'neetRank' in request.data:  # Handle neetRank from frontend
+            user.neet_rank = request.data['neetRank']
         if 'category' in request.data:
             user.category = request.data['category']
         if 'state' in request.data:
             user.state = request.data['state']
         
         user.save()
-        serializer = UserProfileSerializer(user)
-        return Response(serializer.data)
+        
+        # Return mapped field names
+        user_data = {
+            'id': user.id,
+            'email': user.email,
+            'name': user.first_name,
+            'phone': user.phone,
+            'neetRank': user.neet_rank,
+            'category': user.category,
+            'state': user.state,
+        }
+        return Response(user_data)
     
 from rest_framework.views import APIView
 from rest_framework.permissions import IsAuthenticated

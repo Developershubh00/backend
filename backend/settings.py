@@ -69,7 +69,39 @@ CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='backend-dju9.onre
 
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOW_ALL_ORIGINS = DEBUG  # Only allow all origins in development
+CORS_ALLOW_ALL_ORIGINS = TRUE  # Only allow all origins in development
+
+CORS_ALLOWED_HEADERS = [
+    'accept',
+    'accept-encoding',
+    'authorization',
+    'content-type',
+    'dnt',
+    'origin',
+    'user-agent',
+    'x-csrftoken',
+    'x-requested-with',
+]
+
+# Allow these HTTP methods
+CORS_ALLOW_METHODS = [
+    'DELETE',
+    'GET',
+    'OPTIONS',
+    'PATCH',
+    'POST',
+    'PUT',
+]
+
+# Disable CSRF for API endpoints (since you're using JWT)
+CSRF_TRUSTED_ORIGINS = [
+    "https://bdcounsels.com",
+    "https://www.bdcounsels.com",
+]
+
+# Or disable CSRF entirely for API (if using JWT)
+CSRF_COOKIE_SECURE = False  # Set to True in production with HTTPS
+CSRF_COOKIE_SAMESITE = 'Lax'
 
 ROOT_URLCONF = 'backend.urls'
 

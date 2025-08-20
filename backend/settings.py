@@ -69,7 +69,7 @@ CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='backend-dju9.onre
 
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True
-CORS_ALLOW_ALL_ORIGINS = TRUE  # Only allow all origins in development
+CORS_ALLOW_ALL_ORIGINS = True  # Only allow all origins in development
 
 CORS_ALLOWED_HEADERS = [
     'accept',

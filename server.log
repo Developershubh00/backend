@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+[19/Aug/2025 19:31:49] "GET /health/ HTTP/1.1" 200 88
+[19/Aug/2025 19:31:55] "GET /api/categories/ HTTP/1.1" 200 1208
+[19/Aug/2025 19:32:00] "GET / HTTP/1.1" 200 57
+[19/Aug/2025 19:32:05] "HEAD /admin/ HTTP/1.1" 302 0

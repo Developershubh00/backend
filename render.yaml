@@ -1,0 +1,52 @@
+services:
+  - type: web
+    name: bd-counselling-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn backend.wsgi:application
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DEBUG
+        value: false
+      - key: DATABASE_URL
+        fromDatabase:
+          name: bd-counselling-db
+          property: connectionString
+      - key: ALLOWED_HOSTS
+        value: ".onrender.com"
+      - key: CORS_ALLOWED_ORIGINS
+        value: "https://your-frontend-domain.onrender.com,http://localhost:5173,http://127.0.0.1:5173"
+      - key: EMAIL_BACKEND
+        value: "django.core.mail.backends.smtp.EmailBackend"
+      - key: EMAIL_HOST
+        value: "smtp.gmail.com"
+      - key: EMAIL_PORT
+        value: "587"
+      - key: EMAIL_USE_TLS
+        value: "true"
+      - key: EMAIL_HOST_USER
+        value: "your-email@gmail.com"
+      - key: EMAIL_HOST_PASSWORD
+        value: "your-app-password"
+      - key: JWT_ACCESS_TOKEN_LIFETIME
+        value: "60"
+      - key: JWT_REFRESH_TOKEN_LIFETIME
+        value: "1440"
+      - key: SECURE_SSL_REDIRECT
+        value: "true"
+      - key: SESSION_COOKIE_SECURE
+        value: "true"
+      - key: CSRF_COOKIE_SECURE
+        value: "true"
+      - key: STATIC_URL
+        value: "/static/"
+      - key: MEDIA_URL
+        value: "/media/"
+
+databases:
+  - name: bd-counselling-db
+    databaseName: bd_counselling
+    user: bd_admin

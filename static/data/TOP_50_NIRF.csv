@@ -1,0 +1,51 @@
+NIRF_Rank_2024,College_Name,City,State,NIRF_Score,Tuition_Fees_Per_Year,MBBS_Seats,NEET_Cutoff_AIR_General,Established,College_Type
+1,All India Institute of Medical Sciences (AIIMS) New Delhi,New Delhi,Delhi,94.46,7600,100,57-1624,1956,Government
+2,Post Graduate Institute of Medical Education and Research (PGIMER) Chandigarh,Chandigarh,Chandigarh,81.04,10000,150,300-1000,1962,Government
+3,Christian Medical College (CMC) Vellore,Vellore,Tamil Nadu,77.06,50000-60000,100,300-1000,1900,Private
+4,National Institute of Mental Health and Neuro Sciences (NIMHANS) Bangalore,Bengaluru,Karnataka,71.86,20000,Limited,100-500,1974,Government
+5,Jawaharlal Institute of Postgraduate Medical Education and Research (JIPMER) Puducherry,Puducherry,Puducherry,70.74,4800-10000,200,200-1000,1823,Government
+6,Banaras Hindu University (BHU) Varanasi,Varanasi,Uttar Pradesh,68.75,10000-15000,100,500-2000,1916,Government
+7,Amrita Vishwa Vidyapeetham,Coimbatore,Tamil Nadu,66.83,2500000,100,1000-5000,2002,Private
+8,Sanjay Gandhi Postgraduate Institute of Medical Sciences (SGPGIMS) Lucknow,Lucknow,Uttar Pradesh,66.09,50000-60000,75,400-1200,1983,Government
+9,Sree Chitra Tirunal Institute for Medical Sciences and Technology,Thiruvananthapuram,Kerala,65.24,25000,Limited,200-800,1976,Government
+10,Madras Medical College (MMC) Chennai,Chennai,Tamil Nadu,63.05,15000-20000,250,600-2000,1835,Government
+11,Kasturba Medical College Manipal,Manipal,Karnataka,62.84,1410000,250,1000-5000,1953,Private
+12,Maulana Azad Medical College (MAMC) New Delhi,New Delhi,Delhi,62.29,4000-10000,250,100-500,1959,Government
+13,King George’s Medical University (KGMU) Lucknow,Lucknow,Uttar Pradesh,61.86,50000-60000,250,500-1500,1911,Government
+14,Vardhman Mahavir Medical College (VMMC) and Safdarjung Hospital New Delhi,New Delhi,Delhi,61.29,30000-40000,200,100-600,2002,Government
+15,All India Institute of Medical Sciences (AIIMS) Bhopal,Bhopal,Madhya Pradesh,60.93,7000-10000,100,600-2000,2012,Government
+16,All India Institute of Medical Sciences (AIIMS) Bhubaneswar,Bhubaneswar,Odisha,60.65,7000-10000,100,600-2000,2012,Government
+17,Institute of Liver and Biliary Sciences,New Delhi,Delhi,60.06,10000-20000,Limited,,2009,Government
+18,All India Institute of Medical Sciences (AIIMS) Jodhpur,Jodhpur,Rajasthan,59.74,7000-10000,100,600-2000,2012,Government
+19,Saveetha Institute of Medical and Technical Sciences,Chennai,Tamil Nadu,58.22,2475000,150,2000-7000,2005,Private
+20,St. John’s Medical College,Bengaluru,Karnataka,57.86,628000,150,1000-5000,1963,Private
+21,All India Institute of Medical Sciences (AIIMS) Patna,Patna,Bihar,57.67,7000-10000,100,600-2000,2012,Government
+22,Dr. D. Y. Patil Vidyapeeth,Pune,Maharashtra,57.56,2500000,250,2000-7000,1996,Private
+23,All India Institute of Medical Sciences (AIIMS) Raipur,Raipur,Chhattisgarh,57.47,7000-10000,100,600-2000,2012,Government
+24,Siksha `O` Anusandhan,Bhubaneswar,Odisha,57.42,1790000,150,2000-7000,2007,Private
+25,All India Institute of Medical Sciences (AIIMS) Rishikesh,Rishikesh,Uttarakhand,57.22,7000-10000,100,600-2000,2012,Government
+26,Kalinga Institute of Industrial Technology,Bhubaneswar,Odisha,57.14,1850000,150,2000-7000,2004,Private
+27,Government Medical College and Hospital Chandigarh,Chandigarh,Chandigarh,56.99,25000-35000,150,500-2000,1991,Government
+28,Sri Ramachandra Institute of Higher Education and Research,Chennai,Tamil Nadu,56.95,2500000,250,2000-7000,1985,Private
+29,Lady Hardinge Medical College (LHMC) New Delhi,New Delhi,Delhi,56.87,6000-10000,200,300-1000,1916,Government
+30,Armed Forces Medical College (AFMC) Pune,Pune,Maharashtra,56.79,30000-40000,145,100-600,1948,Government
+31,Institute of Medical Sciences and SUM Hospital,Bhubaneswar,Odisha,56.65,1790000,150,1000-3000,2007,Government
+32,Lovely Professional University,Phagwara,Punjab,56.44,2500000,100,2000-7000,2005,Private
+33,JSS Medical College,Mysuru,Karnataka,56.27,1850000,200,2000-7000,1984,Private
+34,SCB Medical College and Hospital,Cuttack,Odisha,56.14,20000-30000,250,1000-4000,1944,Government
+35,PSG Institute of Medical Sciences and Research,Coimbatore,Tamil Nadu,55.98,400000,150,2000-7000,1985,Private
+36,Datta Meghe Institute of Higher Education and Research,Wardha,Maharashtra,55.86,1750000,250,2000-7000,2005,Private
+37,M.S. Ramaiah Medical College,Bengaluru,Karnataka,55.74,2200000,150,2000-7000,1979,Government
+38,Pt. B.D. Sharma Postgraduate Institute of Medical Sciences (PGIMS) Rohtak,Rohtak,Haryana,55.62,30000-50000,250,1500-5000,1960,Government
+39,Dayanand Medical College,Ludhiana,Punjab,55.48,350000,100,2000-7000,1937,Private
+40,Government Medical College Thiruvananthapuram,Thiruvananthapuram,Kerala,55.36,20000-30000,250,1000-4000,1951,Government
+41,SRM Institute of Science and Technology,Chennai,Tamil Nadu,55.24,2500000,150,2000-7000,1985,Private
+42,Gujarat Cancer and Research Institute,Ahmedabad,Gujarat,55.12,20000-30000,Limited,,1972,Government
+43,Sardar Patel Medical College,Bikaner,Rajasthan,54.98,25000-35000,250,1500-5000,1959,Government
+44,Mahatma Gandhi Medical College and Research Institute,Puducherry,Puducherry,54.86,2200000,250,2000-7000,2001,Private
+45,Stanley Medical College,Chennai,Tamil Nadu,54.74,15000-25000,250,1000-4000,1938,Government
+46,Bangalore Medical College and Research Institute (BMCRI),Bengaluru,Karnataka,54.62,20000-30000,250,1000-4000,1955,Government
+47,Government Medical College Kozhikode,Kozhikode,Kerala,54.48,25000-35000,250,1000-4000,1957,Government
+48,Government Medical College and Hospital Nagpur,Nagpur,Maharashtra,54.36,25000-40000,250,1500-5000,1947,Government
+49,KS Hegde Medical Academy,Mangaluru,Karnataka,54.24,1750000,150,2000-7000,1999,Private
+50,Saveetha Medical College and Hospital,Chennai,Tamil Nadu,54.12,2475000,250,2000-7000,2008,Private

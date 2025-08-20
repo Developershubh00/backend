@@ -10,6 +10,7 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from rest_framework import permissions
 from core import views
+from django.http import JsonResponse
 
 from core.views import (
     CollegeCutoffViewSet, UGSeatMatrixViewSet, PGFeeDetailsViewSet,
@@ -35,8 +36,11 @@ schema_view = get_schema_view(
 )
 
 
+# def home(request):
+#     return JsonResponse({"message": "BD Counselling Backend API", "status": "OK"})
+
 def home(request):
-    return JsonResponse({"message": "BD Counselling Backend API", "status": "OK"})
+    return JsonResponse({"status": "ok", "message": "Backend live 🎉"})
 
 # Routers for ViewSets
 router = DefaultRouter()

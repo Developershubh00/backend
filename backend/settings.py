@@ -95,8 +95,8 @@ CORS_ALLOW_METHODS = [
 
 # Disable CSRF for API endpoints (since you're using JWT)
 CSRF_TRUSTED_ORIGINS = [
-    "https://bdcounsels.com",
-    "https://www.bdcounsels.com",
+    "https://believersconsultancy.com",
+    "https://www.believersconsultancy.com",
 ]
 
 # Or disable CSRF entirely for API (if using JWT)

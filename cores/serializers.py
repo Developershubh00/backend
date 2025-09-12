@@ -180,27 +180,3 @@ class FeeStipendBondSerializer(serializers.ModelSerializer):
     class Meta:
         model = FeeStipendBond
         fields = "__all__"
-
-# app/serializers.py
-from rest_framework import serializers
-from .models import AllotmentData, SeatMatrixData, FeeStipendBondData, ClosingRanksData
-
-class AllotmentDataSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = AllotmentData
-        fields = '__all__'
-
-class SeatMatrixDataSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = SeatMatrixData
-        fields = '__all__'
-
-class FeeStipendBondDataSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = FeeStipendBondData
-        fields = '__all__'
-
-class ClosingRanksDataSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = ClosingRanksData
-        fields = '__all__'

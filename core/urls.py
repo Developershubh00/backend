@@ -14,6 +14,7 @@
 #     # , LogoutView  # Uncomment if you implement this later
 # )
 
+
 # router = DefaultRouter()
 # router.register(r'cutoffs', CollegeCutoffViewSet)
 # router.register(r'ug-seat-matrix', UGSeatMatrixViewSet)
@@ -83,3 +84,6 @@ urlpatterns = [
     path('email-verification/', EmailVerificationView.as_view(), name='email-verification'),
     path('verify-email-otp/', verify_email_otp, name='verify-email-otp'),
 ]
+
+
+#again push

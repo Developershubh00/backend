@@ -109,14 +109,6 @@ urlpatterns = [
     path("api/category/closing-ranks/<str:category>/", CategoryBasedClosingRankView.as_view(), name="category-closing-ranks"),
     path("api/category/seat-matrix/<str:category>/", CategoryBasedSeatMatrixView.as_view(), name="category-seat-matrix"),
     path("api/category/fee-stipend-bond/<str:category>/", CategoryBasedFeeStipendBondView.as_view(), name="category-fee-stipend-bond"),
-    path("upload-allotments/", upload_allotment_data, name="upload-allotments"),
-    path("upload-seatmatrix/", upload_seatmatrix_data, name="upload-seatmatrix"),
-    path("upload-feesbond/", upload_fees_bond_data, name="upload-feesbond"),
-    path("upload-closingranks/", upload_closingranks_data, name="upload-closingranks"),
-    path("get-allotments/", AllotmentDataList.as_view(), name="get_allotments"),
-    path("get-seatmatrix/", SeatMatrixDataList.as_view(), name="get_seatmatrix"),
-    path("get-feesbond/", FeeStipendBondDataList.as_view(), name="get_feesbond"),
-    path("get-closingranks/", ClosingRanksDataList.as_view(), name="get_closingranks"),
 
 ]
 

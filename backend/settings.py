@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'import_export',
     'rest_framework_simplejwt.token_blacklist',
     'drf_yasg',
-    'blog',
+    # 'blog',
 ]
 
 MIDDLEWARE = [
@@ -109,17 +109,17 @@ ROOT_URLCONF = 'backend.urls'
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': (
         'rest_framework_simplejwt.authentication.JWTAuthentication',
-    ),
-    'DEFAULT_FILTER_BACKENDS': (
-        'django_filters.rest_framework.DjangoFilterBackend',
-        'rest_framework.filters.SearchFilter',
-        'rest_framework.filters.OrderingFilter',
-),
-    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 70,  # Match your frontend grid (3x3)
-    'DEFAULT_RENDERER_CLASSES': (
-        'rest_framework.renderers.JSONRenderer',
-    ),
+    )
+#     'DEFAULT_FILTER_BACKENDS': (
+#         'django_filters.rest_framework.DjangoFilterBackend',
+#         'rest_framework.filters.SearchFilter',
+#         'rest_framework.filters.OrderingFilter',
+# ),
+#     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+#     'PAGE_SIZE': 70,  # Match your frontend grid (3x3)
+#     'DEFAULT_RENDERER_CLASSES': (
+#         'rest_framework.renderers.JSONRenderer',
+#     ),
 }
 
 TEMPLATES = [
@@ -246,21 +246,21 @@ else:
     SECURE_SSL_REDIRECT = config('SECURE_SSL_REDIRECT', default=False, cast=bool)
     SESSION_COOKIE_SECURE = config('SESSION_COOKIE_SECURE', default=False, cast=bool)
     CSRF_COOKIE_SECURE = config('CSRF_COOKIE_SECURE', default=False, cast=bool)
-# Cache configuration (optional but recommended)
-CACHES = {
-    'default': {
-        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        'LOCATION': 'blog-cache',
-        'OPTIONS': {
-            'MAX_ENTRIES': 1000,
-        },
-    }
-}
+# # Cache configuration (optional but recommended)
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
+#         'LOCATION': 'blog-cache',
+#         'OPTIONS': {
+#             'MAX_ENTRIES': 1000,
+#         },
+#     }
+# }
 
-# File upload settings
-FILE_UPLOAD_MAX_MEMORY_SIZE = 10 * 1024 * 1024  # 10MB
-DATA_UPLOAD_MAX_MEMORY_SIZE = 10 * 1024 * 1024   # 10MB
+# # File upload settings
+# FILE_UPLOAD_MAX_MEMORY_SIZE = 10 * 1024 * 1024  # 10MB
+# DATA_UPLOAD_MAX_MEMORY_SIZE = 10 * 1024 * 1024   # 10MB
 
-# Image processing settings (if you want to add more image formats)
-ALLOWED_IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.webp']
-MAX_IMAGE_SIZE = 5 * 1024 * 1024  # 5MB
+# # Image processing settings (if you want to add more image formats)
+# ALLOWED_IMAGE_EXTENSIONS = ['.jpg', '.jpeg', '.png', '.gif', '.webp']
+# MAX_IMAGE_SIZE = 5 * 1024 * 1024  # 5MB

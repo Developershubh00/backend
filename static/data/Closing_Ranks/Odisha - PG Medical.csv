@@ -1,0 +1,403 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 1.5,CR 2023 2,CR 2023 3,CR 2023 4,CR 2024 1,CR 2024 1.5,CR 2024 2,CR 2024 3,CR 2024 4,CR 2024 5
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,1(1),-,-,1(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,6(1),-,-,6(1),-,2(1),-,-,2(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,3(1),-,-,3(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,5(1),-,-,5(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,7(1),-,-,7(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,10(1),-,-,10(1),-,4(1),8(1),-,8(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,8(1),-,-,8(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,20(1),-,-,20(1),-,9(1),-,-,9(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,12(5),-,-,12(5),-,14(6),-,15(1),15(6),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,24(1),-,30(1),30(1),-,19(1),-,-,19(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,12(5),15(2),-,15(5),-,14(5),16(1),10(1),20(5),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,38(1),-,-,38(1),-,21(1),-,-,21(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,13(2),-,-,13(2),-,22(2),-,-,22(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,7(2),-,-,7(2),-,23(2),-,-,23(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,20(3),20(1),24(1),24(3),-,20(3),-,-,24(3),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,86(1),-,-,86(1),-,25(1),-,-,26(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,34(4),-,-,34(4),-,27(4),-,-,28(4),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Hi-Tech, Bhubaneswar",RADIO DIAGNOSIS,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,28(1),-,-,29(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,8(1),-,31(1),31(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,31(1),-,-,32(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,14(1),-,-,14(1),-,32(2),-,-,33(2),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,37(1),-,-,37(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",DERMATOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,36(1),-,-,37(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,32(4),-,-,32(4),-,38(3),-,-,39(3),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,35(2),-,-,35(2),-,39(2),-,-,40(2),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,17(1),17(1),25(1),54(1),-,-,-,41(1),41(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,37(1),-,-,37(1),-,41(2),-,-,42(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,45(1),-,-,48(2),-,43(1),-,-,44(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,-,-,-,47(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,42(2),-,-,47(2),-,46(1),-,-,48(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,48(1),-,-,51(1),-,47(1),-,-,49(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",IHBT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,101(1),101(1),48(1),50(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,44(1),-,-,52(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,51(1),-,-,53(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,52(4),-,-,62(5),-,52(4),-,-,54(4),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,41(2),-,-,42(3),-,54(2),-,-,56(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹7,15,000*","₹30,000*",0,₹0,767,100(2),-,-,100(2),-,55(1),-,-,57(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,56(1),-,-,58(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,16(3),21(2),30(1),30(3),-,19(3),19(1),26(2),59(3),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,15(1),-,43(1),61(1),-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"MKCG, Berhampur",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,59(1),-,-,61(1),-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,28(1),33(1),28(1),28(1),-,24(1),-,42(1),64(1),-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,64(1),-,-,66(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,50(2),-,57(2),57(2),-,58(1),-,-,68(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,67(1),-,-,69(1),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"MKCG, Berhampur",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,31(1),-,-,70(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,27(3),30(2),44(3),49(3),-,29(3),25(1),40(2),71(3),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,62(1),-,-,63(1),-,69(1),-,-,71(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,69(3),-,-,73(3),-,70(3),-,-,72(3),-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,49(1),-,63(1),72(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,71(1),-,-,73(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,40(2),43(1),79(2),79(2),-,45(1),45(1),64(1),75(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"MKCG, Berhampur",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,76(1),-,-,78(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,61(3),-,-,64(3),-,74(3),-,-,81(3),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PAEDIATRICS,"₹7,15,000*","₹30,000*",0,₹0,767,59(1),-,-,59(1),-,79(1),-,-,82(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,81(1),-,-,84(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹7,15,000*","₹30,000*",0,₹0,767,94(1),94(1),-,94(1),-,84(2),-,-,87(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,78(1),-,-,89(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,-,-,-,91(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"Hi-Tech Med Coll, Rourkela",OBG,"₹7,15,000*",Info not available*,0,₹0,420,-,-,-,-,-,-,-,-,91(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,63(1),-,-,67(1),-,85(1),85(1),58(1),92(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,46(1),-,-,46(1),-,90(1),-,-,93(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"VIMSAR, Burla",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,117(1),-,-,117(1),-,93(1),-,-,96(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,108(1),-,-,108(1),-,95(1),-,-,98(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"VIMSAR, Burla",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,-,-,-,99(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",RADIATION ONCOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,72(1),-,96(1),96(1),-,99(1),-,-,102(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,100(1),-,-,103(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,70(3),70(2),76(2),77(3),-,86(3),-,-,106(3),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,98(1),98(1),106(1),106(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,77(2),-,79(2),84(2),-,104(2),-,-,107(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Acharya Harihar Cancer,Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",-,-,-,-,-,-,88(1),-,-,108(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,97(1),-,-,109(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",RADIO DIAGNOSIS,"₹25,00,000*","₹30,000*",0,₹0,767,57(1),-,102(1),102(1),-,107(1),-,-,110(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,67(2),-,-,81(2),-,103(2),-,-,112(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,16(1),-,-,16(1),-,91(2),-,-,116(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹7,15,000*","₹30,000*",0,₹0,767,129(2),129(1),134(2),134(2),-,98(2),-,88(1),117(2),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,39(5),41(1),62(4),64(5),-,36(4),20(1),60(4),118(4),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,64(3),64(2),103(3),103(3),-,76(4),68(1),89(3),119(4),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,41(2),46(1),66(2),70(2),-,39(2),-,71(2),123(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,101(1),101(1),118(1),118(1),-,120(1),-,-,123(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,121(1),-,-,124(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,89(1),-,-,125(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,47(1),-,-,66(1),-,48(1),-,-,127(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,124(1),-,-,124(1),-,126(1),-,-,129(1),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,127(1),-,-,130(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,131(1),-,-,131(2),-,110(2),110(1),117(1),131(2),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,130(1),-,-,133(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,157(1),-,-,158(1),-,124(2),124(1),131(1),134(2),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,151(1),151(1),162(1),163(1),-,133(1),-,-,136(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OPHTHALMOLOGY,"₹7,15,000*",Info not available*,0,₹0,420,-,-,-,-,-,112(1),112(1),110(1),137(1),-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,64(1),-,-,139(1),-,-
+Odisha-Govt Quota-InS,EWS,Odisha,"SCB, Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,137(1),-,-,140(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,46(2),47(1),73(2),80(2),-,46(1),-,66(1),142(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",DERMATOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,-,-,-,-,-,139(1),-,-,142(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,66(2),75(2),91(2),161(2),-,85(2),85(1),91(2),145(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",IHBT,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,82(1),82(1),109(1),146(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,128(2),128(1),152(2),214(2),-,131(2),123(1),145(1),148(2),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹25,00,000*","₹30,000*",0,₹0,767,120(2),-,173(1),205(2),-,154(2),-,-,158(2),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,115(1),-,-,115(1),-,141(1),141(1),147(1),160(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹25,00,000*","₹30,000*",0,₹0,767,194(1),-,-,197(2),-,157(2),-,-,161(2),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹25,00,000*","₹30,000*",0,₹0,767,260(2),-,-,284(2),-,158(1),-,-,162(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"Hi-Tech, Bhubaneswar",ENT,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,-,-,-,166(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,113(1),-,128(1),167(2),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,70(3),68(1),114(2),125(3),-,89(2),-,-,169(2),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,156(1),156(1),140(1),172(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,340(1),-,169(1),-,-,173(1),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,140(1),140(1),176(1),176(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,170(1),170(1),253(1),350(1),-,140(1),-,-,177(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,80(1),-,106(1),235(2),-,104(2),-,120(2),178(2),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,71(3),69(1),86(3),86(3),-,127(4),60(1),75(1),179(4),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"VIMSAR, Burla",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,208(1),-,-,225(1),-,177(1),-,-,181(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,168(1),168(1),149(1),210(1),-,132(1),132(1),116(1),183(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",RADIO DIAGNOSIS,"₹7,15,000*","₹30,000*",0,₹0,767,121(1),121(1),199(1),199(1),-,120(1),120(1),78(1),184(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,-,-,-,187(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,184(1),-,-,188(1),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,106(1),-,-,190(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",ORTHOPAEDICS,"₹25,00,000*",Info not available*,0,₹0,420,-,-,-,-,-,187(1),-,-,192(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,188(1),-,-,193(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,125(1),-,-,125(1),-,191(1),-,-,197(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PAEDIATRICS,"₹25,00,000*","₹30,000*",0,₹0,767,200(2),200(2),244(2),262(2),244(1),192(1),-,-,198(1),-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,200(1),-,-,200(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,217(1),217(1),217(1),201(1),-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,74(1),-,147(1),118(1),-,145(1),-,-,202(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,195(1),-,-,202(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",TBRD,"₹25,00,000*","₹30,000*",0,₹0,767,262(1),-,-,286(1),-,198(1),-,-,205(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,202(1),-,-,210(1),-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,203(1),-,-,211(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,158(4),158(4),194(4),253(4),-,144(2),-,-,214(2),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,206(1),-,-,216(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,251(1),-,-,332(1),-,160(1),160(1),207(1),217(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,221(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,196(1),-,-,199(1),352(1),210(1),-,-,222(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,113(1),113(1),132(1),249(1),-,125(1),-,-,224(1),-,-
+Odisha-Govt Quota-InS,EWS,Odisha,"VIMSAR, Burla",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,-,-,-,225(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,73(1),-,115(1),171(1),-,74(1),-,-,228(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,225(1),-,-,231(1),-,222(1),-,-,234(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,171(2),171(2),206(2),257(2),-,147(1),147(1),166(1),235(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,205(1),205(1),168(1),277(1),-,145(1),145(1),156(1),236(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,239(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,256(1),256(1),-,305(2),-,213(1),213(1),209(1),245(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹7,15,000*","₹30,000*",0,₹0,767,243(1),243(1),293(1),293(1),-,246(1),-,-,246(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,230(1),-,-,248(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,231(1),231(1),-,313(2),-,234(2),234(2),-,249(2),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,137(4),137(4),158(4),196(4),-,142(4),142(2),143(2),250(4),-,-
+Odisha-Govt Quota-InS,EWS,Odisha,"SCB, Cuttack",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,252(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",SPM,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,331(1),-,163(1),-,-,253(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,-,-,-,294(1),-,-,-,-,256(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,233(1),-,-,257(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,258(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"SCB, Cuttack",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,-,-,-,259(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹7,15,000*","₹30,000*",0,₹0,767,329(1),-,-,329(1),-,242(1),242(1),242(1),261(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹25,00,000*","₹30,000*",0,₹0,767,238(1),-,139(1),285(3),-,236(3),-,-,262(3),-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,-,-,-,-,-,263(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,130(1),-,-,265(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,229(1),-,194(1),-,-,269(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,226(1),226(1),250(1),309(1),-,201(1),201(1),190(1),273(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,240(1),-,-,276(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,241(1),-,-,277(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PSYCHIATRY,"₹25,00,000*","₹30,000*",0,₹0,767,-,-,-,-,-,-,-,197(1),283(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,134(1),134(1),166(1),283(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,374(2),413(1),196(1),196(1),243(1),284(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹10,00,000*","₹16,000*",0,₹0,767,-,-,-,380(2),-,-,-,-,291(2),-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"VIMSAR, Burla",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,168(1),-,-,292(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Acharya Harihar Cancer,Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",-,-,-,-,-,-,-,-,-,293(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PAEDIATRICS,"₹7,15,000*","₹30,000*",0,₹0,767,265(1),281(1),-,281(1),-,203(1),203(1),207(1),301(1),-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,-,-,-,304(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",SPM,"₹10,00,000*","₹16,000*",0,₹0,767,-,-,-,351(1),-,-,-,-,305(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,336(1),-,-,-,-,308(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",RADIATION ONCOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,131(1),131(1),222(1),389(1),-,159(1),-,156(1),310(1),-,-
+Odisha-Govt Quota-InS,EWS,Odisha,"SCB, Cuttack",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,310(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,-,-,221(1),221(1),-,313(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",MICROBIOLOGY,"₹10,00,000*",Info not available*,0,₹0,420,-,-,-,-,-,-,-,-,315(1),-,-
+Odisha-Govt Quota-InS,SC,Odisha,"VIMSAR, Burla",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,218(1),218(1),-,316(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,167(1),-,214(1),241(1),-,133(1),-,123(1),319(1),-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹10,00,000*","₹16,000*",0,₹0,767,-,-,-,381(1),-,-,-,-,319(1),-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,-,-,-,321(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,385(1),-,183(1),183(1),190(1),325(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,170(1),170(1),165(1),213(1),-,178(2),168(1),187(1),333(2),-,-
+Odisha-Govt Quota,SC,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,270(1),-,289(1),299(1),-,274(1),274(1),333(1),335(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PSYCHIATRY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,307(1),307(1),336(1),338(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,260(2),227(1),470(1),481(2),-,231(1),231(1),338(1),340(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,213(2),213(2),301(2),380(2),-,187(1),187(1),203(1),341(1),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"VIMSAR, Burla",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,233(1),233(1),275(1),344(1),-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,618(1),-,349(1),351(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,247(1),247(1),213(1),388(1),-,189(1),-,212(1),355(1),-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,157(1),157(1),210(1),362(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",TBRD,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,272(1),272(1),291(1),369(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,160(4),191(4),291(4),399(5),-,123(3),123(1),138(2),382(3),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,67(1),534(1),616(1),601(1),-,363(1),392(1),-,394(1),-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"SCB, Cuttack",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,356(1),356(1),356(1),396(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,261(2),261(1),338(2),409(2),-,199(2),199(1),217(1),412(2),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",RADIO DIAGNOSIS,"₹25,00,000*","₹30,000*",0,₹0,767,422(1),-,-,422(1),-,299(1),299(1),424(1),426(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹7,15,000*","₹30,000*",0,₹0,767,367(1),369(1),332(1),512(2),-,257(2),257(2),318(2),429(2),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹25,00,000*","₹30,000*",0,₹0,767,336(2),336(2),501(2),501(2),-,331(2),229(1),428(1),430(2),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,534(1),557(1),-,557(1),-,392(1),-,432(1),434(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,232(1),-,344(1),417(1),-,212(2),-,-,445(2),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,369(1),407(1),-,407(1),-,339(1),-,-,458(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OBG,"₹25,00,000*",Info not available*,0,₹0,420,-,-,-,-,-,457(1),457(1),457(1),459(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",ORTHOPAEDICS,"₹7,15,000*",Info not available*,0,₹0,420,-,-,-,-,-,251(1),251(1),261(1),493(1),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,494(1),-,-,497(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,481(2),465(1),482(1),602(2),-,429(2),403(1),497(1),501(2),-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,432(1),-,-,508(1),-,-
+Odisha-Govt Quota,SC,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,495(1),495(1),553(1),596(1),-,436(1),436(1),511(1),514(1),-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,525(1),-,-,528(1),-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,306(1),-,413(1),532(1),-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,454(1),454(1),532(1),535(1),-,-
+Odisha-Govt Quota,SC,Odisha,"VIMSAR, Burla",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,413(1),413(1),492(1),562(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PAEDIATRICS,"₹25,00,000*","₹30,000*",0,₹0,767,502(1),502(1),595(1),595(1),-,428(2),428(2),562(2),565(2),-,-
+Odisha-Govt Quota,EWS,Odisha,"SCB, Cuttack",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,681(1),681(1),479(1),576(1),-,-
+Odisha-Govt Quota,SC,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,511(1),-,-,579(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ENT,"₹25,00,000*","₹30,000*",0,₹0,767,-,-,-,-,-,522(1),522(1),588(1),591(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",TBRD,"₹25,00,000*","₹30,000*",0,₹0,767,608(1),-,-,609(1),-,541(1),541(1),592(1),595(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹25,00,000*","₹30,000*",0,₹0,767,645(2),645(2),561(2),695(2),-,426(2),426(2),523(2),599(2),-,-
+Odisha-Govt Quota,UR,Odisha,"Acharya Harihar Cancer,Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",-,-,-,-,-,-,337(1),337(1),383(1),602(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,377(1),377(1),459(1),459(1),-,381(1),381(1),381(1),608(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,673(1),673(1),713(1),929(1),975(1),693(1),693(1),617(1),620(1),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,579(1),579(1),631(1),634(1),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,474(2),474(2),587(2),668(2),-,498(2),441(1),501(1),644(2),-,-
+Odisha-Govt Quota,EWS,Odisha,"VIMSAR, Burla",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,-,-,-,650(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹25,00,000*","₹30,000*",0,₹0,767,633(2),591(1),511(1),646(2),-,398(2),398(2),499(2),658(2),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹25,00,000*","₹30,000*",0,₹0,767,684(3),684(2),695(2),699(3),-,499(2),499(2),612(2),659(2),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",IHBT,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,272(1),272(1),401(1),606(1),-,265(1),-,-,664(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,605(2),530(1),636(1),866(2),-,662(1),-,-,665(1),-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,482(1),482(1),436(1),684(1),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,533(1),-,-,685(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,-,-,-,693(1),-,-
+Odisha-Govt Quota,SC,Odisha,"VIMSAR, Burla",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,560(1),560(1),689(1),695(1),-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,512(1),-,-,698(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,689(1),689(1),737(1),669(1),-,558(1),558(1),656(1),716(1),-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,515(1),515(1),614(1),718(1),-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,-,-,-,-,-,505(1),-,-,724(1),-,-
+Odisha-Govt Quota,EWS,Odisha,"SCB, Cuttack",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,-,-,-,740(1),-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,695(1),695(1),745(1),748(1),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,537(1),537(1),699(1),759(1),-,-
+Odisha-Govt Quota,ST,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,631(1),-,-,760(1),-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,650(1),650(1),695(1),777(1),-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",RADIATION ONCOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,601(1),601(1),579(1),791(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,735(2),735(2),757(2),768(2),-,619(1),619(1),589(1),792(1),-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,793(1),-,-,798(1),-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,815(1),815(1),804(1),812(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,563(2),547(1),642(1),807(2),-,460(1),-,605(1),818(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,668(1),-,690(1),836(1),943(1),-
+Odisha-Govt Quota,UR-PH,Odisha,"VIMSAR, Burla",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,-,-,-,-,-,-,-,-,843(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OPHTHALMOLOGY,"₹25,00,000*",Info not available*,0,₹0,420,-,-,-,-,-,656(1),-,-,848(1),-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,625(1),625(1),560(1),857(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹10,00,000*","₹16,000*",0,₹0,767,792(2),757(1),-,873(2),-,787(2),710(1),-,858(2),-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,608(2),608(2),516(2),863(2),-,-
+Odisha-Govt Quota,SC,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,-,-,473(1),-,-,867(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,-,-,860(1),-,-,879(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,-,-,702(1),863(1),-,882(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,906(1),-,565(1),565(1),687(1),890(1),-,953(1)
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",SPM,"₹7,15,000*","₹16,000*",0,₹0,767,686(2),686(2),767(1),885(2),-,687(2),687(2),740(2),899(2),-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech Med Coll, Rourkela",PATHOLOGY,"₹7,15,000*",Info not available*,0,₹0,420,-,-,-,-,-,832(1),832(1),-,900(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",PATHOLOGY,"₹10,00,000*",Info not available*,0,₹0,420,-,-,-,-,-,811(1),811(1),-,901(1),-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",MICROBIOLOGY,"₹7,15,000*",Info not available*,0,₹0,420,721(1),721(1),-,932(1),-,716(1),716(1),837(1),905(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",SPM,"₹10,00,000*","₹16,000*",0,₹0,767,793(1),793(1),-,921(2),-,776(1),776(1),-,910(1),-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,-,-,790(1),790(1),-,913(1),-,-
+Odisha-Govt Quota,SC,Odisha,"MKCG, Berhampur",IHBT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,542(1),542(1),738(1),920(1),-,-
+Odisha-Govt Quota,UR-GC,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,-,-,571(1),571(1),819(1),923(1),-,-
+Odisha-Govt Quota,UR-PH,Odisha,"MKCG, Berhampur",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,-,-,-,-,-,863(1),-,864(1),929(1),-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹10,00,000*","₹16,000*",0,₹0,767,-,-,-,959(1),-,842(1),842(1),-,933(1),-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,459(1),-,804(1),925(2),-,730(1),730(1),775(1),939(1),-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,250(1),250(1),-,385(2),436(1),243(1),-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,743(1),743(1),-,963(1),-,254(1),254(1),-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,243(1),243(1),188(1),250(1),-,166(1),166(1),174(1),-,-,321(1)
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,184(1),-,-,187(1),-,175(1),175(1),175(1),-,-,323(2)
+Odisha-Govt Quota,UR-ExS,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,391(1),391(1),-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,722(1),722(1),-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,731(1),-,-,961(2),-,729(1),-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,756(1),756(1),717(1),-,-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,-,-,717(1),717(1),790(1),-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,804(1),804(1),-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",BIOCHEMISTRY,"₹4,50,000*","₹16,000*",0,₹0,767,-,-,-,-,-,-,-,812(1),-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"MKCG, Berhampur",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,672(1),672(1),830(1),-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,750(1),750(1),-,-,-,775(1),775(1),842(1),-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"MKCG, Berhampur",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,-,853(1),853(1),-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,813(1),813(1),750(1),-,948(1),761(1),761(1),-,-,855(1),-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,912(1),-,-,-,-,-,-,903(1)
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,690(1),690(1),758(1),958(1),-,-,-,-,-,-,947(1)
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,611(1),611(1),520(1),956(2),-,679(1),-,716(1),-,-,948(1)
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,3(1),-,-,-,-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,4(1),-,-,4(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,5(2),-,-,5(2),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,18(1),-,-,18(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,24(1),-,-,24(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"MKCG, Berhampur",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,29(1),-,-,29(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,36(1),-,-,36(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,40(1),-,-,40(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,60(1),-,-,60(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,71(2),-,-,72(2),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,55(1),-,81(1),81(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,83(1),-,-,83(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,83(1),-,-,83(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Acharya Harihar Cancer,Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",-,93(1),-,-,93(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",TBRD,"₹7,15,000*","₹30,000*",0,₹0,767,98(1),-,-,98(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,99(1),-,-,99(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,103(1),-,-,103(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"SCB, Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,105(1),-,-,105(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,107(1),-,-,107(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",ORTHOPAEDICS,"₹7,15,000*",Info not available*,0,₹0,420,109(1),-,-,109(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"MKCG, Berhampur",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,119(1),-,-,119(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"VIMSAR, Burla",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,117(1),117(1),125(1),-,-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"Hi-Tech, Bhubaneswar",RADIO DIAGNOSIS,"₹7,15,000*","₹30,000*",0,₹0,767,133(1),-,-,133(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ENT,"₹7,15,000*","₹30,000*",0,₹0,767,134(1),134(1),135(1),135(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"VIMSAR, Burla",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,140(1),-,-,140(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",ENT,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,146(1),-,-,147(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PSYCHIATRY,"₹7,15,000*","₹30,000*",0,₹0,767,136(1),136(1),101(1),157(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,159(1),-,-,160(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"MKCG, Berhampur",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,85(1),85(1),161(1),162(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",IHBT,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,164(1),-,-,165(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,167(1),167(1),166(1),167(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,100(1),100(1),171(1),129(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,75(1),79(1),87(1),175(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",DERMATOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,133(1),133(1),180(1),180(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,31(1),-,-,181(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"SCB, Cuttack",RADIATION ONCOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,182(1),-,-,185(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,EWS,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,186(1),186(1),186(1),189(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,161(1),-,176(1),195(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,119(1),-,195(1),195(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,178(1),-,-,212(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,207(1),-,-,213(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,172(1),172(1),216(1),222(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-ExS,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,220(1),-,-,226(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",OPHTHALMOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,162(1),-,187(1),227(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"VIMSAR, Burla",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,201(1),201(1),222(1),228(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",DERMATOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,236(1),-,-,236(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"VIMSAR, Burla",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,229(1),-,-,236(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"VIMSAR, Burla",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,230(1),-,-,238(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-GC,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,215(1),-,-,251(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,219(1),219(1),219(1),260(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OBG,"₹25,00,000*",Info not available*,0,₹0,420,-,-,-,270(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,219(1),219(1),270(1),270(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"SCB, Cuttack",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,188(2),188(2),224(2),271(2),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,193(1),-,-,275(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,246(1),246(1),255(1),278(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"MKCG, Berhampur",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,212(1),265(1),-,292(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",ENT,"₹25,00,000*","₹30,000*",0,₹0,767,-,-,-,293(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,79(1),160(1),227(1),297(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OPHTHALMOLOGY,"₹25,00,000*",Info not available*,0,₹0,420,156(1),156(1),-,315(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"SCB, Cuttack",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,271(1),325(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"VIMSAR, Burla",PHARMACOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,240(2),195(1),256(1),341(2),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,345(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,358(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"SCB, Cuttack",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,365(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR-PH,Odisha,"SCB, Cuttack",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,265(1),-,-,369(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",PATHOLOGY,"₹7,15,000*",Info not available*,0,₹0,420,187(1),187(1),-,382(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,SC,Odisha,"Hi-Tech, Bhubaneswar",PATHOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,387(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,-,-,-,392(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech Med Coll, Rourkela",PATHOLOGY,"₹10,00,000*",Info not available*,0,₹0,420,-,-,-,393(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"MKCG, Berhampur",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,284(1),284(1),404(1),404(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PHYSIOLOGY,"₹4,50,000*","₹16,000*",0,₹0,767,-,-,-,412(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Acharya Harihar Cancer,Cuttack",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",-,191(1),265(1),315(1),414(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,ST,Odisha,"MKCG, Berhampur",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,426(1),-,-,-,-,-,-,-
+Odisha-Govt Quota-InS,UR,Odisha,"MKCG, Berhampur",ANATOMY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,-,429(1),-,-,-,-,-,-
+Odisha-Mgmt Quota- InS,UR,Odisha,"Hi-Tech, Bhubaneswar",PHYSIOLOGY,"₹8,00,000*","₹16,000*",0,₹0,767,-,-,-,430(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",RADIO DIAGNOSIS,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,539(1),-,-,539(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,545(1),-,-,545(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",DERMATOLOGY,"₹25,00,000*","₹30,000*",0,₹0,767,554(1),-,-,554(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",ORTHOPAEDICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,195(1),-,299(1),559(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",ENT,"₹7,15,000*","₹30,000*",0,₹0,767,392(1),392(1),560(1),543(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,317(1),317(1),346(1),572(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,580(1),-,-,580(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"SCB, Cuttack",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,288(1),-,-,583(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,585(1),-,-,585(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,589(1),-,-,589(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,504(1),504(1),492(1),615(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"SCB, Cuttack",GENERAL SURGERY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,614(1),-,-,616(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,513(1),513(1),565(1),620(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,EWS,Odisha,"SCB, Cuttack",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,622(1),622(1),-,-,-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"VIMSAR, Burla",ANAESTHESIOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,553(1),553(1),586(1),635(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"Hi-Tech, Bhubaneswar",PAEDIATRICS,"₹7,15,000*","₹30,000*",0,₹0,767,546(1),546(1),640(1),643(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",OPHTHALMOLOGY,"₹7,15,000*",Info not available*,0,₹0,420,407(1),429(1),434(1),645(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"Hi-Tech, Bhubaneswar",GENERAL SURGERY,"₹7,15,000*","₹30,000*",0,₹0,767,402(1),402(1),626(1),647(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",OPHTHALMOLOGY,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,639(1),639(1),656(1),659(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"Hi-Tech, Bhubaneswar",OBG,"₹7,15,000*","₹30,000*",0,₹0,767,588(1),588(1),655(1),660(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",PSYCHIATRY,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,658(1),658(1),667(1),670(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"SCB, Cuttack",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,400(1),400(1),474(1),698(2),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"MKCG, Berhampur",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,640(1),640(1),712(1),716(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech Med Coll, Rourkela",OBG,"₹7,15,000*",Info not available*,0,₹0,420,-,-,-,718(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",ORTHOPAEDICS,"₹25,00,000*",Info not available*,0,₹0,420,643(1),-,-,719(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PSYCHIATRY,"₹25,00,000*","₹30,000*",0,₹0,767,701(1),701(1),631(1),732(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"MKCG, Berhampur",TBRD,"₹38,500*","₹70,686",2*,"₹53,30,000*",1140,728(1),-,-,733(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",PHYSIOLOGY,"₹4,50,000*","₹16,000*",0,₹0,767,766(1),766(1),-,-,-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,802(1),802(1),-,-,-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"MKCG, Berhampur",PHYSIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,788(1),-,-,803(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"VIMSAR, Burla",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,674(1),674(1),755(1),819(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"MKCG, Berhampur",SPM,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,616(1),616(1),732(1),827(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,806(1),806(1),-,832(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-PH,Odisha,"VIMSAR, Burla",GENERAL MEDICINE,"₹38,500*","₹70,686",2*,"₹53,30,000*",1071,811(1),-,-,844(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"SCB, Cuttack",BIOCHEMISTRY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,-,-,-,858(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,SC,Odisha,"MKCG, Berhampur",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1140,-,-,-,860(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-ExS,Odisha,"Hi-Tech, Bhubaneswar",GENERAL MEDICINE,"₹7,15,000*","₹30,000*",0,₹0,767,729(1),-,-,868(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-PH,Odisha,"PGIMER&CapitalHosp,Bhubaneswar",PAEDIATRICS,"₹38,500*","₹70,686",2*,"₹53,30,000*",760,-,-,-,889(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech, Bhubaneswar",ORTHOPAEDICS,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,891(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"Hi-Tech, Bhubaneswar",ANAESTHESIOLOGY,"₹7,15,000*","₹30,000*",0,₹0,767,-,-,-,909(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-PH,Odisha,"SCB, Cuttack",OBG,"₹38,500*","₹70,686",2*,"₹53,30,000*",2106,-,-,-,911(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"Acharya Harihar Cancer,Cuttack",PATHOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",-,732(1),732(1),-,919(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"Hi-Tech, Bhubaneswar",MICROBIOLOGY,"₹7,15,000*","₹16,000*",0,₹0,767,713(1),713(1),-,923(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR,Odisha,"VIMSAR, Burla",FORENSIC MEDICINE,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,626(1),626(1),594(1),935(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,UR-GC,Odisha,"VIMSAR, Burla",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",1071,593(1),-,-,940(1),-,-,-,-,-,-,-
+Odisha-Govt Quota,ST,Odisha,"SCB, Cuttack",MICROBIOLOGY,"₹38,500*","₹88,686*",2*,"₹66,30,000*",2106,667(1),667(1),-,969(1),-,-,-,-,-,-,-
+Odisha-Mgmt Quota,UR,Odisha,"Hi-Tech Med Coll, Rourkela",MICROBIOLOGY,"₹10,00,000*",Info not available*,0,₹0,420,-,-,-,976(1),-,-,-,-,-,-,-

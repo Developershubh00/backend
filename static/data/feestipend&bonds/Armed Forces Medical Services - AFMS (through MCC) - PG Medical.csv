@@ -1,0 +1,82 @@
+State,Institute,Course,Quota,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds
+Delhi,"Army R&R, Delhi",ANAESTHESIOLOGY,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Maharashtra,"AFMC, Pune",ANAESTHESIOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Uttar Pradesh,"Command Hospital, Lucknow",ANAESTHESIOLOGY,AFMS,Info not available,"95,000",5,"57,50,000",780
+West Bengal,"Command Hospital, Kolkata",ANAESTHESIOLOGY,AFMS,Info not available,"46,383",5,"57,50,000",760
+Haryana,"Command Hospital, Chandimandir",ANAESTHESIOLOGY,AFMS,Info not available,"95,594",5,"57,50,000",658
+Maharashtra,"INHS, Aswini",ANAESTHESIOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Karnataka,"Command Hospital, Bangalore",ANAESTHESIOLOGY,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",ANATOMY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Karnataka,"Inst of Aero, IAF, Bangaluru",AVIATION MEDICINE,AFMS,Info not available,"45,000",5,"57,50,000",Info Not Available
+Maharashtra,"AFMC, Pune",BIOCHEMISTRY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Uttar Pradesh,"Command Hospital, Lucknow",DERMATOLOGY,AFMS,Info not available,"95,000",5,"57,50,000",780
+Maharashtra,"INHS, Aswini",DERMATOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Karnataka,"Command Hospital, Bangalore",DERMATOLOGY,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",DERMATOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",FORENSIC MEDICINE,AFMS,Info not available,"77,869",5,"57,50,000",1082
+West Bengal,"Command Hospital, Kolkata",GENERAL MEDICINE,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"AFMC, Pune",GENERAL MEDICINE,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Delhi,"Army R&R, Delhi",GENERAL MEDICINE,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Karnataka,"Command Hospital, Bangalore",GENERAL MEDICINE,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"INHS, Aswini",GENERAL MEDICINE,AFMS,Info not available,"77,869",5,"57,50,000",825
+Uttar Pradesh,"Command Hospital, Lucknow",GENERAL MEDICINE,AFMS,Info not available,"95,000",5,"57,50,000",780
+Haryana,"Command Hospital, Chandimandir",GENERAL MEDICINE,AFMS,Info not available,"95,594",5,"57,50,000",658
+Maharashtra,"AFMC, Pune",GERIATRICS,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",HOSPITAL ADMINISTRATION,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",IHBT,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",MICROBIOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Delhi,"Army R&R, Delhi",MICROBIOLOGY,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Delhi,"Army R&R, Delhi",PAEDIATRICS,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+West Bengal,"Command Hospital, Kolkata",PAEDIATRICS,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"INHS, Aswini",PAEDIATRICS,AFMS,Info not available,"77,869",5,"57,50,000",825
+Maharashtra,"AFMC, Pune",PAEDIATRICS,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Uttar Pradesh,"Command Hospital, Lucknow",PAEDIATRICS,AFMS,Info not available,"95,000",5,"57,50,000",780
+Karnataka,"Command Hospital, Bangalore",PAEDIATRICS,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"INHS, Aswini",PATHOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Maharashtra,"AFMC, Pune",PATHOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Karnataka,"Command Hospital, Bangalore",PATHOLOGY,AFMS,Info not available,"45,000",5,"57,50,000",716
+West Bengal,"Command Hospital, Kolkata",PATHOLOGY,AFMS,Info not available,"46,383",5,"57,50,000",760
+Delhi,"Army R&R, Delhi",PATHOLOGY,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Uttar Pradesh,"Command Hospital, Lucknow",PATHOLOGY,AFMS,Info not available,"95,000",5,"57,50,000",780
+Maharashtra,"AFMC, Pune",PHARMACOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",PHYSIOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",PSYCHIATRY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+West Bengal,"Command Hospital, Kolkata",PSYCHIATRY,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"INHS, Aswini",PSYCHIATRY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Delhi,"Army R&R, Delhi",RADIO DIAGNOSIS,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Karnataka,"Command Hospital, Bangalore",RADIO DIAGNOSIS,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",RADIO DIAGNOSIS,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"INHS, Aswini",RADIO DIAGNOSIS,AFMS,Info not available,"77,869",5,"57,50,000",825
+Uttar Pradesh,"Command Hospital, Lucknow",RADIO DIAGNOSIS,AFMS,Info not available,"95,000",5,"57,50,000",780
+West Bengal,"Command Hospital, Kolkata",RADIO DIAGNOSIS,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"AFMC, Pune",SPM,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",SPORTS MEDICINE,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"AFMC, Pune",TBRD,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Karnataka,"Command Hospital, Bangalore",ENT,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",ENT,AFMS,Info not available,"77,869",5,"57,50,000",1082
+West Bengal,"Command Hospital, Kolkata",ENT,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"INHS, Aswini",ENT,AFMS,Info not available,"77,869",5,"57,50,000",825
+Delhi,"Army R&R, Delhi",ENT,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Uttar Pradesh,"Command Hospital, Lucknow",ENT,AFMS,Info not available,"95,000",5,"57,50,000",780
+Haryana,"Command Hospital, Chandimandir",GENERAL SURGERY,AFMS,Info not available,"95,594",5,"57,50,000",658
+Uttar Pradesh,"Command Hospital, Lucknow",GENERAL SURGERY,AFMS,Info not available,"95,000",5,"57,50,000",780
+Maharashtra,"AFMC, Pune",GENERAL SURGERY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+West Bengal,"Command Hospital, Kolkata",GENERAL SURGERY,AFMS,Info not available,"46,383",5,"57,50,000",760
+Delhi,"Army R&R, Delhi",GENERAL SURGERY,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+Maharashtra,"INHS, Aswini",GENERAL SURGERY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Karnataka,"Command Hospital, Bangalore",GENERAL SURGERY,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",OBG,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Maharashtra,"INHS, Aswini",OBG,AFMS,Info not available,"77,869",5,"57,50,000",825
+Delhi,"Army R&R, Delhi",OBG,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+West Bengal,"Command Hospital, Kolkata",OBG,AFMS,Info not available,"46,383",5,"57,50,000",760
+Karnataka,"Command Hospital, Bangalore",OBG,AFMS,Info not available,"45,000",5,"57,50,000",716
+Uttar Pradesh,"Command Hospital, Lucknow",OBG,AFMS,Info not available,"95,000",5,"57,50,000",780
+Delhi,"Army R&R, Delhi",OPHTHALMOLOGY,AFMS,Info not available,"1,17,000",5,"57,50,000",995
+West Bengal,"Command Hospital, Kolkata",OPHTHALMOLOGY,AFMS,Info not available,"46,383",5,"57,50,000",760
+Maharashtra,"INHS, Aswini",OPHTHALMOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",825
+Maharashtra,"AFMC, Pune",OPHTHALMOLOGY,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Haryana,"Command Hospital, Chandimandir",OPHTHALMOLOGY,AFMS,Info not available,"95,594",5,"57,50,000",658
+Karnataka,"Command Hospital, Bangalore",OPHTHALMOLOGY,AFMS,Info not available,"45,000",5,"57,50,000",716
+Maharashtra,"AFMC, Pune",ORTHOPAEDICS,AFMS,Info not available,"77,869",5,"57,50,000",1082
+Uttar Pradesh,"Command Hospital, Lucknow",ORTHOPAEDICS,AFMS,Info not available,"95,000",5,"57,50,000",780
+Maharashtra,"INHS, Aswini",MARINE MEDICINE,AFMS,Info not available,"77,869",5,"57,50,000",825

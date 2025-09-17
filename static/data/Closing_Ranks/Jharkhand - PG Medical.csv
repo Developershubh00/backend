@@ -1,0 +1,140 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2024 1,CR 2024 2,CR 2024 3,CR 2024 4,CR 2024 5
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,13(1),-,53(2),-,32(2),46(1),48(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,63(3),-,68(1),-,62(8),65(2),93(2),-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,81(2),87(1),-,-,-,-,94(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",OPHTHALMOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,89(1),-,-,-,57(1),93(1),102(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,98(4),100(1),-,-,94(1),83(1),115(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",DGO,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,277(1),-,103(1),-,128(1),-,-
+JHKND Govt Quota,BC-II,Jharkhand,"MGM Med Coll, Jamshedpur",OPHTHALMOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,-,145(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",ANAESTHESIOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,163(1),-,-,158(1),-,-
+JHKND Govt Quota,EWS,Jharkhand,"MGM Med Coll, Jamshedpur",ENT,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,-,207(1),-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,182(4),-,-,-,-,-,241(1),-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,-,246(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",PATHOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,237(1),-,-,-,264(1),-,248(1),377(1),105(1)
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,226(1),-,-,-,-,313(1),-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",ENT,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,206(1),-,-,-,-,-,326(1),-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",OPHTHALMOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,228(2),-,-,-,266(2),-,328(1),-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",PATHOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,252(2),252(2),292(1),-,343(5),-,335(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",MICROBIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,326(2),-,-,-,379(2),-,190(1)
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",PHARMACOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,-,385(1),-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",MICROBIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,-,388(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",PHYSIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,347(1),-,-,-,391(1),-,193(1)
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",PHARMACOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,-,392(1),-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",PHARMACOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,210(1),-,348(3),-,349(1),-,395(2),-,180(1)
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",FORENSIC MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,308(1),261(1),175(1),-,396(1),-,192(2)
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",BIOCHEMISTRY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,320(1),-,-,-,397(2),-,187(1)
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",RADIO DIAGNOSIS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,2(2),-,-,-,3(2),6(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,9(1),-,-,-,18(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,12(5),13(3),32(2),-,15(2),20(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,26(1),-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",DERMATOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,27(1),-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,28(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",DERMATOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,5(1),29(1),-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,86(1),-,33(1),-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",ORTHOPAEDICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,53(1),-,-,-,35(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",RADIO DIAGNOSIS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,83(1),-,-,-,39(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,46(3),44(1),-,-,37(3),41(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,67(1),-,-,-,51(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,51(1),-,-,-,52(1),-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"MGM Med Coll, Jamshedpur",DMRD,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,58(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,31(1),45(3),85(2),-,38(2),60(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,63(1),-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,64(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,56(1),63(1),-,-,41(2),66(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",PAEDIATRICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,50(2),-,-,-,53(1),69(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,70(1),-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",ORTHOPAEDICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,71(1),-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,74(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,45(1),76(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"MGM Med Coll, Jamshedpur",OBG,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,86(1),-,-,-,84(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,65(1),-,-,121(1),-,88(1),-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,88(1),-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,86(1),91(1),-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,100(1),-,-,-,96(1),94(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,92(2),100(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",OPHTHALMOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,99(1),113(1),-,-,90(1),102(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,102(1),-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,55(1),-,-,-,-,104(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,111(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",ENT,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,114(2),108(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",OPHTHALMOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,135(1),-,-,-,-,116(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,124(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"MGM Med Coll, Jamshedpur",ANAESTHESIOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,138(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",GENERAL MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,183(2),203(1),-,173(3),-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"MGM Med Coll, Jamshedpur",DCH,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,176(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",ANATOMY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,333(1),-,-,-,-,-,188(1)
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",DERMATOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,116(1),-,-,-,-,191(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",FORENSIC MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,196(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",ORTHOPAEDICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,147(1),-,-,-,206(1),-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",PATHOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,202(3),121(1),230(1),-,159(2),208(2),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,109(1),127(1),160(1),-,214(1),-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",PAEDIATRICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,155(1),-,-,217(1),-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,72(1),-,-,-,154(2),220(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,161(1),-,-,-,220(1),-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,223(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",OPHTHALMOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,224(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,175(1),-,-,-,229(1),-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,-,230(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,123(1),193(1),-,-,233(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,168(1),197(1),-,-,227(2),238(2),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",OPHTHALMOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,258(1),-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",PAEDIATRICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,272(1),-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,208(3),-,244(1),-,248(3),281(1),-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",OPHTHALMOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,281(1),-,-,-,-
+JHKND Govt Quota,UR-PH,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,282(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Shaheed Nirmal Mahto, Dhanbad",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",560,-,-,-,-,-,284(1),-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,213(1),-,264(1),-,-,289(1),-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Rajendra IMS, Ranchi",SPM,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,200(1),238(1),-,293(2),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,265(1),294(1),-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",PATHOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,234(1),-,252(1),-,-,303(1),-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,219(2),-,265(1),-,274(4),307(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",SPM,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,318(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",DGO,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,-,332(1),-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",PATHOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,224(1),-,-,-,335(2),-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",PATHOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,-,-,341(1),-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",PATHOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,264(1),-,-,-,-,354(1),-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",PHYSIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,-,-,361(1),-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",RADIO DIAGNOSIS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,14(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL MEDICINE,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,23(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,28(2),7(1),-,-,-,-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",DERMATOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,29(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",OBG,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,55(1),-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",ORTHOPAEDICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,58(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"MGM Med Coll, Jamshedpur",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,61(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",OBG,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,62(1),-,-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",DCH,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,83(1),-,-,-,-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,88(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,101(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",DMRD,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,57(1),-,109(1),-,-,-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"MGM Med Coll, Jamshedpur",PAEDIATRICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,111(1),-,-,-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"MGM Med Coll, Jamshedpur",GENERAL SURGERY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,92(1),115(1),-,-,-,-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"MGM Med Coll, Jamshedpur",PAEDIATRICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,117(1),-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,84(1),-,125(1),-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"Sadar Hospital, Ranchi",DNBOBG,-,-,-,-,500,-,-,133(1),-,-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",OBG,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,140(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",DERMATOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,174(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,176(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",ORTHOPAEDICS,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,190(1),-,-,-,-,-,-
+JHKND Govt Quota,BC-I-PH,Jharkhand,"Rajendra IMS, Ranchi",PAEDIATRICS,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,207(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",OBG,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,213(1),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",DCH,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,216(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",PATHOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,217(2),-,-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"Rajendra IMS, Ranchi",PHARMACOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,227(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",DMRD,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,229(1),-,-,-,-,-,-,-
+JHKND Govt Quota,BC-I,Jharkhand,"MGM Med Coll, Jamshedpur",PHARMACOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,230(1),-,-,-,-,-,-,-
+JHKND Govt Quota,EWS,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,234(1),-,-,-,-,-,-
+JHKND Govt Quota,UR-PH,Jharkhand,"Rajendra IMS, Ranchi",GENERAL SURGERY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,239(1),-,-,-,-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"MGM Med Coll, Jamshedpur",DCH,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,242(1),-,-,-,-,-,-
+JHKND Govt Quota,UR-PH,Jharkhand,"Rajendra IMS, Ranchi",ENT,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,261(1),-,-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",ANAESTHESIOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,229(1),-,282(1),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"MGM Med Coll, Jamshedpur",PHYSIOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,314(1),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",FORENSIC MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,322(2),-,-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",MICROBIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,324(1),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",ANATOMY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,327(1),-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",ANATOMY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,341(1),-,-,-,-,-,-
+JHKND Govt Quota,BC-II,Jharkhand,"Rajendra IMS, Ranchi",BIOCHEMISTRY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,342(1),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",PHYSIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,353(2),-,-,-,-,-,-
+JHKND Govt Quota,ST,Jharkhand,"Rajendra IMS, Ranchi",SPM,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,277(1),303(1),359(1),-,-,-,-,-
+JHKND Govt Quota,SC,Jharkhand,"Rajendra IMS, Ranchi",FORENSIC MEDICINE,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,-,360(1),-,-,-,-,-
+JHKND Govt Quota,UR-PH,Jharkhand,"Rajendra IMS, Ranchi",ANAESTHESIOLOGY,"₹1,500*","₹96,000*",3*,"₹30,00,000*",1754,-,-,362(1),-,-,-,-,-,-
+JHKND Govt Quota,UR,Jharkhand,"MGM Med Coll, Jamshedpur",PHARMACOLOGY,"₹1,500*","₹54,500",3*,"₹30,00,000*",540,-,-,349(1),363(1),-,-,-,-,-

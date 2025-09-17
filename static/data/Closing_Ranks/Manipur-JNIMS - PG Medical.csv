@@ -1,0 +1,70 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2024 1,CR 2024 2,CR 2024 3
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",TBRD,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,1(1)
+JNIMS-Product,OBC M,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,2(1),-,1(1)
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",SPM,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,91(1),-,-,-,-,-,2(1)
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,12(1),-,3(1)
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,4(1)
+JNIMS-Spons (JNIMS),UR,Manipur,"JNIMS, Imphal",RADIO DIAGNOSIS,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,4(1)
+JNIMS-Spons (JNIMS),OBC M,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,5(1)
+JNIMS-Spons (Common),OBC MP,Manipur,"JNIMS, Imphal",PATHOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,15(1),5(1)
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",0*,₹0*,643,9(1),-,-,-,-,-,6(1)
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",FORENSIC MEDICINE,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,7(1)
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",ORTHOPAEDICS,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,8(1)
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",PSYCHIATRY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,9(1)
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",BIOCHEMISTRY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,-,10(1)
+JNIMS-Product,OBC M,Manipur,"JNIMS, Imphal",ANATOMY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,1(1),1(1),-
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,2(1),-,-,-,1(1),2(1),-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,16(2),-,19(1),-,-,2(2),-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,2(1),-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",ORTHOPAEDICS,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,3(1),-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",0*,₹0*,643,3(2),-,-,-,-,4(2),-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",OPHTHALMOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,4(1),-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",0*,₹0*,643,1(1),-,-,-,-,6(2),-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,19(1),29(1),46(1),-,6(2),-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",ENT,"₹1,00,000","₹50,000",0*,₹0*,643,17(1),-,-,-,-,7(1),-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",SPM,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,7(1),1(1),-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",PATHOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,26(2),42(1),-,-,-,8(1),-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",MICROBIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,8(1),-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",TBRD,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,9(1),-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,9(1),-,-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",DERMATOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,-,-,-,-,10(1),-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",0*,₹0*,643,14(2),15(1),-,-,-,11(2),-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",PAEDIATRICS,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,76(1),-,-,-,11(1),4(1),-
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",SPM,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,12(1),-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,50(1),-,80(1),-,13(1),-,-
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",OPHTHALMOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,13(1),-
+JNIMS-Spons (Common),OBC MP,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,-,-,14(1),-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,104(1),-,-,-,15(2),3(1),-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",PATHOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,144(1),-,16(1),-,-
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",PHYSIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,137(1),17(1),-,-
+JNIMS-Spons (JNIMS),UR,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",0*,₹0*,643,-,1(1),-,-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,1(1),-,-,-,-,-,-
+JNIMS-Spons (JNIMS),UR,Manipur,"JNIMS, Imphal",ORTHOPAEDICS,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,2(1),-,-,-,-
+JNIMS-Product,UR,Manipur,"JNIMS, Imphal",TBRD,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,2(1),-,-,-,-,-,-
+JNIMS-Spons (JNIMS),UR,Manipur,"JNIMS, Imphal",GENERAL MEDICINE,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,3(1),-,-,-,-
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",RADIO DIAGNOSIS,"₹1,00,000","₹50,000",0*,₹0*,643,4(1),-,-,-,-,-,-
+JNIMS-Spons (JNIMS),OBC MP,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,4(1),-,-,-
+JNIMS-Spons (JNIMS),UR,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,5(1),-,-,-,-
+JNIMS-Spons (JNIMS),OBC M,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,6(1),-,-,-
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",ORTHOPAEDICS,"₹1,00,000","₹50,000",0*,₹0*,643,6(1),-,-,-,-,-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",DERMATOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,8(1),-,-,-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",RADIO DIAGNOSIS,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,3(1),9(1),-,-,-,-,-
+JNIMS-Open,OBC MP,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,15(1),-,-,-,-,-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",OPHTHALMOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,18(1),-,-,-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",PSYCHIATRY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,13(1),13(1),20(1),-,-,-,-
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",0*,₹0*,643,13(1),-,21(1),-,-,-,-
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",0*,₹0*,643,21(1),-,22(1),-,-,-,-
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",GENERAL SURGERY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,10(1),25(1),-,27(1),-,-,-
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,29(1),-,-,-,-,-,-
+JNIMS-Spons (Common),ST,Manipur,"JNIMS, Imphal",SPM,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,32(1),-,-,-,-
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",PATHOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,45(1),-,-,-
+JNIMS-Spons (Common),UR,Manipur,"JNIMS, Imphal",MICROBIOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,53(1),-,-,-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",PATHOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,55(1),-,-,-,-,-,-
+JNIMS-Spons (Common),OBC M,Manipur,"JNIMS, Imphal",PHARMACOLOGY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,59(1),-,-,-,-
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",ANAESTHESIOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,36(1),-,41(1),62(1),-,-,-
+JNIMS-Open,SC,Manipur,"JNIMS, Imphal",OBG,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,83(1),-,-,-,-,-,-
+JNIMS-Open,ST,Manipur,"JNIMS, Imphal",OPHTHALMOLOGY,"₹1,00,000","₹50,000",1*,"₹20,00,000*",643,98(1),-,-,-,-,-,-
+JNIMS-Open,OBC M,Manipur,"JNIMS, Imphal",COMMUNITY & FAMILY MEDICINE,-,-,-,-,643,-,107(1),-,-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",BIOCHEMISTRY,"₹1,00,000","₹50,000",0*,₹0*,643,94(1),-,133(1),-,-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",FORENSIC MEDICINE,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,142(1),-,-,-
+JNIMS-Open,UR,Manipur,"JNIMS, Imphal",ANATOMY,"₹1,00,000","₹50,000",0*,₹0*,643,-,-,-,143(1),-,-,-

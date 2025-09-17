@@ -1,0 +1,738 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2023 5,CR 2024 1,CR 2024 2,CR 2024 3,CR 2024 4,CR 2024 5
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,7(1),8(1),-,-,-,8(1),9(1),4(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,39(1),-,-,-,-,35(1),35(1),5(1),60(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,8(1),16(1),51(1),-,-,13(1),13(1),6(1),58(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,14(1),41(1),12(1),44(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",GENERAL MEDICINE,"₹1,60,000*","₹1,05,000*",0,₹0,1062,10(1),28(1),30(1),-,-,9(1),17(1),13(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,31(2),37(2),53(2),-,-,33(1),43(1),14(1),50(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,47(1),47(1),91(1),-,-,53(1),53(1),17(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,37(1),54(1),18(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,55(1),19(1),84(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"AN Magadh, Gaya",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,76(1),76(1),209(1),-,-,57(1),57(1),20(1),250(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,58(2),83(2),82(1),-,-,30(2),46(2),21(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,252(1),-,-,-,-,227(1),-,22(1),299(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Govt Med Coll, Bettiah",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,55(1),55(1),144(1),-,-,67(1),67(1),27(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,99(1),99(1),-,-,-,70(1),70(1),29(1),73(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,61(3),71(2),84(2),2(1),-,66(3),73(3),32(3),94(3),-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,63(1),75(1),88(1),-,-,73(1),75(1),33(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,94(3),103(3),134(3),6(1),-,84(3),79(2),37(1),83(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,77(1),77(1),74(1),-,-,55(1),80(1),38(1),145(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,80(1),80(1),99(1),-,-,81(1),81(1),39(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",PAEDIATRICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,83(1),83(1),40(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,84(1),-,-,-,-,19(1),87(1),42(1),137(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Vardhman IMS, Nalanda",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,91(1),91(1),164(1),-,-,90(1),90(1),43(1),99(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,96(1),112(1),143(1),8(1),-,96(1),96(1),47(1),100(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",TBRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,118(1),89(1),86(1),-,-,99(1),99(1),49(1),103(1),-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,257(1),-,-,-,-,103(1),103(1),51(1),107(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,81(1),85(1),90(1),-,-,32(1),104(1),52(1),108(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,79(2),96(1),-,-,-,59(1),59(1),53(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,57(2),104(2),123(1),-,-,48(2),113(2),56(2),178(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,85(1),93(1),210(1),-,-,87(1),116(1),57(1),120(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,101(1),113(1),196(1),-,-,116(1),111(1),58(1),122(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,117(1),-,-,-,-,80(1),120(1),60(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,125(1),125(1),119(1),-,-,126(1),130(1),63(1),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,166(1),166(1),159(1),-,-,133(1),133(1),66(1),377(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,93(1),135(1),277(1),-,-,104(1),134(1),67(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,97(2),82(1),-,-,-,114(3),136(2),69(2),140(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,158(1),158(1),151(1),-,-,138(1),138(1),71(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,103(1),126(1),218(1),-,-,118(1),118(1),72(1),143(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,164(1),164(1),-,-,-,141(1),141(1),73(1),207(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,155(1),155(1),-,-,-,143(1),143(1),74(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,140(2),165(2),-,-,-,130(2),144(1),75(1),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Nalanda Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,149(1),149(1),141(1),-,-,124(1),145(1),76(1),-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,175(1),175(1),-,-,-,150(1),150(1),77(1),154(1),-
+Bihar Govt Quota,EWS-FEM,Bihar,"Govt Med Coll, Bettiah",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,-,-,-,153(1),153(1),78(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,120(1),120(1),116(1),-,-,105(1),154(1),79(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"AN Magadh, Gaya",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,113(1),141(1),271(1),-,-,145(1),157(1),80(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,170(1),209(1),202(1),-,-,144(1),158(1),81(1),162(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,105(1),-,-,-,-,120(1),160(1),83(1),164(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,168(1),182(1),174(1),-,-,154(1),161(1),84(1),165(1),-
+Bihar Govt Quota,RCG,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,162(1),162(1),155(1),-,-,162(1),162(1),85(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,148(2),200(2),192(2),-,-,134(2),171(2),88(1),175(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,179(1),174(1),91(1),346(1),-
+Bihar Govt Quota,RCG,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,251(1),251(1),241(1),-,-,175(1),175(1),92(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,180(1),180(1),247(1),-,-,176(1),176(1),93(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",ORTHOPAEDICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,114(1),121(1),171(1),-,-,113(1),121(1),95(1),183(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,176(1),176(1),-,-,-,182(1),182(1),98(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,241(1),241(1),231(1),-,-,183(1),183(1),99(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,62(1),130(1),183(1),-,-,49(1),139(1),100(1),188(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,122(1),42(1),138(1),-,-,185(1),185(1),101(1),189(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,209(1),224(1),253(1),-,-,186(1),186(1),102(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,112(1),136(1),128(1),-,-,121(1),179(1),103(1),191(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,143(1),143(1),-,-,-,189(1),189(1),105(1),193(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,174(2),198(2),211(2),-,-,184(2),184(2),106(1),196(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,169(1),204(1),265(1),-,-,193(1),193(1),107(1),197(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Govt Med Coll, Bettiah",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,142(1),185(1),-,-,-,157(1),194(1),108(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,194(1),194(1),-,-,-,196(1),196(1),110(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Sri Krishna, Muzzafarpur",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,165(1),178(1),170(1),-,-,171(1),198(1),111(1),202(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"AN Magadh, Gaya",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,178(1),211(1),214(1),-,-,158(1),199(1),112(1),203(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,199(1),199(1),191(1),-,-,202(1),202(1),115(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Sri Krishna, Muzzafarpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,332(1),333(1),327(1),-,-,215(1),203(1),116(1),419(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,133(1),150(1),193(1),53(1),-,139(1),167(1),117(1),208(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,153(2),190(2),261(1),-,-,205(2),205(2),118(2),209(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,210(1),210(1),122(1),214(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"AN Magadh, Gaya",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,186(1),186(1),235(1),-,-,155(1),164(1),123(1),276(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,109(1),-,-,-,-,98(1),98(1),126(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,179(1),179(1),299(1),17(1),-,-,220(1),130(1),224(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,171(1),171(1),298(1),-,-,161(1),217(1),133(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",PSYCHIATRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,-,227(1),135(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,227(1),228(1),259(1),-,-,236(1),236(1),140(1),240(1),-
+Bihar Govt Quota,RCG,Bihar,"AN Magadh, Gaya",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,256(1),256(1),276(1),-,-,208(1),208(1),141(1),241(1),-
+Bihar Govt Quota,EWS-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,246(1),246(1),147(1),316(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",TBRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,159(1),159(1),148(1),252(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",OBG,"₹1,60,000*","₹1,05,000*",0,₹0,1062,253(1),253(1),-,-,-,214(1),215(1),149(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,253(1),253(1),151(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,288(1),516(1),533(1),-,-,129(1),254(1),152(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"AN Magadh, Gaya",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,273(1),273(1),292(1),-,-,231(1),242(1),159(1),385(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Govt Med Coll, Bettiah",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,285(1),285(1),322(1),-,-,268(1),268(1),161(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,188(1),201(1),371(1),-,-,226(1),226(1),163(1),274(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,187(1),187(1),165(1),277(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",OPHTHALMOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,255(1),255(1),328(1),-,-,198(1),282(1),169(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Darbhanga, Lehriasarai",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,126(1),167(1),354(1),-,-,209(1),209(1),171(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,196(1),196(1),188(1),-,-,222(1),222(1),173(1),380(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,282(1),288(1),174(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,190(2),214(2),266(1),16(1),-,213(2),213(2),176(2),296(2),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,152(1),152(1),-,-,-,263(1),-,177(1),91(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"IGIMS, Patna",TBRD,"₹1,60,000*","₹1,05,000*",0,₹0,1062,98(1),227(1),-,-,-,52(1),224(1),183(1),294(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",TBRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,205(1),231(1),-,-,-,285(1),285(1),185(1),309(1),-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,338(1),338(1),-,-,-,307(1),307(1),186(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,235(1),235(1),187(1),312(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,145(1),-,-,-,-,220(1),249(1),189(1),314(1),-
+Bihar Govt Quota,EWS-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,228(1),267(1),400(1),-,-,312(1),312(1),191(1),444(1),5(1)
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,146(1),146(1),323(1),-,-,199(1),286(1),195(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,302(1),302(1),293(1),-,-,319(1),319(1),198(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Sri Krishna, Muzzafarpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,191(1),191(1),280(1),-,-,243(1),248(1),200(1),326(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"AN Magadh, Gaya",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,201(1),219(1),269(1),-,-,234(1),234(1),201(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,307(1),307(1),335(1),-,-,221(1),221(1),202(1),398(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",TBRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,241(1),241(1),209(1),337(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",RADIATION ONCOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,112(1),255(1),210(1),-,-
+Bihar DNB Seats,UR-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBPAEDIATRICS,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,245(1),245(1),281(1),-,-,338(1),338(1),214(1),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,281(1),281(1),-,-,-,275(1),351(1),223(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,292(1),292(1),238(1),658(1),-
+Bihar DNB Seats,BC-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBPAEDIATRICS,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,275(1),275(1),267(1),-,-,380(1),380(1),242(1),412(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,387(1),246(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,230(1),270(1),380(1),-,-,-,-,249(1),450(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,252(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,370(1),-,-,225(1),323(1),255(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,393(3),412(3),262(3),332(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,316(1),316(1),270(1),438(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,340(2),314(1),540(3),57(1),-,469(2),469(2),273(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",ENT,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,591(1),-,-,445(1),445(1),278(1),702(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,282(1),639(1),-
+Bihar Govt Quota,RCG,Bihar,"Darbhanga, Lehriasarai",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,377(1),377(1),391(1),-,-,372(1),372(1),286(1),460(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,312(1),323(1),422(1),-,-,465(1),465(1),289(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,508(1),508(1),-,-,-,468(1),468(1),290(1),-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Nalanda Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,390(1),390(1),-,-,-,470(1),470(1),291(1),475(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,304(1),341(1),369(1),-,-,249(1),362(1),292(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,292(1),385(1),462(1),63(1),-,482(2),482(2),297(2),487(2),-
+Bihar Govt Quota,EWS-GEN,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,379(1),482(1),-,-,-,345(1),489(1),304(1),495(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,364(1),364(1),-,61(1),-,421(1),491(1),305(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,293(1),293(1),399(1),-,-,402(1),356(1),307(1),-,-
+Bihar Govt Quota,RCG,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,331(1),331(1),-,-,-,351(1),421(1),308(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,354(1),354(1),-,-,-,448(1),506(1),313(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,388(1),-,-,-,-,324(1),324(1),320(1),-,-
+Bihar DNB Seats,BC-GEN,Bihar,"IGIMS, Sheikhpura, Patna",DNBEMERGENCY MEDICINE,"₹1,25,000","₹96,386",Info Not Available,Info not available,1062,-,-,-,-,-,539(1),539(1),329(1),545(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,407(2),420(2),535(2),-,-,547(2),547(2),331(2),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,330(1),330(1),471(1),-,-,498(1),498(1),333(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,447(1),567(1),346(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"AN Magadh, Gaya",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,391(1),391(1),392(1),-,-,491(1),580(1),351(1),587(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,534(1),288(1),-,-,-,654(1),590(1),359(1),-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Darbhanga, Lehriasarai",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,596(1),596(1),363(1),604(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,455(1),-,-,-,-,590(1),597(1),364(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,415(2),438(2),644(3),62(1),-,621(2),621(2),375(2),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,341(1),396(1),397(1),-,-,623(1),623(1),377(1),632(1),-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,410(1),410(1),-,-,-,519(1),519(1),380(1),641(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"AN Magadh, Gaya",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,401(1),470(1),562(1),-,-,552(1),636(1),381(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Govt Med Coll, Bettiah",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,392(1),392(1),410(1),-,-,506(1),644(1),385(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,472(1),534(1),557(1),-,-,597(1),654(1),390(1),-,-
+Bihar DNB Seats,UR-GEN,Bihar,"Sadar Hospital, East Champaran",DCH(NBEMS),"₹1,25,000","₹82,000*",Info Not Available,Info not available,Info Not Available,416(1),481(1),514(1),80(1),-,407(1),-,392(1),965(1),51(1)
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,396(1),-,-,-,-,664(1),664(1),394(1),674(1),-
+Bihar Govt Quota,EWS-FEM,Bihar,"AN Magadh, Gaya",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,399(1),399(1),1760(1),-,-,667(1),667(1),396(1),677(1),-
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,397(1),399(1),680(1),-
+Bihar Govt Quota,BC-FEM,Bihar,"AN Magadh, Gaya",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,462(1),462(1),489(1),-,-,550(1),550(1),405(1),693(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,536(1),-,-,-,-,710(1),710(1),414(1),721(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,581(1),581(1),-,-,-,728(1),717(1),418(1),728(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"AN Magadh, Gaya",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,516(1),614(1),643(1),-,-,663(1),718(1),419(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",PAEDIATRICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,617(1),756(1),432(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,553(1),645(1),677(1),-,-,756(1),759(1),434(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",GENERAL MEDICINE,"₹27,10,000*","₹68,545",0,₹0,610,585(5),580(1),-,-,-,793(5),803(2),436(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",RADIO DIAGNOSIS,"₹36,00,000*","₹68,545",0,₹0,610,514(3),504(2),197(2),66(2),-,653(3),679(1),441(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,599(1),599(1),628(1),-,-,718(1),774(1),442(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",OPHTHALMOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,644(6),739(1),783(1),111(1),-,907(5),1023(2),445(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,828(1),828(1),462(1),841(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,509(1),509(1),525(1),-,-,829(1),829(1),463(1),2099(2),-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,591(1),624(1),655(1),-,-,707(1),707(1),467(1),847(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",DERMATOLOGY,"₹30,00,000*","₹68,545*",0,₹0,794,561(1),561(1),681(1),-,-,609(1),853(1),477(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,618(1),-,-,-,-,931(1),869(1),483(1),883(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",GENERAL MEDICINE,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,932(4),885(3),486(1),-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,986(1),-,-,-,-,887(1),887(1),490(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,671(1),671(1),-,-,-,898(1),898(1),494(1),-,-
+Bihar DNB Seats,EBC-GEN,Bihar,"IGIMS, Sheikhpura, Patna",DNBEMERGENCY MEDICINE,"₹1,25,000","₹96,386",Info Not Available,Info not available,1062,-,-,-,-,-,-,905(2),497(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",DTBCD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,767(1),767(1),813(1),-,-,906(1),906(1),498(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",RADIO DIAGNOSIS,"₹44,50,000*","₹50,000*",0,₹0,650,667(8),667(7),698(5),-,-,831(8),913(8),500(7),1106(1),-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,694(1),726(1),-,-,-,868(1),914(1),501(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",PAEDIATRICS,"₹28,50,000*","₹68,545",0,₹0,610,627(4),640(1),-,-,-,929(4),929(2),506(2),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,660(1),752(1),935(1),-,-,833(1),931(1),507(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",DERMATOLOGY,"₹38,50,000*","₹50,000*",0,₹0,650,676(3),676(3),748(2),73(1),-,899(3),936(2),509(2),1209(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",RADIO DIAGNOSIS,"₹44,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,842(2),986(2),510(2),1431(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,763(2),763(2),-,-,-,962(2),1340(2),519(1),982(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PAEDIATRICS,"₹35,30,000*","₹68,545*",0,₹0,794,829(2),872(1),929(1),-,-,968(2),968(2),524(1),-,-
+Bihar DNB Seats,EBC-GEN,Bihar,"Sadar Hospital, East Champaran",DCH(NBEMS),"₹1,25,000","₹82,000*",Info Not Available,Info not available,Info Not Available,481(1),578(1),734(1),82(1),8(1),772(1),1098(2),532(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,711(2),672(1),703(1),-,-,798(2),980(2),533(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"AN Magadh, Gaya",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,679(1),679(1),711(1),-,-,989(1),989(1),535(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,747(1),-,-,-,-,992(1),992(1),537(1),1016(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ENT,"₹12,00,000*","₹50,000*",0,₹0,650,761(2),-,-,-,-,996(2),996(2),539(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL MEDICINE,"₹25,50,000*","₹60,000",0,₹0,-,791(6),791(5),836(2),85(1),-,943(6),1002(5),543(2),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,902(1),1009(1),546(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ORTHOPAEDICS,"₹26,05,000*","₹68,545",0,₹0,610,651(5),655(2),586(2),65(1),-,1066(5),1035(5),551(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",DERMATOLOGY,"₹38,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,913(1),1015(1),552(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",RADIO DIAGNOSIS,"₹55,00,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,559(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ANAESTHESIOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,781(3),995(1),-,-,-,1071(3),1195(3),563(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL SURGERY,"₹17,50,000*","₹60,000",0,₹0,-,1043(7),1034(3),1107(2),-,-,1170(6),1170(3),573(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",OPHTHALMOLOGY,"₹15,00,000*","₹68,545*",0,₹0,794,958(1),821(1),-,-,-,1086(1),1086(1),574(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1259(1),1259(1),1373(1),-,-,1437(1),-,577(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"AN Magadh, Gaya",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,-,-,578(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",GENERAL MEDICINE,"₹27,75,000*","₹60,000*",0,₹0,-,-,-,-,-,-,965(5),1036(4),579(3),1128(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",GENERAL MEDICINE,"₹31,00,000*","₹50,000*",0,₹0,650,733(13),733(8),772(8),81(3),-,933(13),1011(11),582(7),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,726(1),904(1),965(1),-,-,1122(2),1122(2),589(2),1063(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",RADIATION ONCOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,752(1),615(1),793(1),-,-,686(1),1134(1),592(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PMR,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,564(1),1614(1),598(1),1596(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,832(1),-,-,-,-,1150(1),1150(1),600(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",OPHTHALMOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1212(2),1212(2),602(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",GENERAL MEDICINE,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1243(5),1243(4),608(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Nalanda Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,806(1),806(1),-,-,-,1169(1),1169(1),613(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",ORTHOPAEDICS,"₹21,50,000*","₹60,000",0,₹0,-,917(3),833(2),342(2),119(2),-,1291(3),1291(3),616(2),1335(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",OPHTHALMOLOGY,"₹16,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1205(2),1190(2),619(2),1891(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",OBG,"₹37,00,000*","₹50,000*",0,₹0,650,817(3),824(2),874(2),-,-,1111(6),1192(3),621(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",OBG,"₹40,00,000*","₹68,545*",0,₹0,794,753(1),-,-,-,-,950(2),1197(2),627(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",OBG,"₹38,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1226(3),1226(3),632(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",GENERAL SURGERY,"₹24,00,000*","₹68,545",0,₹0,610,690(6),690(1),349(1),56(1),-,1171(6),1173(5),640(5),1559(1),-
+Bihar DNB Seats,EBC-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBANAESTHESIOLOGY,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,474(1),474(1),623(1),-,-,716(1),556(1),642(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,842(1),613(1),807(1),-,-,1178(1),1336(2),650(1),1292(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",GENERAL SURGERY,"₹23,25,000*","₹68,545*",0,₹0,794,746(3),707(1),-,-,-,1227(3),1238(3),651(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",PAEDIATRICS,"₹25,50,000*","₹60,000",0,₹0,-,979(5),1021(5),1094(3),118(2),5(1),1067(5),1264(5),655(4),1284(2),-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",OPHTHALMOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,1045(2),1053(1),1413(2),276(1),-,1367(3),1117(2),658(2),1955(1),-
+Bihar DNB Seats,SC-GEN,Bihar,"Sadar Hospital, East Champaran",DGO(NBEMS),"₹1,25,000","₹82,000*",Info Not Available,Info not available,Info Not Available,898(1),1013(1),1085(1),-,-,1335(1),1335(1),662(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",ANAESTHESIOLOGY,"₹14,60,000*","₹68,545*",0,₹0,794,995(3),1099(2),1174(1),-,-,1252(2),1302(1),668(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",OBG,"₹37,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1239(3),1316(3),676(3),1577(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1339(1),-,-,1482(1),1482(1),677(1),979(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",PAEDIATRICS,"₹34,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1103(1),1331(1),684(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",PAEDIATRICS,"₹28,50,000*","₹68,545",0,₹0,610,1028(2),1028(2),-,-,-,1333(2),1333(1),686(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,886(1),886(1),945(1),-,-,1257(1),1345(1),691(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",PAEDIATRICS,"₹33,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1219(2),1229(2),693(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",PAEDIATRICS,"₹35,00,000*","₹50,000*",0,₹0,650,1012(6),932(5),918(4),-,-,1172(6),1285(4),720(3),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,970(1),970(1),1044(1),-,-,1336(1),1436(1),731(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",OPHTHALMOLOGY,"₹15,00,000*","₹68,545*",0,₹0,794,1083(1),1083(1),-,-,-,1444(1),1444(1),736(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",RADIO DIAGNOSIS,"₹45,00,000*","₹68,545*",0,₹0,794,871(3),-,-,-,-,1338(4),1280(2),739(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,1123(1),1123(1),1283(1),347(1),-,1727(1),1466(1),741(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1031(2),1076(2),1230(2),-,-,974(1),1471(1),742(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Govt Med Coll, Bettiah",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,1198(1),-,-,-,-,-,-,744(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",ENT,"₹12,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,745(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ANAESTHESIOLOGY,"₹14,00,000*","₹50,000*",0,₹0,650,1120(14),1160(6),1244(5),145(1),-,1483(14),1461(6),750(6),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,994(2),1047(2),1118(2),-,-,1345(1),1479(1),751(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",GENERAL MEDICINE,"₹27,10,000*","₹68,545",0,₹0,610,880(3),894(1),-,-,-,975(3),1396(2),754(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PAEDIATRICS,"₹35,30,000*","₹68,545*",0,₹0,794,1217(3),-,-,-,-,1366(3),1210(1),762(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",ANAESTHESIOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,962(1),-,1555(1),-,-,1572(2),1604(2),765(2),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1013(1),775(1),822(1),-,-,1532(1),1532(1),771(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",OBG,"₹37,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1587(4),1498(4),772(4),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ORTHOPAEDICS,"₹34,00,000*","₹50,000*",0,₹0,650,1093(6),1058(6),1129(3),-,-,1512(6),1512(6),779(3),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",DERMATOLOGY,"₹38,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1469(2),1236(2),790(1),2184(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",GENERAL SURGERY,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1459(4),1568(4),794(3),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",ANAESTHESIOLOGY,"₹11,00,000*","₹60,000",0,₹0,-,1200(7),1294(6),1436(5),163(2),-,1545(7),1555(6),796(4),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Sri Krishna, Muzzafarpur",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,1192(1),1192(1),-,-,-,1573(1),1573(1),798(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1185(1),1281(1),1405(1),-,-,1574(1),1574(1),799(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",OPHTHALMOLOGY,"₹25,00,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,804(3),1850(1),131(1)
+Bihar Govt Quota,BC-FEM,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,1193(1),1592(1),806(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,869(1),1020(1),-,-,-,1282(1),1599(1),810(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",GENERAL SURGERY,"₹28,00,000*","₹50,000*",0,₹0,650,1106(7),1103(5),934(3),-,-,1540(14),1645(11),814(6),1820(2),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",ANAESTHESIOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1601(3),1601(2),820(2),1720(1),-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1005(1),1173(1),1078(1),-,-,1623(1),1623(1),821(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",ANATOMY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,1603(1),-,-,-,-,824(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",ORTHOPAEDICS,"₹25,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1632(3),1632(3),827(3),1337(1),-
+Bihar Govt Quota,BC-FEM,Bihar,"AN Magadh, Gaya",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,462(1),462(1),489(1),-,-,550(1),550(1),405(1),693(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,536(1),-,-,-,-,710(1),710(1),414(1),721(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,581(1),581(1),-,-,-,728(1),717(1),418(1),728(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"AN Magadh, Gaya",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,516(1),614(1),643(1),-,-,663(1),718(1),419(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",PAEDIATRICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,617(1),756(1),432(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,553(1),645(1),677(1),-,-,756(1),759(1),434(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",GENERAL MEDICINE,"₹27,10,000*","₹68,545",0,₹0,610,585(5),580(1),-,-,-,793(5),803(2),436(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",RADIO DIAGNOSIS,"₹36,00,000*","₹68,545",0,₹0,610,514(3),504(2),197(2),66(2),-,653(3),679(1),441(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,599(1),599(1),628(1),-,-,718(1),774(1),442(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",OPHTHALMOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,644(6),739(1),783(1),111(1),-,907(5),1023(2),445(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,828(1),828(1),462(1),841(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,509(1),509(1),525(1),-,-,829(1),829(1),463(1),2099(2),-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,591(1),624(1),655(1),-,-,707(1),707(1),467(1),847(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",DERMATOLOGY,"₹30,00,000*","₹68,545*",0,₹0,794,561(1),561(1),681(1),-,-,609(1),853(1),477(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,618(1),-,-,-,-,931(1),869(1),483(1),883(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",GENERAL MEDICINE,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,932(4),885(3),486(1),-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,986(1),-,-,-,-,887(1),887(1),490(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,671(1),671(1),-,-,-,898(1),898(1),494(1),-,-
+Bihar DNB Seats,EBC-GEN,Bihar,"IGIMS, Sheikhpura, Patna",DNBEMERGENCY MEDICINE,"₹1,25,000","₹96,386",Info Not Available,Info not available,1062,-,-,-,-,-,-,905(2),497(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",DTBCD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,767(1),767(1),813(1),-,-,906(1),906(1),498(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",RADIO DIAGNOSIS,"₹44,50,000*","₹50,000*",0,₹0,650,667(8),667(7),698(5),-,-,831(8),913(8),500(7),1106(1),-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,694(1),726(1),-,-,-,868(1),914(1),501(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",PAEDIATRICS,"₹28,50,000*","₹68,545",0,₹0,610,627(4),640(1),-,-,-,929(4),929(2),506(2),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,660(1),752(1),935(1),-,-,833(1),931(1),507(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",DERMATOLOGY,"₹38,50,000*","₹50,000*",0,₹0,650,676(3),676(3),748(2),73(1),-,899(3),936(2),509(2),1209(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",RADIO DIAGNOSIS,"₹44,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,842(2),986(2),510(2),1431(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,763(2),763(2),-,-,-,962(2),1340(2),519(1),982(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PAEDIATRICS,"₹35,30,000*","₹68,545*",0,₹0,794,829(2),872(1),929(1),-,-,968(2),968(2),524(1),-,-
+Bihar DNB Seats,EBC-GEN,Bihar,"Sadar Hospital, East Champaran",DCH(NBEMS),"₹1,25,000","₹82,000*",Info Not Available,Info not available,Info Not Available,481(1),578(1),734(1),82(1),8(1),772(1),1098(2),532(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,711(2),672(1),703(1),-,-,798(2),980(2),533(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"AN Magadh, Gaya",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,679(1),679(1),711(1),-,-,989(1),989(1),535(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,747(1),-,-,-,-,992(1),992(1),537(1),1016(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ENT,"₹12,00,000*","₹50,000*",0,₹0,650,761(2),-,-,-,-,996(2),996(2),539(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL MEDICINE,"₹25,50,000*","₹60,000",0,₹0,-,791(6),791(5),836(2),85(1),-,943(6),1002(5),543(2),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,902(1),1009(1),546(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ORTHOPAEDICS,"₹26,05,000*","₹68,545",0,₹0,610,651(5),655(2),586(2),65(1),-,1066(5),1035(5),551(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",DERMATOLOGY,"₹38,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,913(1),1015(1),552(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",RADIO DIAGNOSIS,"₹55,00,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,559(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ANAESTHESIOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,781(3),995(1),-,-,-,1071(3),1195(3),563(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL SURGERY,"₹17,50,000*","₹60,000",0,₹0,-,1043(7),1034(3),1107(2),-,-,1170(6),1170(3),573(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",OPHTHALMOLOGY,"₹15,00,000*","₹68,545*",0,₹0,794,958(1),821(1),-,-,-,1086(1),1086(1),574(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1259(1),1259(1),1373(1),-,-,1437(1),-,577(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"AN Magadh, Gaya",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,-,-,578(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",GENERAL MEDICINE,"₹27,75,000*","₹60,000*",0,₹0,-,-,-,-,-,-,965(5),1036(4),579(3),1128(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",GENERAL MEDICINE,"₹31,00,000*","₹50,000*",0,₹0,650,733(13),733(8),772(8),81(3),-,933(13),1011(11),582(7),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,726(1),904(1),965(1),-,-,1122(2),1122(2),589(2),1063(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",RADIATION ONCOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,752(1),615(1),793(1),-,-,686(1),1134(1),592(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PMR,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,564(1),1614(1),598(1),1596(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,832(1),-,-,-,-,1150(1),1150(1),600(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",OPHTHALMOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1212(2),1212(2),602(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",GENERAL MEDICINE,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1243(5),1243(4),608(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Nalanda Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,806(1),806(1),-,-,-,1169(1),1169(1),613(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",ORTHOPAEDICS,"₹21,50,000*","₹60,000",0,₹0,-,917(3),833(2),342(2),119(2),-,1291(3),1291(3),616(2),1335(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",OPHTHALMOLOGY,"₹16,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1205(2),1190(2),619(2),1891(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",OBG,"₹37,00,000*","₹50,000*",0,₹0,650,817(3),824(2),874(2),-,-,1111(6),1192(3),621(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",OBG,"₹40,00,000*","₹68,545*",0,₹0,794,753(1),-,-,-,-,950(2),1197(2),627(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",OBG,"₹38,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1226(3),1226(3),632(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",GENERAL SURGERY,"₹24,00,000*","₹68,545",0,₹0,610,690(6),690(1),349(1),56(1),-,1171(6),1173(5),640(5),1559(1),-
+Bihar DNB Seats,EBC-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBANAESTHESIOLOGY,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,474(1),474(1),623(1),-,-,716(1),556(1),642(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,842(1),613(1),807(1),-,-,1178(1),1336(2),650(1),1292(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",GENERAL SURGERY,"₹23,25,000*","₹68,545*",0,₹0,794,746(3),707(1),-,-,-,1227(3),1238(3),651(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",PAEDIATRICS,"₹25,50,000*","₹60,000",0,₹0,-,979(5),1021(5),1094(3),118(2),5(1),1067(5),1264(5),655(4),1284(2),-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",OPHTHALMOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,1045(2),1053(1),1413(2),276(1),-,1367(3),1117(2),658(2),1955(1),-
+Bihar DNB Seats,SC-GEN,Bihar,"Sadar Hospital, East Champaran",DGO(NBEMS),"₹1,25,000","₹82,000*",Info Not Available,Info not available,Info Not Available,898(1),1013(1),1085(1),-,-,1335(1),1335(1),662(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",ANAESTHESIOLOGY,"₹14,60,000*","₹68,545*",0,₹0,794,995(3),1099(2),1174(1),-,-,1252(2),1302(1),668(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",OBG,"₹37,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1239(3),1316(3),676(3),1577(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1339(1),-,-,1482(1),1482(1),677(1),979(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",PAEDIATRICS,"₹34,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1103(1),1331(1),684(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",PAEDIATRICS,"₹28,50,000*","₹68,545",0,₹0,610,1028(2),1028(2),-,-,-,1333(2),1333(1),686(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,886(1),886(1),945(1),-,-,1257(1),1345(1),691(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",PAEDIATRICS,"₹33,50,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1219(2),1229(2),693(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",PAEDIATRICS,"₹35,00,000*","₹50,000*",0,₹0,650,1012(6),932(5),918(4),-,-,1172(6),1285(4),720(3),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,970(1),970(1),1044(1),-,-,1336(1),1436(1),731(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",OPHTHALMOLOGY,"₹15,00,000*","₹68,545*",0,₹0,794,1083(1),1083(1),-,-,-,1444(1),1444(1),736(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",RADIO DIAGNOSIS,"₹45,00,000*","₹68,545*",0,₹0,794,871(3),-,-,-,-,1338(4),1280(2),739(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,1123(1),1123(1),1283(1),347(1),-,1727(1),1466(1),741(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1031(2),1076(2),1230(2),-,-,974(1),1471(1),742(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Govt Med Coll, Bettiah",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,1198(1),-,-,-,-,-,-,744(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",ENT,"₹12,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,745(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ANAESTHESIOLOGY,"₹14,00,000*","₹50,000*",0,₹0,650,1120(14),1160(6),1244(5),145(1),-,1483(14),1461(6),750(6),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,994(2),1047(2),1118(2),-,-,1345(1),1479(1),751(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",GENERAL MEDICINE,"₹27,10,000*","₹68,545",0,₹0,610,880(3),894(1),-,-,-,975(3),1396(2),754(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PAEDIATRICS,"₹35,30,000*","₹68,545*",0,₹0,794,1217(3),-,-,-,-,1366(3),1210(1),762(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",ANAESTHESIOLOGY,"₹13,40,000*","₹68,545",0,₹0,610,962(1),-,1555(1),-,-,1572(2),1604(2),765(2),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1013(1),775(1),822(1),-,-,1532(1),1532(1),771(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",OBG,"₹37,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1587(4),1498(4),772(4),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ORTHOPAEDICS,"₹34,00,000*","₹50,000*",0,₹0,650,1093(6),1058(6),1129(3),-,-,1512(6),1512(6),779(3),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",DERMATOLOGY,"₹38,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1469(2),1236(2),790(1),2184(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",GENERAL SURGERY,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1459(4),1568(4),794(3),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",ANAESTHESIOLOGY,"₹11,00,000*","₹60,000",0,₹0,-,1200(7),1294(6),1436(5),163(2),-,1545(7),1555(6),796(4),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Sri Krishna, Muzzafarpur",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,1192(1),1192(1),-,-,-,1573(1),1573(1),798(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1185(1),1281(1),1405(1),-,-,1574(1),1574(1),799(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",OPHTHALMOLOGY,"₹25,00,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,804(3),1850(1),131(1)
+Bihar Govt Quota,BC-FEM,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,1193(1),1592(1),806(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,869(1),1020(1),-,-,-,1282(1),1599(1),810(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",GENERAL SURGERY,"₹28,00,000*","₹50,000*",0,₹0,650,1106(7),1103(5),934(3),-,-,1540(14),1645(11),814(6),1820(2),-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",ANAESTHESIOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1601(3),1601(2),820(2),1720(1),-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1005(1),1173(1),1078(1),-,-,1623(1),1623(1),821(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",ANATOMY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,1603(1),-,-,-,-,824(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",ORTHOPAEDICS,"₹25,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1632(3),1632(3),827(3),1337(1),-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",ANAESTHESIOLOGY,"₹14,60,000*","₹68,545*",0,₹0,794,1064(3),1065(2),1138(2),-,-,1879(4),1980(2),834(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",ORTHOPAEDICS,"₹25,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1327(2),1406(2),835(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",ORTHOPAEDICS,"₹35,00,000*","₹68,545*",0,₹0,794,990(1),931(1),1001(1),-,-,1269(2),1525(2),843(2),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,1248(1),1248(1),1354(1),-,-,1681(1),1681(1),850(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1691(1),1691(1),857(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",GENERAL SURGERY,"₹29,25,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1597(6),1714(5),859(5),1843(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",PMR,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,877(1),877(1),980(1),-,-,1374(1),1713(1),864(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,1204(1),1204(1),-,-,-,1719(1),1719(1),872(1),-,-
+Bihar Govt Quota,ST-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,873(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",ANAESTHESIOLOGY,"₹19,25,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1654(5),1704(5),877(5),1801(2),112(1)
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",ENT,"₹20,00,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,887(3),1947(2),123(1)
+Bihar Govt Quota,BC-FEM,Bihar,"IGIMS, Patna",MICROBIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,929(2),1031(2),1104(1),-,-,1755(1),1755(1),891(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",OBG,"₹55,95,000*","₹50,000*",0,₹0,650,1205(1),-,-,-,-,1934(2),1838(1),906(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",GENERAL MEDICINE,"₹37,99,000*","₹68,545",0,₹0,610,1223(2),-,-,-,-,1194(2),1671(1),907(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",RADIO DIAGNOSIS,"₹67,64,000*","₹50,000*",0,₹0,650,1193(1),-,983(1),-,-,1515(2),1758(2),915(2),2091(1),86(1)
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",RADIO DIAGNOSIS,"₹73,98,000*","₹68,545*",0,₹0,794,1274(1),941(1),-,-,-,1758(2),1809(2),926(1),2218(1),150(1)
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1266(1),1312(2),1649(2),-,-,1818(2),1818(2),933(2),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",DERMATOLOGY,"₹47,29,000*","₹68,545*",0,₹0,794,1143(1),-,1204(1),-,-,2058(1),-,935(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",PAEDIATRICS,"₹45,93,000*","₹68,545",0,₹0,610,1081(1),-,774(1),127(1),-,1631(1),1919(1),936(1),2237(1),175(1)
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",PATHOLOGY,"₹3,00,000*","₹68,545*",0,₹0,610,1214(2),1098(2),1611(4),294(1),-,1655(6),1739(3),950(2),-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",GENERAL MEDICINE,"₹37,58,000*","₹55,000",0,₹0,-,-,-,-,-,-,1826(2),1871(2),967(2),1928(1),-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",OBG,"₹50,10,000*","₹55,000",0,₹0,-,-,-,-,-,-,1882(1),-,972(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",GENERAL SURGERY,"₹23,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1884(7),1884(7),973(4),1663(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,980(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,2118(2),-,-,-,826(1),986(1),1999(1),-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",PAEDIATRICS,"₹34,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1457(2),1906(2),990(2),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",PAEDIATRICS,"₹46,63,000*","₹68,545*",0,₹0,794,-,-,1430(1),-,-,1973(1),1910(1),992(1),2281(1),169(1)
+Bihar Govt Quota,SC-FEM,Bihar,"Sri Krishna, Muzzafarpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,1173(1),1250(1),1357(1),-,-,1718(1),1917(1),999(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",RADIO DIAGNOSIS,"₹1,07,72,000*","₹60,000",0,₹0,-,-,-,-,-,-,-,-,1001(1),2023(1),-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",ORTHOPAEDICS,"₹35,00,000*","₹68,545*",0,₹0,794,1061(2),1093(2),-,-,-,2090(4),1926(1),1003(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1154(1),1271(1),1344(1),303(1),-,1454(1),1454(1),1004(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",DPMR,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1953(1),1953(1),1018(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",PATHOLOGY,"₹5,00,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1957(4),1957(3),1020(2),-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",GENERAL MEDICINE,"₹46,34,000*","₹50,000*",0,₹0,650,1141(1),-,1151(2),-,-,1590(3),1534(1),1027(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",OBG,"₹52,19,000*","₹68,545",0,₹0,610,1321(3),-,653(1),133(1),-,2021(3),2046(3),1031(2),-,-
+Bihar Govt Quota,BC Service-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1041(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",ORTHOPAEDICS,"₹45,93,000*","₹68,545",0,₹0,610,-,-,773(2),169(2),-,1933(2),1995(2),1042(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Madhubani Med Coll, Madhubani",PATHOLOGY,"₹7,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1922(1),2005(2),1046(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",OBG,"₹65,63,000*","₹60,000",0,₹0,-,1324(1),-,1277(2),240(2),-,-,-,1047(2),2464(1),224(1)
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",PATHOLOGY,"₹3,00,000*","₹68,545*",0,₹0,610,-,-,2075(2),617(1),-,2015(2),2015(2),1053(2),2468(2),-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",PAEDIATRICS,"₹84,34,000*","₹60,000*",0,₹0,-,-,-,-,-,-,2020(1),2020(1),1055(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",ORTHOPAEDICS,"₹47,56,000*","₹68,545*",0,₹0,794,-,-,1559(1),-,-,-,1986(1),1058(2),2465(1),-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",BIOCHEMISTRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,2024(1),2024(1),1059(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,1490(1),-,-,2034(1),2034(1),1065(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",BIOCHEMISTRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1271(1),-,1606(1),312(1),-,1917(1),-,1068(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",GENERAL SURGERY,"₹36,99,000*","₹68,545*",0,₹0,794,-,-,1427(1),-,-,1738(1),-,1069(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,1072(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",PHARMACOLOGY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,2127(2),-,-,2086(1),-,1076(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",OBG,"₹52,85,000*","₹68,545*",0,₹0,794,1197(1),-,1099(1),-,-,1838(1),-,1081(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",RADIO DIAGNOSIS,"₹1,00,20,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1797(1),2042(1),1083(1),2440(1),233(1)
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",OPHTHALMOLOGY,"₹37,58,000*","₹60,000*",0,₹0,-,-,-,-,-,-,2025(1),-,1088(1),2405(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1067(1),397(1),-,2051(1),2051(1),1094(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",PAEDIATRICS,"₹45,93,000*","₹55,000",0,₹0,-,-,-,-,-,-,2029(1),2053(1),1098(1),2280(1),185(1)
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",ORTHOPAEDICS,"₹43,42,000*","₹55,000",0,₹0,-,-,-,-,-,-,2023(1),2023(1),1106(1),2271(1),-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",GENERAL SURGERY,"₹37,99,000*","₹68,545",0,₹0,610,-,-,1491(1),131(1),-,1450(1),-,1108(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",GENERAL SURGERY,"₹42,17,000*","₹50,000*",0,₹0,650,1245(1),-,-,-,-,2017(1),-,1111(1),2304(1),160(1)
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",PATHOLOGY,"₹9,80,000*","₹60,000",0,₹0,-,-,-,-,-,-,1959(1),2097(2),1115(3),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",MICROBIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1272(1),1272(1),1387(1),-,-,1998(2),2065(1),1123(1),2219(1),-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",ANAESTHESIOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,2056(4),2056(2),1131(4),2065(1),-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",ANAESTHESIOLOGY,"₹21,29,000*","₹68,545",0,₹0,610,-,-,1683(1),-,-,1995(1),-,1142(1),2390(1),140(1)
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1148(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PATHOLOGY,"₹5,00,000*","₹68,545*",0,₹0,794,-,-,1619(2),-,-,1539(1),-,1149(1),-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",MICROBIOLOGY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,-,-,-,-,-,1151(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",GENERAL SURGERY,"₹37,58,000*","₹55,000",0,₹0,-,-,-,-,-,-,2094(1),-,1154(2),-,-
+Bihar Govt Quota,UR Service-GEN,Bihar,"Patna Med Coll, Patna",DTBCD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1567(1),-,1167(1),-,-
+Bihar Govt Quota,DQ-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1171(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL SURGERY,Info not available*,"₹60,000",0,₹0,-,-,-,-,-,-,-,-,1174(1),2347(1),-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",ENT,"₹12,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,1180(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",ANAESTHESIOLOGY,"₹19,29,000*","₹68,545*",0,₹0,794,-,-,1618(1),-,-,-,-,1193(1),-,-
+Bihar Govt Quota,RCG,Bihar,"Nalanda Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,1748(1),-,-,2122(2),2122(1),1195(1),2640(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1208(1),-,105(1)
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",ANAESTHESIOLOGY,"₹21,29,000*","₹50,000*",0,₹0,650,-,-,1734(2),-,-,2080(1),-,1210(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",SPM,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,1828(2),439(1),-,-,-,1211(2),2188(1),-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",OBG,"₹97,70,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1212(1),2282(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,2073(1),-,1217(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",GENERAL SURGERY,"₹45,93,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1218(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,1105(1),1180(1),-,-,1893(1),1893(1),1226(2),2485(1),-
+Bihar Govt Quota,BC-GEN,Bihar,"AN Magadh, Gaya",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,-,-,1228(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",ENT,"₹18,37,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,1230(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,914(1),914(1),1470(1),-,-,-,-,1262(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,1264(1),2402(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1265(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,432(1),-,-,-,1274(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,483(2),-,-,-,1283(2),2421(2),-
+Bihar Govt Quota,ST-FEM,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,579(1),1216(1),-,-,-,1245(1),-,1290(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"AN Magadh, Gaya",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,1601(1),-,-,-,-,1295(1),2434(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",PATHOLOGY,"₹11,00,000*","₹50,000*",0,₹0,650,1314(2),1239(1),1750(11),-,-,2109(4),2109(4),1307(10),2375(4),-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",MICROBIOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,1897(1),-,-,-,-,1317(1),2831(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"AN Magadh, Gaya",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,793(1),793(1),-,-,-,2084(1),-,1323(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1023(1),-,-,-,-,2134(1),-,1326(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",ANAESTHESIOLOGY,"₹45,93,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1340(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,1924(1),-,1342(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"AN Magadh, Gaya",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,-,-,1349(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,2004(1),-,-,-,-,1388(1),-,-
+Bihar Govt Quota,DQ-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,1988(1),-,1399(1),2764(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1400(1),2769(2),321(1)
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,1401(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1423(1),-,-
+Bihar Govt Quota,SC Service-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,2093(1),2093(1),1425(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,307(1),-,-,-,1429(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",SPM,"₹5,00,000*","₹68,545*",0,₹0,794,-,-,1806(1),561(1),-,-,-,1434(2),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1671(1),423(1),-,1730(1),-,1440(1),2724(1),-
+Bihar Govt Quota,UR-GEN,Bihar,"Vardhman IMS, Nalanda",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,-,-,-,-,-,-,1443(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"AN Magadh, Gaya",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,345(1),-,-,-,1456(1),-,246(1)
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",SPM,"₹5,00,000*","₹68,545*",0,₹0,794,-,-,1912(2),675(1),-,-,-,1464(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,1839(1),-,-,2124(1),2124(1),1471(1),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,2038(1),-,1474(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,1479(1),-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1796(1),-,-,-,-,1490(1),-,-
+Bihar Govt Quota,ST-GEN,Bihar,"Darbhanga, Lehriasarai",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,2530(1),-,-,-,-,1493(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Vardhman IMS, Nalanda",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,1333(1),1464(1),-,-,-,-,1494(1),2703(1),-
+Bihar Govt Quota,RCG,Bihar,"Jawaharlal Nehru, Bhagalpur",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,1496(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",MICROBIOLOGY,"₹2,00,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1499(4),2811(3),-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1333(1),-,2006(1),-,-,-,-,1513(1),2778(1),-
+Bihar Govt Quota,EWS-FEM,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1522(1),-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1932(1),411(1),89(1),-,-,1524(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,1525(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1526(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1535(1),2680(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,879(1),-,1542(1),-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,-,-,2001(1),523(1),142(1),-,-,1548(1),-,347(1)
+Bihar Govt Quota,BC-FEM,Bihar,"Darbhanga, Lehriasarai",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1978(1),-,-,-,-,1567(1),-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Govt Med Coll, Bettiah",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,1621(1),-,-,-,-,1569(1),2714(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",PHARMACOLOGY,"₹2,00,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1578(4),2723(2),-
+Bihar Govt Quota,DQ-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,-,-,1582(1),-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",PATHOLOGY,"₹12,53,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,1593(1),2805(1),322(1)
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1605(1),-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,1614(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",PHYSIOLOGY,"₹2,00,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,1625(2),-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",PATHOLOGY,"₹7,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,1626(3),2648(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1632(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PHARMACOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,1958(1),-,-,-,-,1633(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Sri Krishna, Muzzafarpur",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,-,-,2480(1),-,-,-,-,1637(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",PHYSIOLOGY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,2198(2),-,-,-,-,1640(2),-,-
+Bihar Govt Quota,DQ-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,1648(1),-,-
+Bihar Govt Quota,RCG,Bihar,"Darbhanga, Lehriasarai",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1651(1),-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Vardhman IMS, Nalanda",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,-,2486(1),-,-,-,-,1665(1),-,-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1666(1),-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",MICROBIOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,1942(1),-,-,-,-,1672(1),-,-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1924(1),-,-,-,-,1674(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",MICROBIOLOGY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,2112(5),486(1),-,-,-,1684(2),-,361(3)
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,171(1),-,-,1688(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",MICROBIOLOGY,"₹1,00,000*","₹50,000*",0,₹0,650,1101(1),-,1882(3),-,-,-,-,1689(4),-,319(1)
+Bihar Govt Quota,RCG,Bihar,"Darbhanga, Lehriasarai",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1703(1),-,-,-,-,1694(2),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",PHARMACOLOGY,"₹1,00,000*","₹50,000*",0,₹0,650,-,-,2103(4),489(2),121(1),-,-,1701(1),2525(1),358(2)
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,527(1),-,-,-,1702(1),2859(1),-
+Bihar Govt Quota,RCG,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,1704(1),-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",BIOCHEMISTRY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,1995(1),-,-,-,-,1715(1),-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,1722(1),-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Nalanda Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,1728(1),-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",RADIO DIAGNOSIS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1(1),-,-,-,-,5(1),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",RADIO DIAGNOSIS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,11(1),-,-,-,-,7(1),14(1),-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"IGIMS, Patna",GENERAL MEDICINE,"₹1,60,000*","₹1,05,000*",0,₹0,1062,18(1),-,-,-,-,18(1),18(1),-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,25(2),26(1),-,-,-,29(2),29(1),-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,35(1),35(1),-,-,-,36(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",GENERAL MEDICINE,"₹1,60,000*","₹1,05,000*",0,₹0,1062,24(1),-,-,-,-,38(1),38(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,27(1),-,-,-,-,44(1),-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",DERMATOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,13(1),33(1),73(1),-,-,24(1),52(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,78(1),78(1),75(1),-,-,56(1),56(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,213(1),-,-,-,-,78(1),-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,95(1),114(1),110(1),-,-,85(1),85(1),-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,124(1),-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,102(3),102(2),98(1),-,-,123(3),126(2),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,128(1),-,-,-,-,127(1),127(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,132(1),-,-,-,-,146(1),-,-,-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Darbhanga, Lehriasarai",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,131(1),-,-,-,-,94(1),147(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,59(1),-,-,-,-,149(1),-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,92(1),-,-,-,-,152(1),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,137(1),-,-,-,-,156(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,136(1),154(1),190(1),-,-,166(1),166(1),-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,233(1),284(2),366(1),54(2),-,-,-,-,215(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"IGIMS, Patna",OBG,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,232(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,198(1),223(1),275(1),-,-,233(1),243(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,247(1),247(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",OPHTHALMOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,264(1),-,-,-,-,300(1),300(1),-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,429(1),-,-,-,-,306(1),306(1),-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Vardhman IMS, Nalanda",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,-,-,526(1),-,-,-,-,-,313(1)
+Bihar DNB Seats,UR-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBFORENSIC MEDICINE,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,-,-,-,-,77(1),-,-,-,-,331(1)
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,240(1),240(1),-,-,-,331(1),331(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PHARMACOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,1804(2),-,-,-,-,-,-,348(2)
+Bihar Govt Quota,BC-FEM,Bihar,"IGIMS, Patna",ENT,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,369(1),369(1),-,-,-
+Bihar DNB Seats,SC-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBBIOCHEMISTRY,-,-,-,-,610,-,-,2073(1),601(1),152(1),-,-,-,-,375(1)
+Bihar Govt Quota,SC-GEN,Bihar,"Govt Med Coll, Bettiah",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,2065(1),535(1),146(1),-,-,-,-,377(1)
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,377(1),377(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",BIOCHEMISTRY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,1968(3),-,-,-,-,-,-,378(3)
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PHYSIOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,2205(1),546(1),-,-,-,-,-,381(2)
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",PHYSIOLOGY,"₹50,000*","₹50,000*",0,₹0,650,-,-,1817(2),551(1),-,-,-,-,-,383(2)
+Bihar Govt Quota,SC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,-,-,-,-,-,388(1)
+Bihar Priv-Open,UR-GEN,Bihar,"Netaji Subhas Med Coll, Bihta",ANATOMY,"₹2,00,000*","₹60,000*",0,₹0,-,-,-,-,-,-,-,-,-,-,393(3)
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,426(1),-,-,-,-,394(1),394(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,446(1),446(1),-,-,-,395(1),395(1),-,-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,318(1),348(1),1726(1),-,-,396(1),396(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",BIOCHEMISTRY,"₹50,000*","₹50,000*",0,₹0,650,-,-,2142(3),530(1),-,-,-,-,-,399(3)
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",DMICRO,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,-,-,405(1)
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,471(1),-,-,-,-,451(1),-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",DERMATOLOGY,"₹28,50,000*","₹68,545",0,₹0,610,531(2),368(1),246(1),72(1),-,460(2),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,472(1),472(1),-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,371(1),-,-,-,-,494(1),494(1),-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,385(1),404(1),526(1),-,-,510(1),510(1),-,-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"IGIMS, Patna",PSYCHIATRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,786(1),-,-,520(1),520(1),-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",DERMATOLOGY,"₹28,50,000*","₹68,545",0,₹0,610,839(1),839(1),-,-,-,538(1),-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,439(1),-,-,-,-,543(1),-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,588(1),588(1),616(1),-,-,546(1),546(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,557(2),557(1),-,-,-,-,-,-,553(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",PSYCHIATRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,554(1),-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,-,558(1),-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,551(1),551(1),-,-,-,612(1),612(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,627(1),627(1),-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,92(1),-,-,-,-,682(1),-
+Bihar Govt Quota,SC-FEM,Bihar,"IGIMS, Patna",GENERAL MEDICINE,"₹1,60,000*","₹1,05,000*",0,₹0,1062,347(1),347(1),-,-,-,688(1),-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,571(1),571(1),600(1),-,-,689(1),689(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,395(1),-,-,-,-,691(1),-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",RADIO DIAGNOSIS,"₹45,00,000*","₹68,545*",0,₹0,794,556(2),556(2),590(2),-,-,695(1),695(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,363(1),-,-,-,-,697(1),-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,712(1),712(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,545(1),553(1),581(1),-,-,746(1),-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",GENERAL MEDICINE,"₹23,25,000*","₹68,545*",0,₹0,794,598(5),638(1),629(1),-,-,748(4),533(2),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,713(1),713(1),-,-,-,758(1),758(1),-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",RADIO DIAGNOSIS,"₹36,00,000*","₹68,545",0,₹0,610,566(1),522(1),-,-,-,544(1),782(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,833(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ENT,"₹8,50,000*","₹68,545",0,₹0,610,714(2),-,-,-,-,874(3),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,537(1),537(1),963(2),-,-,740(2),902(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",ENT,"₹11,00,000*","₹68,545*",0,₹0,794,-,-,-,-,-,920(1),-,-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",GENERAL MEDICINE,"₹23,25,000*","₹68,545*",0,₹0,794,816(7),576(1),-,-,-,990(8),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",PMR,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,784(1),1031(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",OBG,"₹36,10,000*","₹68,545",0,₹0,610,718(4),804(2),624(1),-,-,810(4),1053(3),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",OPHTHALMOLOGY,"₹14,00,000*","₹50,000*",0,₹0,650,800(3),-,-,-,-,1023(3),1091(2),-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",DERMATOLOGY,"₹30,00,000*","₹68,545*",0,₹0,794,964(2),980(1),-,-,-,1124(2),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",SPM,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,888(1),-,-,1138(1),-,-,-,-
+Bihar Govt Quota,EBC Service-GEN,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1231(1),-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Lord Buddha Koshi Med, Saharsa",OBG,"₹33,00,000*","₹60,000",0,₹0,-,859(2),855(1),910(1),-,-,1233(2),1058(1),-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,1234(1),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1247(1),1247(1),-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",GENERAL SURGERY,"₹23,25,000*","₹68,545*",0,₹0,794,942(4),1052(2),886(1),152(1),-,1375(4),-,-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Katihar Med Coll, Katihar",GENERAL MEDICINE,"₹36,99,000*","₹68,545*",0,₹0,794,1050(2),-,522(1),129(1),-,1409(3),1409(2),-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",ORTHOPAEDICS,"₹26,05,000*","₹68,545",0,₹0,610,1196(3),1308(2),473(1),193(1),-,1416(3),1255(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"IGIMS, Patna",SPM,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1040(1),1040(1),1386(1),-,-,1419(1),1419(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",RADIO DIAGNOSIS,"₹62,63,000*","₹68,545",0,₹0,610,1091(2),1218(2),-,-,-,1402(2),1431(1),-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",OBG,"₹40,00,000*","₹68,545*",0,₹0,794,1179(2),1179(2),984(2),223(1),-,1448(2),1448(1),-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PSYCHIATRY,"₹15,10,000*","₹68,545*",0,₹0,794,-,-,-,-,-,1488(1),-,-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",GENERAL SURGERY,"₹24,00,000*","₹68,545",0,₹0,610,1175(3),-,668(1),157(1),-,1422(3),1566(3),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"IGIMS, Patna",PHARMACOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,-,1603(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1140(1),1140(1),-,-,-,1471(1),1648(1),-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"AN Magadh, Gaya",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,1250(1),1303(1),1455(1),232(1),-,1683(1),1683(1),-,-,-
+Bihar Priv-Minority,MM,Bihar,"Madhubani Med Coll, Madhubani",OPHTHALMOLOGY,"₹15,00,000*","₹55,000",0,₹0,-,-,-,-,-,-,1693(1),1693(1),-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",ENT,"₹8,50,000*","₹68,545",0,₹0,610,1053(2),1008(1),1401(2),-,-,1566(1),1697(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",GENERAL MEDICINE,"₹50,77,000*","₹60,000",0,₹0,-,1109(1),-,1214(1),-,-,1698(1),1698(1),-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PATHOLOGY,"₹5,00,000*","₹68,545*",0,₹0,794,1298(2),1133(1),-,-,-,1708(2),-,-,-,-
+Bihar Priv-Minority,SM,Bihar,"MGM Med Coll, Kishanganj",OBG,"₹36,10,000*","₹68,545",0,₹0,610,857(3),-,326(1),248(1),-,1710(3),1661(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1264(1),-,-,-,-,1709(1),1779(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",DERMATOLOGY,"₹50,52,000*","₹68,545",0,₹0,610,-,-,647(2),143(2),-,1801(2),-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1315(1),1315(1),-,-,-,-,1812(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"MGM Med Coll, Kishanganj",OPHTHALMOLOGY,"₹22,13,000*","₹68,545",0,₹0,610,-,878(1),1402(1),-,-,1855(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"AN Magadh, Gaya",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,1857(1),1857(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",ORTHOPAEDICS,"₹52,19,000*","₹50,000*",0,₹0,650,-,-,1481(2),-,-,1858(2),-,-,-,-
+Bihar Govt Quota,RCG,Bihar,"Patna Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1756(1),-,-,1860(1),-,-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Netaji Subhas Med Coll, Bihta",GENERAL MEDICINE,"₹54,28,000*","₹60,000*",0,₹0,-,-,-,-,-,-,1871(2),1155(1),-,-,-
+Bihar Govt Quota,DQ-GEN,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,1162(1),1941(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",ORTHOPAEDICS,"₹42,75,000*","₹60,000",0,₹0,-,-,-,1515(1),204(1),34(1),1961(1),-,-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",DERMATOLOGY,"₹58,37,000*","₹50,000*",0,₹0,650,1215(2),-,771(1),98(1),20(1),1966(2),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1047(1),1211(1),1309(1),-,-,1979(1),1979(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",MICROBIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,912(1),912(1),1140(2),-,-,1999(1),1999(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",PAEDIATRICS,"₹52,19,000*","₹50,000*",0,₹0,650,-,-,1412(2),171(1),26(1),2000(2),2029(2),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Lord Buddha Koshi Med, Saharsa",PAEDIATRICS,"₹50,77,000*","₹60,000",0,₹0,-,-,-,61(1),185(1),-,2033(1),-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1241(1),1241(1),-,-,-,-,2038(1),-,-,-
+Bihar Priv-NRI,NRI,Bihar,"Madhubani Med Coll, Madhubani",DERMATOLOGY,"₹51,77,000*","₹55,000",0,₹0,-,-,-,-,-,-,2039(1),2039(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1228(1),-,-,-,-,2040(1),2040(1),-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1328(1),-,2202(1),-,-,2057(1),-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",PHYSIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1150(1),-,1660(1),-,-,1679(1),2060(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Vardhman IMS, Nalanda",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,-,1777(1),-,-,2062(1),-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,2065(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1309(2),1327(2),-,-,-,2077(1),1342(1),-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,2078(1),-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Sri Krishna, Muzzafarpur",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",610,-,-,1744(1),-,-,2104(1),-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,-,-,-,2107(1),-
+Bihar Priv-NRI,NRI,Bihar,"Narayan Med Coll, Sasaram",OPHTHALMOLOGY,"₹21,29,000*","₹50,000*",0,₹0,650,-,-,1516(1),208(1),29(1),1908(1),2117(1),-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"AN Magadh, Gaya",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,1436(1),2121(1),-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Darbhanga, Lehriasarai",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1953(1),-,-,2133(1),2133(1),-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"AN Magadh, Gaya",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,-,-,-,-,-,2248(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,-,2588(1),-
+Bihar Priv-Open,UR-GEN,Bihar,"Narayan Med Coll, Sasaram",ANATOMY,"₹50,000*","₹50,000*",0,₹0,650,-,-,2152(2),-,-,-,-,-,2624(2),234(1)
+Bihar Govt Quota,BC-GEN,Bihar,"Darbhanga, Lehriasarai",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,-,-,-,2083(1),-,-,2639(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,-,2658(1),-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,1326(1),-,1653(1),684(2),-,2081(1),-,-,2661(1),-
+Bihar DNB Seats,BC-GEN,Bihar,"SriKrishna MedColl,Muzaffarpur",DNBFORENSIC MEDICINE,"₹1,25,000","₹82,000",Info Not Available,Info not available,610,-,-,-,-,-,-,-,-,2846(1),-
+Bihar Govt Quota,SC-GEN,Bihar,"Nalanda Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,-,-,-,-,-,2849(1),-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,-,-,-,-,2874(1),-
+Bihar Govt Quota,EWS-GEN,Bihar,"IGIMS, Patna",RADIO DIAGNOSIS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,6(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",RADIO DIAGNOSIS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,9(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Govt Med Coll, Bettiah",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,-,-,56(1),-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",ANATOMY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,-,59(1),-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",DERMATOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,44(1),74(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,-,76(2),-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,-,83(1),-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"IGIMS, Patna",PAEDIATRICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,60(1),95(1),92(1),-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Patna Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,102(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,106(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",OBG,"₹1,60,000*","₹1,05,000*",0,₹0,1062,50(1),119(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Nalanda Med Coll, Patna",OBG,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,119(1),140(1),132(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",ORTHOPAEDICS,"₹1,60,000*","₹1,05,000*",0,₹0,1062,163(1),163(1),156(1),-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"IGIMS, Patna",PHARMACOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,166(1),-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,106(1),106(1),178(1),-,-,-,-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"IGIMS, Patna",DERMATOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,187(1),187(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,191(1),15(1),-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"AN Magadh, Gaya",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,-,196(1),37(1),-,-,-,-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Patna Med Coll, Patna",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,202(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",TBRD,"₹1,60,000*","₹1,05,000*",0,₹0,1062,147(1),173(1),206(1),-,-,-,-,-,-,-
+Bihar Govt Quota,RCG,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,236(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-FEM,Bihar,"IGIMS, Patna",GENERAL SURGERY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,100(1),122(1),237(1),-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,244(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,250(1),11(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,265(1),-,-,-,-,-,-
+Bihar Govt Quota,RCG,Bihar,"Darbhanga, Lehriasarai",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,182(1),277(1),268(1),-,-,-,-,-,-,-
+Bihar DNB Seats,UR-GEN,Bihar,"IGIMS, Sheikhpura, Patna",DNBEMERGENCY MEDICINE,"₹1,25,000","₹96,386",Info Not Available,Info not available,1062,267(1),283(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-FEM,Bihar,"IGIMS, Patna",ENT,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,286(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,290(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,295(1),-,-,-,-,-,-
+Bihar Govt Quota,EWS-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,218(1),218(1),303(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,303(1),303(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,-,310(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,232(1),312(1),222(1),39(1),-,-,-,-,-,-
+Bihar Govt Quota,UR-FEM,Bihar,"Darbhanga, Lehriasarai",ORTHOPAEDICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,262(1),330(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,104(1),94(1),362(1),-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,206(1),206(1),373(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,373(1),373(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",RADIATION ONCOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,414(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,420(1),-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,431(1),433(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",PSYCHIATRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,443(1),515(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,-,516(2),-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",ANAESTHESIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,519(1),519(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Nalanda Med Coll, Patna",PSYCHIATRY,-,-,-,-,750,515(1),563(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR-GEN,Bihar,"Nalanda Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,578(2),64(1),-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,596(1),596(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",PSYCHIATRY,-,-,-,-,750,-,-,642(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",BIOCHEMISTRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,-,648(1),-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Nalanda Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,-,694(1),-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"IGIMS, Patna",ENT,"₹1,60,000*","₹1,05,000*",0,₹0,1062,703(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR Service-GEN,Bihar,"Patna Med Coll, Patna",DMICRO,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,739(1),543(1),-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"IGIMS, Patna",SPM,"₹1,60,000*","₹1,05,000*",0,₹0,1062,642(1),782(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"AN Magadh, Gaya",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,838(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Darbhanga, Lehriasarai",ENT,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,614(1),809(1),856(1),-,-,-,-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",PSYCHIATRY,"₹15,10,000*","₹68,545*",0,₹0,794,887(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,UR Service-GEN,Bihar,"Darbhanga, Lehriasarai",DA,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,903(1),903(1),-,-,30(1),-,-,-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",ENT,"₹11,00,000*","₹68,545*",0,₹0,794,922(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",PATHOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,904(1),909(1),979(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Darbhanga, Lehriasarai",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,1020(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Patna Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1067(1),1067(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"IGIMS, Patna",BIOCHEMISTRY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,1227(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"Nalanda Med Coll, Patna",SPM,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1104(1),1104(1),1272(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1306(1),-,-,-,-,-,-,-,-,-
+Bihar Govt Quota,RCG,Bihar,"IGIMS, Patna",PHARMACOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,1342(1),1342(1),-,-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Nalanda Med Coll, Patna",MICROBIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,1211(1),-,1365(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC Service-GEN,Bihar,"Patna Med Coll, Patna",DMRD,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1407(1),-,-,-,-,-,-,-
+Bihar Govt Quota,BC-GEN,Bihar,"IGIMS, Patna",FORENSIC MEDICINE,-,-,-,-,1062,-,-,1529(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Patna Med Coll, Patna",GENERAL MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,1334(1),1334(1),1533(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1561(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,1598(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Nalanda Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,1602(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-GEN,Bihar,"Govt Med Coll, Bettiah",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,1738(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Patna Med Coll, Patna",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,1747(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"IGIMS, Patna",ANAESTHESIOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,1769(1),514(1),-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Jawaharlal Nehru, Bhagalpur",GENERAL SURGERY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,1818(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,1821(1),654(1),-,-,-,-,-,-
+Bihar Govt Quota,EBC-GEN,Bihar,"Vardhman IMS, Nalanda",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",640,-,-,1941(1),-,-,-,-,-,-,-
+Bihar Govt Quota,BC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,1947(1),-,-,-,-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"MGM Med Coll, Kishanganj",ANATOMY,"₹2,00,000*","₹68,545*",0,₹0,610,-,-,1948(2),500(1),-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"IGIMS, Patna",PATHOLOGY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,1999(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"AN Magadh, Gaya",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,2011(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Govt Med Coll, Bettiah",PAEDIATRICS,"₹9,000*","₹82,000",3*,"₹25,00,000*",470,-,-,2033(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",PHYSIOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,2059(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Nalanda Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,2093(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,2097(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,2099(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,2100(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",FORENSIC MEDICINE,-,-,-,-,800,-,-,2122(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"AN Magadh, Gaya",PHARMACOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",425,-,-,2171(1),-,-,-,-,-,-,-
+Bihar Priv-Open,UR-GEN,Bihar,"Katihar Med Coll, Katihar",ANATOMY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,2173(1),-,-,-,-,-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",PHYSIOLOGY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,2208(1),-,-,-,-,-,-,-
+Bihar Priv-Minority,MM,Bihar,"Katihar Med Coll, Katihar",ANATOMY,"₹2,50,000*","₹68,545*",0,₹0,794,-,-,2240(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"Jawaharlal Nehru, Bhagalpur",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,2294(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Nalanda Med Coll, Patna",BIOCHEMISTRY,"₹9,000*","₹82,000",3*,"₹25,00,000*",750,-,-,2314(1),-,-,-,-,-,-,-
+Bihar Govt Quota,DQ,Bihar,"Patna Med Coll, Patna",OPHTHALMOLOGY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,2326(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EBC-FEM,Bihar,"Patna Med Coll, Patna",FORENSIC MEDICINE,"₹9,000*","₹82,000",3*,"₹25,00,000*",1748,-,-,2418(1),-,-,-,-,-,-,-
+Bihar Govt Quota,SC-FEM,Bihar,"IGIMS, Patna",ANATOMY,"₹1,60,000*","₹1,05,000*",0,₹0,1062,-,-,2427(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Darbhanga, Lehriasarai",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",1030,-,-,2459(1),-,-,-,-,-,-,-
+Bihar Govt Quota,EWS-GEN,Bihar,"Jawaharlal Nehru, Bhagalpur",ANATOMY,"₹9,000*","₹82,000",3*,"₹25,00,000*",800,-,-,2604(1),-,-,-,-,-,-,-

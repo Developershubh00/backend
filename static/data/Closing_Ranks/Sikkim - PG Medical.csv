@@ -1,0 +1,19 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2024 1,CR 2024 2
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",GENERAL MEDICINE,"₹29,60,000*","₹34,000",0*,₹0*,500,14606(1),-,-,-,21157(1),31559(1)
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",PAEDIATRICS,"₹29,60,000*","₹34,000",0*,₹0*,500,24132(2),-,-,-,26428(1),35470(1)
+Sikkim Mgmt Quota,GEN,Sikkim,"SMIMS, Gangtok",GENERAL MEDICINE,"₹53,00,000*","₹34,000",0*,₹0*,500,19692(1),-,-,-,10312(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",OBG,"₹29,60,000*","₹34,000",0*,₹0*,500,26481(1),-,-,-,12045(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",RADIO DIAGNOSIS,"₹35,00,000*","₹34,000",0*,₹0*,500,14621(1),-,-,-,19577(2),-
+Sikkim Mgmt Quota,GEN,Sikkim,"SMIMS, Gangtok",RADIO DIAGNOSIS,"₹66,00,000*","₹34,000",0*,₹0*,500,17006(1),17006(1),-,-,31559(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",ORTHOPAEDICS,"₹29,60,000*","₹34,000",0*,₹0*,500,40306(2),-,-,-,39051(1),-
+Sikkim Mgmt Quota,GEN,Sikkim,"SMIMS, Gangtok",ORTHOPAEDICS,"₹53,00,000*","₹34,000",0*,₹0*,500,-,-,-,-,39051(1),-
+Sikkim Mgmt Quota,GEN,Sikkim,"SMIMS, Gangtok",OBG,"₹53,00,000*","₹34,000",0*,₹0*,500,38364(2),-,-,-,40279(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",PSYCHIATRY,"₹23,00,000*","₹34,000",0*,₹0*,500,38364(3),32984(1),-,-,42181(2),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",ENT,"₹27,00,000*","₹34,000",0*,₹0*,500,46895(2),35571(1),-,-,46403(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",ANAESTHESIOLOGY,"₹25,00,000*","₹34,000",0*,₹0*,500,36373(2),38364(1),-,-,53521(2),-
+Sikkim Mgmt Quota,GEN,Sikkim,"SMIMS, Gangtok",ANAESTHESIOLOGY,"₹44,00,000*","₹34,000",0*,₹0*,500,-,-,-,-,54120(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",SPM,"₹5,00,000*","₹34,000",0*,₹0*,500,47606(1),-,-,-,86143(2),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",MICROBIOLOGY,"₹5,00,000*","₹34,000",0*,₹0*,500,65695(1),65695(1),112579(1),138727(1),96743(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",PHYSIOLOGY,"₹5,00,000*","₹34,000",0*,₹0*,500,68004(2),66795(2),158559(2),-,98964(1),-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",BIOCHEMISTRY,"₹5,00,000*","₹34,000",0*,₹0*,500,-,-,125083(1),-,-,-
+Sikkim Gen Quota,GEN,Sikkim,"SMIMS, Gangtok",PHARMACOLOGY,"₹5,00,000*","₹34,000",0*,₹0*,500,-,-,125721(2),-,-,-

@@ -1,0 +1,343 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2023 5,CR 2024 1,CR 2024 2,CR 2024 3,CR 2024 3.5,CR 2024 4,CR 2024 5
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",GENERAL MEDICINE,"₹65,470*","₹51,000",1,"₹40,00,000",2879,1(1),3(1),3(1),-,-,1(1),1(1),1(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",RADIO DIAGNOSIS,"₹65,470*","₹51,000",1,"₹40,00,000",2879,-,17(1),17(1),-,-,7(1),7(1),7(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",OBG,"₹65,470*","₹51,000",1,"₹40,00,000",2879,85(1),91(1),91(1),-,-,56(1),56(1),56(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",GENERAL MEDICINE,"₹65,470*","₹51,000",2,"₹40,00,000",2879,2(1),44(1),44(1),-,-,31(1),60(1),60(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",PAEDIATRICS,"₹65,470*","₹51,000",1,"₹40,00,000",2879,9(1),28(1),28(1),-,-,30(1),69(1),69(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",PAEDIATRICS,"₹65,470*","₹51,000",2,"₹40,00,000",2879,28(1),133(1),133(1),-,-,91(1),91(1),91(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",OBG,"₹65,470*","₹51,000",2,"₹40,00,000",2879,538(1),790(1),790(1),-,-,140(1),217(1),217(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",RADIO DIAGNOSIS,"₹65,470*","₹51,000",2,"₹40,00,000",2879,270(2),270(2),270(2),-,-,216(2),262(2),262(2),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",GENERAL SURGERY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,26(1),26(1),26(1),-,-,268(1),268(1),268(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",ANAESTHESIOLOGY,"₹65,470*","₹51,000",1,"₹40,00,000",2879,23(1),64(1),64(1),-,-,129(1),271(1),271(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",OBG,"₹15,50,000*","₹25,000*",0,₹0,1130,128(1),184(1),184(1),-,-,220(1),179(1),285(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",DERMATOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,-,-,-,-,-,122(1),316(1),316(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",RADIO DIAGNOSIS,"₹26,00,000*","₹25,000*",0,₹0,1130,466(2),466(2),466(2),-,-,320(2),320(2),320(2),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",ORTHOPAEDICS,"₹65,470*","₹51,000",2,"₹40,00,000",2879,261(1),261(1),261(1),-,-,321(1),321(1),321(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",NEUROSURGERY 6 YRS,"₹42,416*","₹51,000*",6,"₹40,00,000",2879,523(1),523(1),523(1),-,-,326(2),326(2),326(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",GENERAL MEDICINE,"₹15,50,000*","₹25,000*",0,₹0,1130,29(1),84(1),84(1),-,-,78(1),101(1),423(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Sankara Netralaya, Chennai",OPHTHALMOLOGY,"₹15,50,000*","₹48,000*",0,₹0,244,246(2),246(2),246(2),-,-,367(2),427(2),427(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",RADIO DIAGNOSIS,"₹15,50,000*","₹35,000*",0,₹0,800,-,-,-,-,-,-,-,441(1),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",RADIO DIAGNOSIS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,990(1),990(1),990(1),-,-,463(1),463(1),463(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",GENERAL MEDICINE,"₹26,00,000*","₹25,000*",0,₹0,1130,568(2),582(2),582(2),-,-,471(2),471(2),471(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",RADIO DIAGNOSIS,"₹26,00,000*","₹37,000*",0,₹0,1024,735(2),758(2),758(2),-,-,352(1),486(1),486(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",RADIO DIAGNOSIS,"₹15,50,000*","₹10,000*",0,₹0,550,-,-,-,-,-,101(1),496(1),496(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,RADIO DIAGNOSIS,"₹26,00,000*","₹35,000*",0,₹0,700,794(1),794(1),794(1),-,-,584(1),584(1),584(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",PAEDIATRICS,"₹15,50,000*","₹25,000*",0,₹0,1130,79(1),122(1),237(1),459(1),-,194(1),194(1),597(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",GENERAL MEDICINE,"₹65,470*","₹51,000",3,"₹40,00,000",2879,287(5),365(5),365(5),-,-,263(5),298(5),599(5),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",GENERAL SURGERY,"₹15,50,000*","₹25,000*",0,₹0,1130,171(1),310(1),310(1),-,-,385(1),342(1),600(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",RADIO DIAGNOSIS,"₹26,00,000*","₹35,000*",0,₹0,818,1114(1),1114(1),1114(1),-,-,675(1),675(1),675(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",PSYCHIATRY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1095(1),1095(1),1095(1),-,-,379(1),685(1),685(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",GENERAL MEDICINE,"₹26,00,000*","₹37,000*",0,₹0,1024,582(1),1309(1),1309(1),-,-,526(1),602(1),706(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",OPHTHALMOLOGY,"₹15,50,000*","₹25,000*",0,₹0,1130,347(1),593(1),593(1),-,-,686(1),725(1),725(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",DERMATOLOGY,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,337(1),637(1),758(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",GENERAL SURGERY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,422(4),422(4),422(4),-,-,729(4),729(4),778(4),-,1021(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",GENERAL MEDICINE,"₹15,50,000*","₹35,000*",0,₹0,818,395(2),395(2),395(2),-,-,381(2),381(2),779(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",TBRD,"₹15,50,000*","₹25,000*",0,₹0,1130,84(1),188(1),188(1),-,-,277(1),423(1),787(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",OBG,"₹15,50,000*","₹35,000*",0,₹0,818,-,-,-,-,-,579(1),579(1),788(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",OBG,"₹15,50,000*","₹35,000*",0,₹0,1575,470(1),793(1),793(1),-,-,799(1),799(1),799(1),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",PAEDIATRICS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,592(1),592(1),592(1),-,-,809(1),809(1),809(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",GENERAL SURGERY,"₹15,50,000*","₹37,000*",0,₹0,1024,310(1),730(1),581(1),-,-,409(1),409(1),813(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",RADIO DIAGNOSIS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1084(8),1084(8),1084(8),-,-,774(8),844(8),844(8),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",TBRD,"₹65,470*","₹51,000",3,"₹40,00,000",2879,544(2),1082(2),1082(2),-,-,844(2),884(2),884(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",TBRD,"₹15,50,000*","₹10,000*",0,₹0,550,-,-,-,-,-,758(1),922(1),922(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",PAEDIATRICS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,482(7),544(7),544(7),-,-,810(7),932(7),932(7),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",OPHTHALMOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1161(1),1161(1),1161(1),-,-,940(1),940(1),940(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",SPM,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1304(1),1755(1),1755(1),-,-,943(1),943(1),943(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",ORTHOPAEDICS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1096(4),1096(4),1178(4),-,-,969(4),969(4),969(4),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",OBG,"₹15,50,000*","₹25,000",0,₹0,720,793(1),617(1),617(1),-,-,976(1),976(1),976(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL MEDICINE,"₹15,50,000*","₹35,000*",0,₹0,800,144(1),679(1),514(1),-,-,259(1),441(1),990(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",PAEDIATRICS,"₹15,50,000*","₹35,000*",0,₹0,818,-,-,-,-,-,561(1),561(1),1013(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",ANAESTHESIOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1076(2),1076(2),1076(2),-,-,1030(2),1030(2),1030(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",ENT,"₹15,50,000*","₹25,000*",0,₹0,1130,338(1),567(1),567(1),-,-,518(1),702(1),1041(1),-,2354(1),-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",NUCLEAR MEDICINE,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1143(1),1143(1),1143(1),-,-,1058(1),1058(1),1058(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",GENERAL MEDICINE,"₹15,50,000*","₹25,000",0,₹0,720,951(3),1253(3),1253(3),-,-,1071(3),1071(3),1071(3),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Aravind Eye Hosp, Madurai",OPHTHALMOLOGY,"₹15,50,000*","₹48,000",2*,"₹40,00,000*",1090,397(10),511(10),511(10),-,-,644(10),719(10),1113(10),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",PAEDIATRICS,"₹26,00,000*","₹37,000*",0,₹0,1024,768(1),768(1),768(1),-,-,666(1),1114(1),1114(1),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",OBG,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1669(1),1669(1),1669(1),-,-,1122(1),1122(1),1122(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",GENERAL MEDICINE,"₹15,50,000*","₹35,000*",0,₹0,1575,812(1),812(1),812(1),-,-,855(4),928(4),1123(4),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",GENERAL MEDICINE,"₹65,470*","₹51,000",3,"₹40,00,000",2879,427(1),427(1),427(1),-,-,111(1),111(1),1145(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,GENERAL SURGERY,"₹15,50,000*","₹35,000*",0,₹0,700,676(2),831(2),831(2),-,-,813(1),813(1),1175(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",DORTHO,"₹4,35,000*","₹25,000*",0,₹0,1130,686(1),968(1),968(1),-,-,1033(1),1154(1),1186(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",EMERGENCY MEDICINE,"₹65,470*","₹51,000",3,"₹40,00,000",2879,596(2),596(2),596(2),-,-,932(1),1211(1),1211(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OBG,"₹15,50,000*","₹35,000*",0,₹0,800,617(1),1721(1),1721(1),-,-,975(1),1237(1),1237(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",GENERAL SURGERY,"₹15,50,000*","₹35,000*",0,₹0,818,685(2),1245(3),1245(2),-,-,833(2),888(2),1252(2),-,3038(1),-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PAEDIATRICS,"₹15,50,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,875(2),1123(2),1272(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",PSYCHIATRY,"₹15,50,000*","₹25,000*",0,₹0,1130,556(2),811(2),1078(2),-,-,448(2),722(2),1274(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,818,778(1),1198(1),1198(1),-,-,1273(1),1275(1),1275(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",ANAESTHESIOLOGY,"₹15,50,000*","₹25,000*",0,₹0,1130,444(2),534(2),534(2),-,-,600(2),756(2),1277(2),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",DERMATOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,438(2),438(2),438(2),-,-,316(2),1284(2),1284(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",DERMATOLOGY,"₹26,00,000*","₹25,000*",0,₹0,1130,269(2),269(2),269(2),-,-,486(2),1323(2),1323(2),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",ORTHOPAEDICS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1368(1),1368(1),1368(1),-,-,1336(1),1336(1),1336(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",PHARMACOLOGY,"₹4,35,000*","₹37,000*",0,₹0,1024,2630(1),2630(1),2630(1),-,-,1338(1),1338(1),1338(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",ORTHOPAEDICS,"₹15,50,000*","₹37,000*",0,₹0,1024,325(1),664(1),664(1),-,-,572(1),701(1),1344(1),-,1986(1),-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",FAMILY MEDICINE,"₹65,470*","₹51,000",2,"₹40,00,000",2879,-,1393(1),1393(1),-,-,748(1),1393(1),1393(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",ORTHOPAEDICS,"₹26,00,000*","₹25,000*",0,₹0,1130,-,-,-,-,-,1406(1),1406(1),1406(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",OPHTHALMOLOGY,"₹15,50,000*",Info not available,0,₹0,-,-,2335(1),2335(1),-,-,1292(1),1463(1),1463(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",OBG,"₹26,00,000*","₹37,000*",0,₹0,1024,1128(1),1514(1),1514(1),-,-,1128(1),1261(1),1474(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",ENT,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1155(1),1155(1),1155(1),-,-,884(1),1514(1),1514(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",RADIATION ONCOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,1453(1),1453(1),1453(1),-,-,1234(1),1542(1),1542(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",OPHTHALMOLOGY,"₹15,50,000*","₹37,000*",0,₹0,1024,663(1),1343(1),711(1),1356(1),-,868(1),846(1),1576(1),-,1830(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Reg CancerCenter,Adyar,Chennai",RADIATION ONCOLOGY,"₹15,50,000*","₹48,000*",0,₹0,535,584(4),869(4),869(4),932(1),-,762(3),963(3),1586(3),-,1789(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",GENERAL MEDICINE,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,595(2),842(2),1597(2),-,1929(1),2302(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",ORTHOPAEDICS,"₹15,50,000*","₹35,000*",0,₹0,818,529(1),1074(2),1074(2),-,-,921(1),921(1),1604(1),-,3062(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",ORTHOPAEDICS,"₹15,50,000*",Info not available,0,₹0,-,-,1320(1),1320(1),-,-,1339(1),1623(1),1623(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",OBG,"₹15,50,000*",Info not available,0,₹0,-,-,706(1),706(1),-,-,601(1),305(1),1624(1),-,1674(1),1669(1)
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",OBG,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1601(5),1601(5),1601(5),-,-,1503(6),1627(6),1627(6),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",GENERAL SURGERY,"₹15,50,000*","₹10,000*",0,₹0,550,777(2),1289(2),1666(2),-,-,699(1),699(1),1628(1),-,2871(1),2901(1)
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",DERMATOLOGY,"₹26,00,000*","₹37,000*",0,₹0,1024,317(1),704(1),704(1),-,-,632(1),1629(1),1629(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Karpagam Faculty, Coimbatore",DERMATOLOGY,"₹26,00,000*","₹38,000*",0,₹0,675,936(1),1758(1),1758(1),-,-,1638(1),1638(1),1638(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",RADIO DIAGNOSIS,"₹26,00,000*","₹35,000*",0,₹0,1575,825(2),1040(2),1040(2),-,-,1362(3),1680(3),1680(3),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",PAEDIATRICS,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,642(1),930(1),1681(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PAEDIATRICS,"₹15,50,000*","₹35,000*",0,₹0,800,335(1),688(1),1020(1),-,-,542(1),767(1),1687(2),-,1975(1),2521(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",TBRD,"₹15,50,000*","₹35,000*",0,₹0,818,417(1),1151(1),1151(1),-,-,787(1),787(1),1700(1),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",PSYCHIATRY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,-,2087(1),2087(1),-,-,1709(1),1709(1),1709(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",GENERAL MEDICINE,"₹26,00,000*","₹35,000*",0,₹0,818,1442(1),1442(1),1442(1),-,-,1733(1),1733(1),1733(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",GENERAL MEDICINE,"₹15,50,000*","₹10,000*",0,₹0,550,-,-,-,-,-,610(3),761(3),1769(3),-,2467(1),2489(1)
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",RADIO DIAGNOSIS,"₹26,00,000*","₹10,000*",0,₹0,550,974(1),1487(1),1599(1),-,-,630(1),1799(1),1799(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",GENERAL SURGERY,"₹15,50,000*","₹15,000*",0,₹0,600,-,1788(4),1761(3),1880(1),-,-,-,1813(2),-,3078(1),-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,GENERAL MEDICINE,"₹26,00,000*","₹35,000*",0,₹0,700,1285(1),1103(1),1103(1),-,-,1821(1),1821(1),1821(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",TBRD,"₹15,50,000*","₹35,000*",0,₹0,800,599(1),599(1),599(1),-,-,611(1),1003(1),1866(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Karpagam Faculty, Coimbatore",RADIO DIAGNOSIS,"₹26,00,000*","₹38,000*",0,₹0,675,1014(1),1014(1),1014(1),-,-,496(1),788(1),1868(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",DERMATOLOGY,"₹26,00,000*","₹35,000*",0,₹0,818,1120(1),1120(1),1120(1),-,-,1323(1),1884(1),1884(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",ENT,"₹15,50,000*","₹35,000*",0,₹0,818,-,-,-,-,-,828(1),1249(1),1888(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",PSYCHIATRY,"₹15,50,000*","₹37,000*",0,₹0,1024,795(1),1193(1),954(1),-,-,825(1),1027(1),1893(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",DERMATOLOGY,"₹15,50,000*","₹35,000*",0,₹0,800,605(1),1501(1),1501(1),-,-,725(1),1441(1),1902(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",ANAESTHESIOLOGY,"₹15,50,000*","₹37,000*",0,₹0,1024,635(2),954(2),730(2),-,-,791(2),791(2),1927(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Karpagam Faculty, Coimbatore",ENT,"₹15,50,000*","₹38,000*",0,₹0,675,1501(1),2961(1),2961(1),-,-,1241(1),1241(1),1959(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,ORTHOPAEDICS,"₹26,00,000*","₹35,000*",0,₹0,700,1168(1),-,-,-,-,1991(1),1991(1),1991(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",ORTHOPAEDICS,"₹15,50,000*","₹10,000*",0,₹0,550,-,-,-,-,-,1134(2),1837(2),1997(2),-,3367(1),-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",ANAESTHESIOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1518(12),1518(12),1518(12),-,-,1858(11),1985(11),1999(11),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Joseph Eye Hosp, Trichy",OPHTHALMOLOGY,"₹15,50,000*","₹48,000*",2*,"₹40,00,000*",450,524(4),1013(4),1013(4),-,-,1089(4),966(4),2005(4),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",GENERAL SURGERY,"₹26,00,000*","₹25,000*",0,₹0,1130,809(1),809(1),809(1),-,-,957(1),957(1),2018(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",RADIATION ONCOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1989(3),1989(3),1989(3),-,-,2031(3),2031(3),2031(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",DERMATOLOGY,"₹26,00,000*","₹35,000*",0,₹0,1575,844(1),844(1),844(1),-,-,1619(1),2038(1),2038(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",OBG,"₹26,00,000*","₹25,000*",0,₹0,1130,758(2),1128(2),1128(2),-,-,765(2),1128(2),2041(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Sri Muthukumaran, Chennai",OBG,"₹26,00,000*","₹25,000",0,₹0,720,2014(1),2857(1),2857(1),-,-,2064(1),2064(1),2064(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",PATHOLOGY,"₹65,470*","₹51,000",0,₹0,2879,396(2),829(2),829(2),-,-,323(2),467(2),2075(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"PSG IMS, Coimbatore",PAEDIATRICS,"₹26,00,000*","₹25,000*",0,₹0,1130,708(2),708(2),708(2),-,-,545(2),1034(2),2091(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",PSYCHIATRY,"₹15,50,000*","₹25,000",0,₹0,720,-,-,-,-,-,2102(1),2102(1),2102(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",RADIO DIAGNOSIS,"₹26,00,000*","₹35,000*",0,₹0,800,1040(1),1565(1),1565(1),-,-,1479(1),1479(1),2104(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",GENERAL SURGERY,"₹26,00,000*","₹10,000*",0,₹0,550,-,-,-,-,-,2119(1),2119(1),2119(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",ENT,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1632(3),1632(3),1846(3),-,-,1587(3),2127(3),2127(3),-,-,-
+TN CMC-Inst Preference,CMC-Institutional Preference,Tamil Nadu,"CMC, Vellore",ANAESTHESIOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1659(2),1659(2),1659(2),-,-,1938(2),1999(2),2133(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL SURGERY,"₹15,50,000*","₹35,000*",0,₹0,800,452(1),1434(2),1407(1),-,-,912(2),833(2),2175(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL MEDICINE,"₹15,50,000*","₹35,000*",0,₹0,800,960(2),960(2),960(2),-,-,990(2),1466(2),2184(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,OBG,"₹26,00,000*","₹35,000*",0,₹0,700,1514(1),1838(1),1838(1),-,-,2041(2),2041(2),2192(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",EMERGENCY MEDICINE,"₹15,50,000*","₹10,000*",0,₹0,550,989(2),1222(2),1222(2),-,-,661(1),1378(1),2201(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ORTHOPAEDICS,"₹26,00,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,2203(1),2203(1),2203(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",PSYCHIATRY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1841(4),2019(4),2019(4),-,-,1832(4),2210(4),2210(4),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",ORTHOPAEDICS,"₹15,50,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,2226(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",GERIATRICS,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1617(2),1617(2),1617(2),-,-,1969(2),2235(2),2235(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,PAEDIATRICS,"₹26,00,000*","₹35,000*",0,₹0,700,948(1),936(1),2271(1),-,-,2266(1),2266(1),2266(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PSYCHIATRY,"₹15,50,000*","₹35,000*",0,₹0,800,1244(1),1621(1),2285(1),-,-,1104(1),1852(1),2308(1),-,3214(1),-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",DERMATOLOGY,"₹26,00,000*","₹35,000*",0,₹0,800,1605(1),1605(1),1605(1),-,-,2199(1),2154(1),2313(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",OPHTHALMOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1773(4),1903(4),1903(4),-,-,2046(3),2133(3),2320(3),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ENT,"₹15,50,000*","₹35,000*",0,₹0,800,1184(1),1413(1),2116(1),2222(1),2785(1),1121(1),1285(1),2335(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",PAEDIATRICS,"₹26,00,000*","₹35,000*",0,₹0,818,1081(1),2610(1),2610(1),-,-,2018(1),2365(1),2365(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",GENERAL SURGERY,"₹26,00,000*","₹37,000*",0,₹0,1024,1141(1),1141(1),1141(1),-,-,1114(1),1513(1),2377(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,ENT,"₹15,50,000*","₹35,000*",0,₹0,700,956(1),1787(1),1787(1),-,-,1140(1),1140(1),2378(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",MICROBIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,3412(1),3758(1),-,2392(1),2392(1),2392(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",PATHOLOGY,"₹4,35,000*","₹37,000*",0,₹0,1024,1331(2),1623(2),2213(2),-,-,1256(2),1256(2),2401(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,700,688(1),1204(1),1204(1),-,-,1097(2),984(2),2405(2),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",IHBT,"₹65,470*","₹51,000",3,"₹40,00,000",2879,2019(1),1975(1),2099(1),-,-,2211(2),2411(2),2411(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",ENT,"₹15,50,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,2425(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,800,1074(1),2466(3),2368(2),-,-,1130(2),1485(3),2464(3),-,3044(1),-
+TN NRI Quota,NRI,Tamil Nadu,"Velammal Med Col, Madurai",ENT,"₹26,00,000*","₹37,000*",0,₹0,1024,-,-,-,-,-,2495(1),2495(1),2495(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",ANAESTHESIOLOGY,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,1275(1),1516(1),2500(1),-,3024(1),3216(1)
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",GENERAL MEDICINE,"₹15,50,000*","₹15,000*",0,₹0,600,2970(3),2970(3),2970(3),-,-,2502(3),2502(3),2502(3),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",ANAESTHESIOLOGY,"₹15,50,000*","₹10,000*",0,₹0,550,1049(2),1923(2),1923(2),-,-,1031(1),1041(1),2523(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",GENERAL MEDICINE,"₹26,00,000*","₹35,000*",0,₹0,1575,1362(2),1029(2),1593(2),2538(1),-,1456(4),2410(4),2531(4),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",ENT,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,1244(1),1254(1),2536(1),-,3219(1),3263(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",ANAESTHESIOLOGY,"₹15,50,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,2540(1),-,3115(1),-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",DCP,"₹78,367*","₹51,000",0,₹0,2879,1937(1),1937(1),2910(2),-,-,1692(1),1355(1),2554(1),-,3034(1),4537(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",OPHTHALMOLOGY,"₹15,50,000*","₹35,000*",0,₹0,818,-,2274(1),2274(1),-,-,1113(1),1113(1),2557(1),-,2342(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",GENERAL SURGERY,"₹15,50,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,2563(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",GENERAL SURGERY,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,930(3),1134(3),2574(3),-,3016(1),-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PAEDIATRICS,"₹26,00,000*","₹35,000*",0,₹0,1575,1508(2),2268(2),2268(2),-,-,2246(2),2575(2),2575(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ORTHOPAEDICS,"₹15,50,000*","₹35,000*",0,₹0,1575,1685(2),1685(2),1685(2),-,-,1811(3),2584(3),2584(3),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",SPM,"₹4,35,000*","₹37,000*",0,₹0,1024,1576(1),-,715(1),-,-,2594(1),2594(1),2594(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",FAMILY MEDICINE,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1393(1),1874(2),1874(2),-,-,1972(2),2414(2),2609(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,OPHTHALMOLOGY,"₹15,50,000*","₹35,000*",0,₹0,700,702(1),1734(1),1734(1),-,-,1054(2),1155(2),2642(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Madha Medical College, Chennai",DERMATOLOGY,"₹26,00,000*",Info not available,0,₹0,-,1808(1),1808(1),1808(1),-,-,2307(1),2437(1),2654(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",ENT,"₹15,50,000*","₹10,000*",0,₹0,550,1140(1),1583(1),1583(1),-,-,922(1),1292(1),2697(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",PMR,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1993(2),1993(2),1993(2),-,-,2151(2),2320(2),2725(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",PATHOLOGY,"₹4,35,000*","₹25,000*",0,₹0,1130,1232(4),1358(4),1358(4),1642(1),2793(1),1274(4),1274(4),2753(4),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",SPM,"₹4,35,000*","₹25,000*",0,₹0,1130,1724(3),2911(3),2911(3),-,-,1835(3),1668(3),2768(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",DERMATOLOGY,"₹26,00,000*","₹10,000*",0,₹0,550,1719(1),1719(1),1719(1),-,-,2073(2),2313(2),2776(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PAEDIATRICS,"₹26,00,000*","₹35,000*",0,₹0,800,1789(1),2384(1),2384(1),-,-,2227(1),2733(1),2817(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",OBG,"₹26,00,000*","₹35,000*",0,₹0,1575,2096(2),2096(2),2096(2),-,-,2325(3),2192(3),2851(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",OBG,"₹26,00,000*","₹35,000*",0,₹0,818,887(1),2014(1),2014(1),-,-,2863(1),2863(1),2863(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",GENERAL SURGERY,"₹26,00,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,1697(1),2885(1),2885(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",PHYSIOLOGY,"₹65,470*","₹51,000",0,₹0,2879,1351(1),1351(1),1351(1),-,-,2255(1),2891(1),2891(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",OPHTHALMOLOGY,"₹15,50,000*","₹10,000*",0,₹0,550,879(1),2123(1),2031(1),-,-,1155(1),1273(1),2898(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",OBG,"₹26,00,000*","₹15,000*",0,₹0,600,2384(1),2926(1),2926(1),-,-,2910(1),2910(1),2910(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",PHYSIOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,2332(1),-,-,-,-,2926(1),2926(1),2926(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",MICROBIOLOGY,"₹65,470*","₹51,000",0,₹0,2879,1638(1),1638(1),1638(1),-,-,903(1),1093(1),2961(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",GENERAL SURGERY,"₹15,50,000*","₹35,000*",0,₹0,1575,1628(3),2347(3),2347(3),-,-,1513(7),2619(7),2965(7),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Madha Medical College, Chennai",PSYCHIATRY,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,1569(1),1569(1),2982(1),-,-,-
+TN CMC-General Merit,CMC-General Merit,Tamil Nadu,"CMC, Vellore",ANATOMY,"₹65,470*","₹51,000",0,₹0,2879,-,-,2334(1),-,-,1341(1),3002(1),3002(1),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",SPM,"₹65,470*","₹51,000",3,"₹40,00,000",2879,1846(2),1846(2),1893(2),-,-,2394(2),2703(2),3009(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,Melmaruvathur Adiparasakthi,GENERAL SURGERY,"₹26,00,000*","₹35,000*",0,₹0,700,1599(1),2105(1),3093(1),-,-,2820(1),2018(1),3020(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",PSYCHIATRY,"₹15,50,000*","₹10,000*",0,₹0,550,1033(1),1678(1),1678(1),-,-,1268(1),1637(1),3028(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Sri Muthukumaran, Chennai",GENERAL MEDICINE,"₹26,00,000*","₹25,000",0,₹0,720,1309(1),1929(1),1929(1),-,-,779(1),779(1),3029(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",MICROBIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,818,-,-,3314(1),-,-,3035(1),3035(1),3035(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Madha Medical College, Chennai",GENERAL MEDICINE,"₹26,00,000*",Info not available,0,₹0,-,1878(1),2575(1),2575(1),-,-,2134(1),3042(1),3042(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"St. Peters Medical Coll, Hosur",RADIO DIAGNOSIS,"₹26,00,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,3057(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",GENERAL SURGERY,"₹15,50,000*","₹25,000",0,₹0,720,2508(4),2784(4),2784(4),-,-,2071(5),2979(5),3080(5),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",OPHTHALMOLOGY,"₹15,50,000*","₹15,000*",0,₹0,600,-,-,-,-,-,3081(1),3081(1),3081(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",ORTHOPAEDICS,"₹26,00,000*","₹15,000*",0,₹0,600,2044(1),-,2867(1),3138(1),-,3083(1),3083(1),3083(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",BIOCHEMISTRY,"₹4,35,000*","₹25,000*",0,₹0,1130,-,-,-,-,-,2698(1),3091(1),3091(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ENT,"₹15,50,000*","₹35,000*",0,₹0,1575,1390(1),2885(1),2885(1),-,-,1959(2),1959(2),3111(2),-,3237(1),-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",PATHOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,2200(2),2200(2),2200(2),-,-,2075(2),2321(2),3150(2),-,-,-
+TN CMC-Minority Network,CMC-Minority Network,Tamil Nadu,"CMC, Vellore",MICROBIOLOGY,"₹65,470*","₹51,000",3,"₹40,00,000",2879,2750(1),2750(1),2750(1),-,-,2414(1),2961(1),3171(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",PHARMACOLOGY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,2262(1),2650(1),2650(1),-,-,2916(1),3009(1),3206(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",GENERAL SURGERY,"₹26,00,000*","₹35,000*",0,₹0,818,2093(1),-,2627(1),-,-,2377(1),2377(1),3232(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",PATHOLOGY,"₹4,35,000*","₹35,000*",0,₹0,818,1981(2),-,2998(2),3144(1),3541(1),2385(2),2385(2),3246(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL SURGERY,"₹15,50,000*","₹35,000*",0,₹0,800,1991(2),1991(2),1991(2),-,-,2204(3),3185(3),3262(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Madha Medical College, Chennai",ORTHOPAEDICS,"₹26,00,000*",Info not available,0,₹0,-,-,-,-,-,-,3303(1),3303(1),3303(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Madha Medical College, Chennai",OBG,"₹26,00,000*",Info not available,0,₹0,-,2571(1),-,-,-,-,3311(1),3311(1),3311(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",ENT,"₹15,50,000*","₹25,000",0,₹0,720,2425(1),-,2827(1),-,-,1191(1),2336(1),3332(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",ENT,"₹15,50,000*","₹15,000*",0,₹0,600,-,-,-,-,-,3334(1),3334(1),3334(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",RADIO DIAGNOSIS,"₹15,50,000*","₹15,000*",0,₹0,600,2015(1),2015(1),2015(1),-,-,3371(3),3371(3),3371(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Madha Medical College, Chennai",PAEDIATRICS,"₹26,00,000*",Info not available,0,₹0,-,1898(1),2247(1),2247(1),-,-,2365(1),3029(1),3377(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",OBG,"₹26,00,000*","₹10,000*",0,₹0,550,971(1),1483(1),2817(1),3089(1),-,3232(2),3394(2),3394(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL MEDICINE,"₹26,00,000*","₹35,000*",0,₹0,800,1849(2),2537(2),2537(2),-,-,2375(2),2494(2),3418(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,1575,1797(3),1749(1),1749(1),-,-,2097(3),2204(3),3455(3),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",BIOCHEMISTRY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,-,-,2235(1),-,-,3463(1),3463(1),3463(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",ENT,"₹26,00,000*","₹15,000*",0,₹0,600,-,-,-,-,-,3466(1),3466(1),3466(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",GENERAL MEDICINE,"₹26,00,000*","₹10,000*",0,₹0,550,1827(2),2392(2),2392(2),-,2953(1),2494(2),2990(2),3515(2),-,3705(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",PATHOLOGY,"₹4,35,000*","₹38,000*",0,₹0,675,-,2920(1),2920(1),-,-,-,-,3565(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Tagore Med Coll, Chennai",ORTHOPAEDICS,"₹26,00,000*","₹35,000*",0,₹0,818,2673(1),-,-,-,-,2817(1),2817(1),3594(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ORTHOPAEDICS,"₹26,00,000*","₹35,000*",0,₹0,800,2825(1),2825(1),2825(1),-,-,2885(2),3598(2),3598(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",PATHOLOGY,"₹4,35,000*","₹10,000*",0,₹0,550,2182(1),-,3027(1),-,-,2092(1),2728(1),3614(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Trichy SRM Med Coll, Trichy",TBRD,"₹26,00,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,2511(1),2152(1),3615(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OBG,"₹26,00,000*","₹35,000*",0,₹0,800,2079(2),3034(1),3034(1),-,-,2567(2),3180(2),3618(2),-,3122(1),-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",OPHTHALMOLOGY,"₹15,50,000*","₹25,000",0,₹0,720,-,-,-,-,-,1684(1),2982(1),3620(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",PATHOLOGY,"₹4,35,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,3637(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",GENERAL SURGERY,"₹26,00,000*","₹35,000*",0,₹0,800,2270(2),2164(1),3122(2),-,-,-,3020(1),3641(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",OPHTHALMOLOGY,"₹15,50,000*","₹35,000*",0,₹0,1575,2861(1),2861(1),2861(1),-,-,1597(1),1597(1),3656(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,SPM,"₹4,35,000*","₹35,000*",0,₹0,700,2884(1),2884(1),2884(1),-,-,3005(1),2559(1),3666(1),-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",DCP,"₹78,367*","₹51,000",1,"₹20,00,000",2879,2235(1),2235(1),-,-,-,3171(1),3171(1),3681(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",ANAESTHESIOLOGY,"₹15,50,000*","₹25,000",0,₹0,720,2834(1),2834(1),2473(1),-,-,1927(1),1927(1),3686(1),-,3645(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",BIOCHEMISTRY,"₹4,35,000*","₹35,000*",0,₹0,800,-,-,3985(1),-,-,3688(1),3688(1),3688(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OPHTHALMOLOGY,"₹26,00,000*","₹35,000*",0,₹0,800,-,-,-,-,-,3199(2),3492(2),3693(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",PHARMACOLOGY,"₹4,35,000*","₹25,000*",0,₹0,1130,1915(1),2903(1),2903(1),-,-,2605(1),1902(1),3722(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PATHOLOGY,"₹4,35,000*","₹35,000*",0,₹0,800,2533(1),2558(2),2558(2),-,-,1668(1),1565(1),3740(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",PAEDIATRICS,"₹15,50,000*","₹15,000*",0,₹0,600,2936(3),2936(3),2936(3),-,-,3743(3),3743(3),3743(3),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Sri Muthukumaran, Chennai",GENERAL SURGERY,"₹26,00,000*","₹25,000",0,₹0,720,-,-,-,-,-,3394(1),3645(1),3755(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,MICROBIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,700,-,-,3331(1),-,-,3759(1),3759(1),3759(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,800,2704(1),-,-,-,-,1277(1),2184(1),3778(1),-,3934(1),-
+TN NRI Quota,NRI,Tamil Nadu,"Sri Muthukumaran, Chennai",ANAESTHESIOLOGY,"₹26,00,000*","₹25,000",0,₹0,720,2727(1),2727(1),2727(1),-,-,3594(1),3704(1),3780(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"St. Peters Medical Coll, Hosur",ORTHOPAEDICS,"₹26,00,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,3815(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Karpagam Faculty, Coimbatore",OPHTHALMOLOGY,"₹15,50,000*","₹38,000*",0,₹0,675,-,-,-,-,-,1605(1),1605(1),3825(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",MICROBIOLOGY,"₹4,35,000*","₹25,000*",0,₹0,1130,2792(2),2792(2),2792(2),-,-,2731(2),2434(2),3829(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,PATHOLOGY,"₹4,35,000*","₹35,000*",0,₹0,700,2682(1),1835(1),1835(1),-,-,2147(2),2147(2),3838(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Karpagam Faculty, Coimbatore",ANAESTHESIOLOGY,"₹26,00,000*","₹38,000*",0,₹0,675,-,-,-,-,-,3224(1),3693(1),3854(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",GENERAL SURGERY,"₹26,00,000*","₹15,000*",0,₹0,600,-,-,2994(1),-,-,3053(2),3594(2),3854(2),-,3981(1),-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",EMERGENCY MEDICINE,"₹26,00,000*","₹15,000*",0,₹0,600,2917(1),-,2792(1),3451(1),-,3042(1),3856(1),3856(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,800,-,-,3542(1),-,-,3863(1),3863(1),3863(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",MICROBIOLOGY,"₹4,35,000*","₹37,000*",0,₹0,1024,2814(2),2816(1),2816(2),-,-,3872(2),3872(2),3872(2),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",RADIATION ONCOLOGY,"₹26,00,000*","₹15,000*",0,₹0,600,-,-,3198(1),-,-,3881(1),3881(1),3881(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",MICROBIOLOGY,"₹4,35,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,3893(1),-,4587(1),-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",DERMATOLOGY,"₹15,50,000*","₹15,000*",0,₹0,600,2715(2),2715(2),2715(2),-,-,3911(2),3911(2),3911(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"St. Peters Medical Coll, Hosur",SPM,"₹4,35,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,3926(1),-,4336(1),4461(1)
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PSYCHIATRY,"₹15,50,000*","₹35,000*",0,₹0,1575,2784(1),2806(1),3342(1),-,-,1884(1),2230(1),3940(1),-,3850(1),-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",TBRD,"₹15,50,000*","₹15,000*",0,₹0,600,-,-,-,-,-,3941(2),3941(2),3941(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ANATOMY,"₹4,35,000*","₹35,000*",0,₹0,800,-,-,3864(1),-,-,-,-,3970(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PATHOLOGY,"₹4,35,000*","₹35,000*",0,₹0,800,-,-,-,-,-,2965(1),3157(1),3989(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",SPM,"₹4,35,000*","₹10,000*",0,₹0,550,1783(1),-,3411(1),-,-,3109(1),2731(1),4006(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",MICROBIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,800,2607(1),-,3586(1),-,-,3091(1),2898(1),4035(1),-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",ANAESTHESIOLOGY,"₹26,00,000*","₹15,000*",0,₹0,600,-,-,3510(1),-,-,3780(2),3712(1),4046(2),-,4048(1),4329(1)
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",ANATOMY,"₹65,470*","₹51,000",2,"₹40,00,000",2879,-,-,-,-,-,3609(1),3609(1),4086(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",MICROBIOLOGY,"₹4,35,000*","₹10,000*",0,₹0,550,3019(1),-,3445(1),3763(1),-,3370(1),3001(1),4091(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",SPM,"₹4,35,000*","₹35,000*",0,₹0,818,2558(2),-,3337(2),2378(1),-,3283(2),3283(2),4116(2),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",SPM,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,2988(1),3245(2),3126(1),2550(1),2579(1),4135(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PATHOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,2213(1),2213(1),3867(1),-,-,1823(1),3628(1),4193(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",SPM,"₹4,35,000*","₹35,000*",0,₹0,800,2593(2),-,3478(2),3268(1),-,2900(2),3354(2),4212(2),-,4290(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",MICROBIOLOGY,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,3240(1),3931(1),-,-,-,4235(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Arunai Med Coll,Thiruvannamalai",SPM,"₹4,35,000*",Info not available,0,₹0,-,-,-,-,-,-,3453(1),-,4247(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",PATHOLOGY,"₹4,35,000*","₹15,000*",0,₹0,600,-,-,3436(1),-,-,-,-,4314(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",ANAESTHESIOLOGY,"₹15,50,000*","₹15,000*",0,₹0,600,-,-,-,-,-,-,-,4327(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",OBG,"₹15,50,000*","₹15,000*",0,₹0,600,2489(2),2489(2),2489(2),-,-,-,-,4361(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Karpagam Faculty, Coimbatore",SPM,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,-,-,-,3628(1),-,4419(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Annapoorna Medical Coll, Salem",MICROBIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,-,-,-,-,-,-,-,-,4424(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",BIOCHEMISTRY,"₹4,35,000*","₹37,000*",0,₹0,1024,-,-,3391(2),-,-,-,3862(1),4490(2),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Sri Muthukumaran, Chennai",SPM,"₹4,35,000*","₹25,000",0,₹0,720,-,-,-,-,-,-,-,4501(1),-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,-,-,4507(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",ORTHOPAEDICS,"₹15,50,000*","₹15,000*",0,₹0,600,-,-,-,-,-,-,-,4512(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Tagore Med Coll, Chennai",PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,818,-,-,3718(1),-,-,3655(1),-,4515(1),-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,700,2971(1),2971(1),3813(2),3309(1),-,-,-,4591(1),-,-,4683(1)
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",SPM,"₹4,35,000*","₹15,000*",0,₹0,600,-,-,3947(1),-,-,-,-,4592(1),-,-,-
+TN Mgmt-Malayalam Min,Malayalam Minority,Tamil Nadu,"Mookambika IMS, Kanyakumari",GENERAL SURGERY,"₹15,50,000*","₹15,000*",0,₹0,600,1108(1),-,-,-,3757(1),1371(1),1371(1),-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Karpagam Faculty, Coimbatore",PATHOLOGY,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,-,-,-,2230(1),-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",BIOCHEMISTRY,"₹4,35,000*","₹10,000*",0,₹0,550,-,-,3901(1),3952(1),-,3130(1),-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"St. Peters Medical Coll, Hosur",DERMATOLOGY,"₹26,00,000*",Info not available,Info Not Available,Info not available,-,-,-,-,-,-,-,-,-,-,3696(1),3684(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",BIOCHEMISTRY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,3828(1),4003(1),-,3862(1),3849(1),-,-,-,3523(1)
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Srinivasan Med Coll,Samayapuram",ENT,"₹15,50,000*",Info not available,0,₹0,-,-,-,-,-,-,-,-,-,3940(2),3880(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",PHYSIOLOGY,"₹4,35,000*","₹37,000*",0,₹0,1024,-,-,3803(1),-,-,-,-,-,-,3996(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,PHYSIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,700,-,-,3924(1),-,-,-,-,-,-,-,4414(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",BIOCHEMISTRY,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,-,-,-,-,-,-,-,-,4482(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Srinivasan Med Coll,Samayapuram",SPM,"₹4,35,000*",Info not available,0,₹0,-,-,-,-,-,-,-,-,-,3726(1),4527(1),-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",PHARMACOLOGY,"₹4,35,000*","₹10,000*",0,₹0,550,2855(1),-,3482(1),-,-,1852(1),-,-,-,-,4671(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",PHYSIOLOGY,"₹4,35,000*","₹25,000*",0,₹0,1130,2815(1),-,3906(2),-,-,2768(1),2768(1),-,-,-,4699(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PHYSIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,-,-,-,2483(1),2483(1),-,-,-,4702(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Annapoorna Medical Coll, Salem",PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,-,-,-,-,-,-,-,-,-,-,-,4705(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",PHARMACOLOGY,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,3513(1),-,-,-,-,-,-,-,4715(1)
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,FORENSIC MEDICINE,"₹4,35,000*","₹35,000*",0,₹0,700,2433(1),-,3212(1),-,-,3406(1),3426(1),-,-,-,4720(1)
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",RADIO DIAGNOSIS,"₹15,50,000*","₹25,000*",0,₹0,1130,35(1),35(1),35(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",DERMATOLOGY,"₹15,50,000*","₹25,000*",0,₹0,1130,40(1),60(1),60(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",GENERAL MEDICINE,"₹15,50,000*","₹37,000*",0,₹0,1024,109(1),109(1),122(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,GENERAL MEDICINE,"₹15,50,000*","₹35,000*",0,₹0,700,286(1),286(1),286(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,PAEDIATRICS,"₹15,50,000*","₹35,000*",0,₹0,700,356(1),377(1),377(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,OBG,"₹15,50,000*","₹35,000*",0,₹0,700,340(1),408(1),408(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",DERMATOLOGY,"₹15,50,000*",Info not available,0,₹0,-,483(1),483(1),483(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",ORTHOPAEDICS,"₹15,50,000*","₹25,000*",0,₹0,1130,202(1),509(1),509(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OBG,"₹15,50,000*","₹35,000*",0,₹0,800,-,602(1),602(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",OBG,"₹15,50,000*",Info not available,0,₹0,-,745(1),745(1),745(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",ENT,"₹15,50,000*","₹37,000*",0,₹0,1024,525(1),795(1),795(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",TBRD,"₹15,50,000*","₹15,000*",0,₹0,600,-,937(1),937(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",GENERAL MEDICINE,"₹15,50,000*",Info not available,0,₹0,-,641(2),1028(2),1028(2),-,-,-,-,-,-,-,-
+TN CMC-Service,CMC-Service,Tamil Nadu,"CMC, Vellore",GERIATRICS,"₹65,470*","₹51,000",2,"₹40,00,000",2879,-,1104(1),1104(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",OPHTHALMOLOGY,"₹15,50,000*",Info not available,0,₹0,-,1147(1),-,-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,ORTHOPAEDICS,"₹15,50,000*","₹35,000*",0,₹0,700,786(1),1168(2),1168(2),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Sri Muthukumaran, Chennai",GENERAL SURGERY,"₹15,50,000*","₹25,000",0,₹0,720,-,1173(1),1173(1),-,-,-,-,-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",TBRD,"₹15,50,000*","₹35,000*",0,₹0,1575,1220(1),1220(1),1220(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",ORTHOPAEDICS,"₹15,50,000*","₹15,000*",0,₹0,600,-,1465(2),1233(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ANAESTHESIOLOGY,"₹15,50,000*","₹35,000*",0,₹0,1575,-,1557(2),1557(2),-,-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",RADIO DIAGNOSIS,-,-,-,-,600,-,1604(2),1604(2),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",ENT,"₹15,50,000*","₹15,000*",0,₹0,600,-,1856(1),1856(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",EMERGENCY MEDICINE,"₹15,50,000*","₹15,000*",0,₹0,600,-,1913(2),1913(1),-,-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",TBRD,"₹26,00,000*","₹10,000*",0,₹0,550,1920(1),1920(1),1920(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Sri Muthukumaran, Chennai",ENT,"₹15,50,000*","₹25,000",0,₹0,720,-,1977(1),-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",ANAESTHESIOLOGY,"₹15,50,000*","₹38,000*",0,₹0,675,-,2010(1),-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",PATHOLOGY,"₹4,35,000*","₹15,000*",0,₹0,600,2024(1),-,-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",OPHTHALMOLOGY,"₹15,50,000*","₹15,000*",0,₹0,600,-,2031(2),-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",SPM,"₹4,35,000*","₹15,000*",0,₹0,600,2131(1),-,-,-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",OPHTHALMOLOGY,"₹15,50,000*","₹38,000*",0,₹0,675,-,2180(1),2180(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ORTHOPAEDICS,"₹15,50,000*","₹35,000*",0,₹0,800,933(1),1287(1),2190(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",ENT,"₹15,50,000*",Info not available,0,₹0,-,2245(1),2245(1),2245(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OPHTHALMOLOGY,"₹15,50,000*","₹35,000*",0,₹0,800,1112(1),2201(1),2024(1),2288(1),-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",PAEDIATRICS,"₹15,50,000*",Info not available,0,₹0,-,723(1),2442(1),2442(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Mookambika IMS, Kanyakumari",ANAESTHESIOLOGY,"₹15,50,000*","₹15,000*",0,₹0,600,-,2607(2),2607(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",ORTHOPAEDICS,"₹15,50,000*",Info not available,0,₹0,-,1233(1),2634(1),2634(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",PSYCHIATRY,"₹15,50,000*",Info not available,0,₹0,-,2643(1),2643(1),2643(1),-,-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",ORTHOPAEDICS,"₹26,00,000*","₹10,000*",0,₹0,550,2670(1),-,2044(1),-,-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",ANAESTHESIOLOGY,"₹15,50,000*",Info not available,0,₹0,-,1092(1),2827(1),2827(1),-,-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",TBRD,"₹26,00,000*","₹15,000*",0,₹0,600,2326(1),2922(1),2917(1),-,-,-,-,-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",OPHTHALMOLOGY,"₹15,50,000*","₹35,000*",0,₹0,800,2961(1),2991(1),2991(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Sri Muthukumaran, Chennai",SPM,"₹4,35,000*","₹25,000",0,₹0,720,-,2993(1),2993(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Karpagam Faculty, Coimbatore",SPM,"₹4,35,000*","₹38,000*",0,₹0,675,-,-,3097(1),3098(1),-,-,-,-,-,-,-
+TN Mgmt-Christian Min,Christian Minority,Tamil Nadu,"Madha Medical College, Chennai",GENERAL SURGERY,"₹15,50,000*",Info not available,0,₹0,-,2202(3),2202(3),3312(3),2646(1),-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Mookambika IMS, Kanyakumari",OPHTHALMOLOGY,"₹26,00,000*","₹15,000*",0,₹0,600,2268(1),-,3188(2),3345(1),-,-,-,-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Karpagam Faculty, Coimbatore",ANAESTHESIOLOGY,"₹15,50,000*","₹38,000*",0,₹0,675,2885(1),-,3357(1),-,-,-,-,-,-,-,-
+TN NRI Quota,NRI,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",ANAESTHESIOLOGY,"₹26,00,000*","₹35,000*",0,₹0,800,3034(1),-,3433(1),-,-,-,-,-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",SPM,"₹4,35,000*","₹35,000*",0,₹0,1575,2986(1),-,3629(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",PHYSIOLOGY,"₹4,35,000*","₹10,000*",0,₹0,550,-,-,3666(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Velammal Med Col, Madurai",ANATOMY,"₹4,35,000*","₹37,000*",0,₹0,1024,-,-,3683(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"PSG IMS, Coimbatore",ANATOMY,"₹4,35,000*","₹25,000*",0,₹0,1130,-,-,3709(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PHARMACOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,3773(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,Melmaruvathur Adiparasakthi,BIOCHEMISTRY,"₹4,35,000*","₹35,000*",0,₹0,700,-,-,3848(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"KarpagaVinayaga,Maduranthagam",ANATOMY,"₹4,35,000*","₹10,000*",0,₹0,550,-,-,3898(1),3736(1),-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Dhanalakshmi Srin, Perambalur",PHYSIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,800,-,-,3981(1),-,-,-,-,-,-,-,-
+TN Mgmt-Telugu Min,Telugu Minority,Tamil Nadu,"Trichy SRM Med Coll, Trichy",PHYSIOLOGY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,3982(1),-,-,-,-,-,-,-,-
+TN Mgmt Quota,GEN,Tamil Nadu,"Trichy SRM Med Coll, Trichy",ANATOMY,"₹4,35,000*","₹35,000*",0,₹0,1575,-,-,3362(1),-,3997(1),-,-,-,-,-,-

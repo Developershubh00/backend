@@ -1,0 +1,294 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2023 5,CR 2023 6,CR 2023 7,CR 2024 1,CR 2024 2,CR 2024 3,CR 2024 4,CR 2024 5
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",DERMATOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,5(1),5(1),5(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",GENERAL MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,2(1),8(1),8(1),-,-,-,-,7(1),13(1),13(1),-,-
+PY-Govt Quota,UEB,Pondicherry,"IGMC & RI, Pondicherry",DERMATOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,25(1),25(1),25(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"IGMC & RI, Pondicherry",GENERAL MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,9(1),30(1),30(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",OBG,"₹1,10,000*","₹43,000",0,₹0,750,1(1),20(1),20(1),-,-,-,-,4(1),31(1),31(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",GENERAL MEDICINE,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,29(1),33(1),33(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000","₹43,000",0,₹0,740,3(1),13(1),13(1),-,-,-,-,2(1),38(1),38(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",DERMATOLOGY,"₹7,95,000","₹43,000",0,₹0,740,12(1),81(1),83(1),-,-,-,-,19(1),43(1),43(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",GENERAL SURGERY,"₹1,10,000*","₹43,000",0,₹0,750,6(1),52(1),124(1),-,-,-,-,3(1),45(1),45(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",PAEDIATRICS,"₹7,95,000","₹43,000",0,₹0,740,9(1),75(1),75(1),-,-,-,-,20(1),40(1),49(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,48(3),91(3),91(3),-,-,-,-,52(2),52(1),52(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",RADIO DIAGNOSIS,"₹23,90,000*",₹0*,0,₹0,900,11(4),160(4),160(4),-,-,-,-,10(4),61(4),61(4),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",ORTHOPAEDICS,"₹1,10,000*","₹43,000",0,₹0,750,4(1),34(1),76(1),-,-,-,-,11(1),62(1),62(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",OBG,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,63(1),63(1),63(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",OBG,"₹7,95,000",₹0*,0,₹0,900,39(2),187(2),187(2),-,-,-,-,64(1),64(1),64(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",GENERAL MEDICINE,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,33(1),66(1),66(1),-,-
+PY-Govt Quota,UEB,Pondicherry,"PIMS, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,67(1),67(1),67(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",DERMATOLOGY,"₹23,90,000*",₹0*,0,₹0,900,15(2),194(2),194(2),-,-,-,-,19(2),68(2),68(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000",₹0*,0,₹0,900,13(2),51(2),51(2),-,-,-,-,38(2),70(2),70(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",ANAESTHESIOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,30(1),72(1),72(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",DERMATOLOGY,"₹7,95,000",₹0*,0,₹0,900,23(1),69(1),84(1),-,-,-,-,43(1),75(1),75(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",DERMATOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,76(1),76(1),76(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,70(1),77(1),77(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",ENT,"₹1,10,000*","₹43,000",0,₹0,750,17(1),110(1),110(1),-,-,-,-,42(1),83(1),83(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",DERMATOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,75(1),84(1),84(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",ANAESTHESIOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,31(1),86(1),86(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",TBRD,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,40(1),93(1),93(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",OPHTHALMOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,7(1),95(1),95(1),-,-,-,-,13(1),42(1),95(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",GENERAL SURGERY,"₹7,95,000","₹43,000",0,₹0,740,19(1),83(1),176(1),-,-,-,-,8(1),57(1),96(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",ORTHOPAEDICS,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,27(1),97(1),97(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"PIMS, Pondicherry",GENERAL SURGERY,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,54(1),95(1),101(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000",₹0*,0,₹0,900,28(1),160(1),160(1),-,-,-,-,66(1),107(1),107(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,62(4),82(4),82(4),-,-,-,-,80(5),111(5),111(5),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,70(3),114(3),116(3),-,-,-,-,79(3),79(3),112(3),-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",GENERAL MEDICINE,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,-,-,115(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",TBRD,"₹7,95,000",₹0*,0,₹0,900,79(1),164(1),164(1),-,-,-,-,69(1),116(1),116(1),-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,120(1),120(1),120(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,77(1),168(1),168(1),-,-,-,-,-,124(1),124(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",OPHTHALMOLOGY,"₹7,95,000","₹43,000",0,₹0,740,25(1),100(1),100(1),-,-,-,-,60(1),125(1),125(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,74(1),136(1),136(1),-,-,-,-,94(1),129(1),129(1),-,-
+PY-Govt Quota,UEB,Pondicherry,"PIMS, Pondicherry",OPHTHALMOLOGY,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,137(1),137(1),137(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,138(1),138(1),138(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000","₹43,000",0,₹0,740,85(1),181(1),359(1),-,-,-,-,72(1),142(1),145(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",DERMATOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,49(1),88(1),88(1),-,-,-,-,77(1),81(1),147(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,116(1),145(1),145(1),-,-,-,-,132(2),150(2),150(2),-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",GENERAL SURGERY,"₹7,95,000","₹43,000",0,₹0,740,83(2),176(2),426(2),-,-,-,-,57(1),155(1),155(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹7,95,000",₹0*,0,₹0,900,90(1),103(1),103(1),-,-,-,-,156(1),156(1),156(1),-,-
+PY-Govt Quota,UBM,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,112(1),112(1),158(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,120(5),197(5),197(5),-,-,-,-,123(4),161(5),161(5),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",GENERAL SURGERY,"₹7,95,000",₹0*,0,₹0,900,96(2),219(2),219(2),-,-,-,-,95(2),160(2),165(2),-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",PAEDIATRICS,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,171(1),171(1),171(1),-,-
+PY-Govt Quota,UMB-FF,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,107(1),172(1),172(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,87(2),191(2),191(2),-,-,-,-,153(3),175(3),175(3),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,153(1),239(1),239(1),-,-,-,-,176(1),176(1),176(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",OBG,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,130(1),182(1),182(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,72(1),178(1),178(1),-,-,-,-,144(2),158(2),183(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",ORTHOPAEDICS,"₹7,95,000",₹0*,0,₹0,900,129(2),254(2),254(2),-,-,-,-,35(1),144(1),185(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",SPM,"₹1,10,000*","₹43,000",0,₹0,750,21(1),148(1),148(1),-,-,-,-,51(2),186(2),187(2),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,152(2),215(2),215(2),-,-,-,-,134(1),191(1),191(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",MICROBIOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,47(1),194(1),427(1),-,-,-,-,169(1),257(1),192(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,166(1),196(1),196(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",ORTHOPAEDICS,"₹7,95,000",₹0*,0,₹0,900,215(1),303(1),303(1),-,-,-,-,97(1),183(1),198(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",GENERAL SURGERY,"₹7,95,000",₹0*,0,₹0,900,171(1),334(1),417(1),-,-,-,-,199(1),199(1),199(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",ENT,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,127(1),204(1),204(1),-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",ORTHOPAEDICS,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,26(1),206(1),206(1),-,-
+PY-Govt Quota,UBM,Pondicherry,"SriVenkateswaraa, Pondicherry",TBRD,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,158(1),210(1),210(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,211(1),211(1),211(1),-,-
+PY-Govt Quota,UGE-FF,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,212(1),212(1),212(1),-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SMVMCH, Pondicherry",GENERAL SURGERY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,215(1),215(1),215(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",DERMATOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,223(1),223(1),223(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",ENT,"₹7,95,000",₹0*,0,₹0,900,121(1),263(1),266(1),-,-,-,-,162(1),227(1),227(1),-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",OPHTHALMOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,206(1),231(1),231(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",EMERGENCY MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,136(1),218(1),265(1),-,-,-,-,131(1),232(1),232(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ORTHOPAEDICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,109(2),217(2),276(2),-,-,-,-,143(2),233(2),233(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,178(5),276(5),264(5),-,-,-,-,180(5),235(5),235(5),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,134(3),207(3),268(3),-,-,-,-,116(3),219(3),236(3),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ENT,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,175(1),243(1),243(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹23,90,000*",₹0*,0,₹0,900,48(9),454(9),508(9),-,-,-,-,32(9),218(9),245(9),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,250(1),250(1),250(1),-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",SPM,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,231(1),303(1),252(1),423(1),-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,182(1),254(1),254(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",PATHOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,99(1),101(1),255(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",GENERAL SURGERY,"₹7,95,000",₹0*,0,₹0,900,119(1),285(1),433(1),-,-,-,-,150(1),165(1),259(1),-,-
+PY-Govt Quota,UEB,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,286(1),286(1),286(1),-,-,-,-,256(1),262(1),262(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",ORTHOPAEDICS,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,264(1),264(1),264(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,283(2),283(2),265(2),-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",PATHOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,145(1),145(1),266(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,183(1),382(1),382(1),-,-,-,-,-,259(1),268(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,127(2),244(2),244(2),-,-,-,-,172(1),272(1),272(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",SPM,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,136(1),187(1),276(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",OBG,"₹7,95,000",₹0*,0,₹0,900,188(1),188(1),188(1),-,-,-,-,133(1),279(1),279(1),-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,252(1),252(1),283(1),427(1),-
+PY-Govt Quota,UST,Pondicherry,"IGMC & RI, Pondicherry",GENERAL SURGERY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,286(1),286(1),286(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,315(2),315(2),315(2),-,-,-,-,170(1),289(1),289(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",ORTHOPAEDICS,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,-,-,291(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PATHOLOGY,"₹6,55,000*","₹7,000*",2*,Info not available*,1120,234(1),398(1),568(2),-,536(1),-,-,285(1),294(1),294(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",PHARMACOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,249(1),296(1),296(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",ENT,"₹7,95,000",₹0*,0,₹0,900,167(1),266(1),443(1),-,-,-,-,200(1),297(1),297(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",PSYCHIATRY,"₹7,95,000","₹43,000",0,₹0,740,81(1),163(1),163(1),-,-,-,-,81(1),168(1),304(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,158(3),272(3),283(3),-,-,-,-,173(3),273(3),306(3),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,189(1),277(1),277(1),-,-,-,-,188(1),308(1),308(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,270(1),413(1),413(1),-,-,-,-,279(1),310(1),310(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,275(1),411(1),422(1),-,-,-,-,289(1),311(1),311(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",SPM,"₹6,55,000","₹43,000",0,₹0,740,91(1),224(1),319(2),-,-,-,-,229(1),239(1),317(1),-,-
+PY-Govt Quota,USC-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,-,318(1),318(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,205(1),205(1),205(1),-,-,-,-,265(1),265(1),325(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",FORENSIC MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,125(1),313(1),313(1),-,-,-,-,103(1),281(1),330(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,305(1),316(1),-,-,-,-,155(1),276(1),331(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PSYCHIATRY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,170(1),317(1),342(1),-,-,-,-,193(1),317(1),333(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹23,90,000*",₹0*,0,₹0,900,84(6),577(6),679(6),-,-,-,-,61(6),306(6),334(6),-,-
+PY-Govt Quota,UBM,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,210(1),335(1),335(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",ENT,"₹7,95,000",₹0*,0,₹0,900,294(1),395(1),395(1),-,-,-,-,274(1),327(1),338(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",ENT,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,140(1),265(1),377(1),-,-,-,-,194(1),339(1),339(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",PSYCHIATRY,"₹7,95,000",₹0*,0,₹0,900,163(1),170(1),170(1),435(1),-,-,-,168(1),282(1),341(1),422(1),-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",OPHTHALMOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,329(1),422(1),411(1),-,-,-,-,310(1),325(1),346(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,138(1),-,-,-,-,-,-,129(1),236(1),348(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",PATHOLOGY,"₹6,55,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,349(1),349(1),349(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"IGMC & RI, Pondicherry",PATHOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,102(1),192(1),354(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",OPHTHALMOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,191(1),206(1),206(1),-,-,-,-,124(1),326(1),355(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",OBG,"₹23,90,000*",₹0*,0,₹0,900,36(3),372(3),449(3),-,-,-,-,88(3),357(3),357(3),-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",PSYCHIATRY,"₹7,95,000",₹0*,0,₹0,900,198(1),443(1),553(1),-,-,-,-,263(1),304(1),358(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",PATHOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,248(1),255(1),360(1),-,-
+PY-Govt Quota,UBM,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,335(1),362(1),362(1),-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",SPM,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,361(1),372(1),372(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",ORTHOPAEDICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,255(1),297(1),297(1),-,-,-,-,-,-,373(1),-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,160(1),351(1),393(1),-,-,-,-,216(1),280(1),375(1),-,-
+PY-Govt Quota,UMB-MSP,Pondicherry,"SriVenkateswaraa, Pondicherry",ORTHOPAEDICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,376(1),376(1),376(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,-,338(1),378(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,296(1),-,-,-,-,196(1),301(1),384(1),-,-
+PY-Govt Quota,UGE-MSP,Pondicherry,"PIMS, Pondicherry",TBRD,"₹7,95,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,389(1),390(1),393(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",PSYCHIATRY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,236(1),382(1),396(1),-,-
+PY-Govt Quota,UGE-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,-,89(1),403(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",PHYSIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,253(1),-,405(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",SPM,"₹6,55,000*","₹7,000*",2*,Info not available*,1120,-,-,-,579(1),596(2),-,-,273(1),347(1),415(1),-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",PSYCHIATRY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,311(1),346(1),421(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",SPM,"₹5,00,000*",₹0*,0,₹0,900,179(1),417(1),436(1),-,-,-,-,241(1),306(1),433(1),-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",ANATOMY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,330(1),-,436(1),-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",FORENSIC MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,288(1),330(1),437(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",PHARMACOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,58(1),331(1),331(1),-,-,-,-,159(1),214(1),440(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",TBRD,"₹23,90,000*",₹0*,0,₹0,900,58(1),427(1),733(1),-,-,-,-,82(2),315(2),453(2),-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",SPM,"₹6,55,000*","₹7,000*",2*,Info not available*,1120,333(1),-,429(1),-,-,-,-,372(1),378(1),459(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",MICROBIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,204(1),346(1),346(1),-,-,-,-,178(1),305(1),463(1),-,-
+PY-Govt Quota,UOB,Pondicherry,"IGMC & RI, Pondicherry",MICROBIOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,192(1),333(1),472(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PHARMACOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,303(1),-,-,-,-,-,-,341(1),384(1),475(2),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",PATHOLOGY,"₹5,00,000*",₹0*,0,₹0,900,212(2),368(3),589(3),-,-,-,-,260(1),266(1),477(3),-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",MICROBIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,255(1),375(1),479(1),-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",PHARMACOLOGY,"₹1,00,000*",₹0*,0,₹0,900,285(1),482(1),547(1),-,-,-,-,287(1),-,493(1),-,493(1)
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",GENERAL SURGERY,"₹23,90,000","₹43,000",0,₹0,740,-,575(3),558(2),-,-,-,-,-,-,569(3),1278(1),-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",OPHTHALMOLOGY,"₹23,90,000","₹43,000",0,₹0,740,-,1401(2),1021(2),-,-,-,-,-,-,614(1),878(1),-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹23,90,000","₹43,000",0,₹0,740,-,1555(3),1565(3),-,-,-,-,-,-,679(3),1170(1),-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",ENT,"₹23,90,000","₹43,000",0,₹0,740,-,878(1),878(1),-,-,-,-,-,-,689(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,943(9),943(8),-,-,-,-,-,-,714(8),928(2),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",ORTHOPAEDICS,"₹23,90,000*",₹0*,0,₹0,900,79(3),1242(3),910(3),-,-,-,-,185(3),611(3),786(3),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,815(4),815(3),-,-,-,-,-,-,837(4),1206(2),-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",OBG,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,866(1),-,866(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,777(5),777(5),-,-,-,-,-,-,998(5),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹23,90,000*",₹0*,0,₹0,900,131(3),1539(3),1541(3),-,-,-,-,228(2),1002(2),1002(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",GENERAL SURGERY,"₹23,90,000*",₹0*,0,₹0,900,91(5),856(5),856(5),-,-,-,-,121(4),626(4),1024(4),-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",PAEDIATRICS,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,1176(1),1176(1),1176(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",PSYCHIATRY,"₹23,90,000","₹43,000",0,₹0,740,-,1130(1),1130(1),-,-,-,-,-,-,1179(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹23,90,000*",₹0*,0,₹0,900,99(6),-,1832(6),-,-,-,-,236(6),1226(6),1226(6),1372(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",EMERGENCY MEDICINE,"₹33,00,000*","₹7,000*",2*,Info not available*,1120,-,1604(1),1737(1),-,-,-,-,-,-,1288(2),1572(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",ENT,"₹23,90,000*",₹0*,0,₹0,900,147(3),1621(1),1654(3),1816(1),-,-,-,229(3),850(3),1346(3),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",OPHTHALMOLOGY,"₹33,00,000*","₹7,000*",2*,Info not available*,1120,-,1543(2),1548(2),-,-,-,1936(1),-,-,1356(3),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ORTHOPAEDICS,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,1569(4),1588(4),-,-,-,1586(1),-,-,1370(4),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ENT,"₹33,00,000*","₹7,000*",2*,Info not available*,1120,-,-,1682(2),-,-,-,-,-,-,1433(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",PATHOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,1549(2),1554(2),-,-,-,-,-,-,1501(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,1359(9),1359(9),-,-,-,-,-,-,1515(10),1564(4),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",PSYCHIATRY,"₹23,90,000*",₹0*,0,₹0,900,159(3),1638(2),1684(3),-,-,-,-,241(3),1472(3),1535(3),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹33,00,000*","₹7,000*",2*,Info not available*,1120,-,-,1964(7),-,-,-,1839(1),-,-,1560(6),1556(2),-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PSYCHIATRY,"₹33,00,000*","₹7,000*",2*,Info not available*,1120,-,-,1853(2),-,-,-,-,-,-,1567(1),1531(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",PHARMACOLOGY,"₹1,00,000*",₹0*,0,₹0,900,361(2),-,-,-,-,-,-,661(2),-,1628(1),-,2035(1)
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",SPM,"₹6,55,000","₹43,000",0,₹0,740,-,1353(2),1569(2),-,-,-,-,-,-,1727(2),1770(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PHARMACOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,2220(1),-,-,-,1735(1),-,2215(1)
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",PATHOLOGY,"₹5,00,000*",₹0*,0,₹0,900,253(3),1576(1),2135(2),1937(1),-,-,-,629(3),-,1753(3),-,-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,1231(3),460(1),460(1),-,-,-,-,1666(3),1666(3),1785(5),-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",RADIO DIAGNOSIS,"₹23,90,000","₹43,000",0,₹0,740,1418(2),1418(2),1418(2),-,-,-,-,-,-,1798(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",PHARMACOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,1556(1),-,1882(1),-,-,-,-,-,1818(1),-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",DERMATOLOGY,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,864(1),864(1),1823(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PATHOLOGY,"₹13,05,000*","₹7,000*",2*,Info not available*,1120,-,-,2168(1),-,-,2181(1),-,-,-,1859(2),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",SPM,"₹5,00,000*",₹0*,0,₹0,900,171(1),-,2090(1),-,-,-,-,508(2),-,1962(2),2079(1),-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,101(1),-,2044(1),-,-,-,-,-,-,1993(1),-,-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,1217(1),1217(1),1824(2),-,-,-,-,1103(1),-,2006(1),-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",TBRD,"₹23,90,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,-,-,2037(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",SPM,"₹13,05,000*","₹7,000*",2*,Info not available*,1120,-,-,2048(1),2033(1),-,-,-,-,-,2124(2),-,2217(1)
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",MICROBIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,-,-,-,-,2172(1),-,2216(1)
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",DERMATOLOGY,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,1079(1),-,1861(2),-,-,-,-,-,-,2182(2),-,-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",TBRD,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,-,-,2214(1),-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",PHYSIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,364(2),-,-,-,-,-,-,40(1),-,-,-,-
+PY-Govt Quota,UMB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,89(1),-,-,-,-
+PY-Govt Quota,UGE-ESM,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,111(1),-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"IGMC & RI, Pondicherry",PHARMACOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,-,-,-,-,-,208(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",ANATOMY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,580(1),-,-,-,218(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",BIOCHEMISTRY,"₹6,55,000","₹43,000",0,₹0,740,133(1),-,-,-,-,-,-,225(1),-,-,-,-
+PY-Govt Quota,UMB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,-,-,-,-,-,-,-,254(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",PHYSIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,201(1),-,-,-,-,-,-,257(1),-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,326(2),329(2),329(2),-,-,-,-,275(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",ANATOMY,"₹1,00,000*",₹0*,0,₹0,900,257(2),-,-,-,-,-,-,305(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",BIOCHEMISTRY,"₹1,00,000*",₹0*,0,₹0,900,309(1),-,593(1),-,-,-,-,312(1),-,-,-,-
+PY-Govt Quota,USC-FF,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,-,-,-,-,-,-,318(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ANATOMY,"₹1,00,000*","₹7,000*",0,₹0,1120,295(1),-,-,-,-,-,-,333(1),-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",ANATOMY,"₹1,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,344(1),-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",PHARMACOLOGY,"₹1,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,353(1),-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",MICROBIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,347(1),-,-,-,-,-,-,355(1),-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",PATHOLOGY,"₹5,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,266(1),360(1),-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PHYSIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,321(1),-,-,-,-,-,-,368(1),-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",PHYSIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,378(1),-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",PATHOLOGY,"₹5,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,328(1),380(1),-,-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",PHARMACOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,-,-,383(1),-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",ANATOMY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,-,-,391(1),-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",MICROBIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,-,-,394(1),-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",PHYSIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,413(1),-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SMVMCH, Pondicherry",MICROBIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,-,-,-,-,-,-,-,281(1),-,-,451(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",BIOCHEMISTRY,"₹1,00,000*",₹0*,0,₹0,900,241(1),-,-,-,-,-,-,486(2),-,-,-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹23,90,000","₹43,000",0,₹0,740,1564(1),-,-,-,-,-,-,587(1),-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",ANATOMY,"₹1,00,000*",₹0*,0,₹0,900,207(2),-,-,-,-,-,-,362(2),-,-,1839(1),-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",MICROBIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,-,-,-,-,-,-,-,-,-,-,1929(2),-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",ANATOMY,"₹1,00,000*","₹7,000*",0,₹0,1120,-,-,-,-,-,-,-,-,-,-,2107(1),-
+PY Mgmt-Open,AGE,Pondicherry,"SMVMCH, Pondicherry",MICROBIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,302(1),-,-,-,-,-,-,526(1),-,-,2154(1),-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",DERMATOLOGY,"₹23,90,000","₹43,000",0,₹0,740,-,55(1),55(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UBM,Pondicherry,"PIMS, Pondicherry",DERMATOLOGY,"₹7,95,000","₹43,000",0,₹0,740,95(1),99(1),99(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,63(1),101(1),101(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000",₹0*,0,₹0,900,104(1),104(1),104(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"PIMS, Pondicherry",PAEDIATRICS,"₹7,95,000","₹43,000",0,₹0,740,30(1),107(1),112(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",PAEDIATRICS,"₹23,90,000","₹43,000",0,₹0,740,-,124(2),124(2),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",GENERAL SURGERY,"₹1,10,000*","₹43,000",0,₹0,750,135(1),135(1),135(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",GENERAL MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,92(1),150(1),150(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000","₹43,000",0,₹0,740,61(2),161(2),161(2),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",DERMATOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,88(1),169(1),169(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",TBRD,"₹7,95,000","₹43,000",0,₹0,740,32(1),119(1),175(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",OPHTHALMOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,132(1),184(1),184(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",OBG,"₹23,90,000","₹43,000",0,₹0,740,-,192(2),192(2),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"PIMS, Pondicherry",ENT,"₹7,95,000","₹43,000",0,₹0,740,33(1),112(1),194(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",OPHTHALMOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,16(1),153(1),198(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",ORTHOPAEDICS,"₹1,10,000*","₹43,000",0,₹0,750,8(1),64(1),201(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",ENT,"₹7,95,000","₹43,000",0,₹0,740,210(1),210(1),210(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",TBRD,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,84(1),211(1),211(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,220(3),220(3),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",OPHTHALMOLOGY,"₹7,95,000",₹0*,0,₹0,900,103(1),234(1),234(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",PATHOLOGY,"₹6,55,000","₹43,000",0,₹0,740,190(1),237(1),237(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",PHYSIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,238(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB-FF,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,241(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",ORTHOPAEDICS,"₹7,95,000","₹43,000",0,₹0,740,151(1),255(1),255(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UBM,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,187(1),256(1),256(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE-FF,Pondicherry,"SMVMCH, Pondicherry",GENERAL MEDICINE,"₹7,95,000",₹0*,0,₹0,900,261(1),261(1),261(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,273(1),273(1),273(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SMVMCH, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000",₹0*,0,₹0,900,-,279(1),279(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,280(1),280(1),280(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,108(1),116(1),285(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",DERMATOLOGY,"₹7,95,000",₹0*,0,₹0,900,154(1),154(1),287(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",ANAESTHESIOLOGY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,284(1),293(1),-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",MICROBIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,293(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",PAEDIATRICS,"₹7,95,000",₹0*,0,₹0,900,308(1),308(1),308(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UEB,Pondicherry,"PIMS, Pondicherry",OBG,"₹7,95,000","₹43,000",0,₹0,740,27(1),332(1),332(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",TBRD,"₹7,95,000",₹0*,0,₹0,900,287(1),287(1),334(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",PHARMACOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,345(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",PHYSIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,346(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",PHARMACOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,73(1),354(1),354(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",BIOCHEMISTRY,"₹1,00,000*",₹0*,0,₹0,900,356(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",EMERGENCY MEDICINE,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,322(1),357(1),357(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",ANATOMY,"₹1,10,000*","₹43,000",0,₹0,750,156(1),359(1),-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UBM,Pondicherry,"PIMS, Pondicherry",ANATOMY,"₹6,55,000","₹43,000",0,₹0,740,379(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE-ESM,Pondicherry,"SriVenkateswaraa, Pondicherry",PAEDIATRICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,115(1),384(1),384(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",PHYSIOLOGY,"₹1,00,000*",₹0*,0,₹0,900,386(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",PATHOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,262(1),407(1),407(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UEB,Pondicherry,"IGMC & RI, Pondicherry",SPM,"₹1,10,000*","₹43,000",0,₹0,750,147(1),412(1),412(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SMVMCH, Pondicherry",PSYCHIATRY,"₹7,95,000",₹0*,0,₹0,900,207(1),290(1),418(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE-ESM,Pondicherry,"SMVMCH, Pondicherry",PATHOLOGY,"₹5,00,000*",₹0*,0,₹0,900,420(1),-,-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB-FF,Pondicherry,"SriVenkateswaraa, Pondicherry",GENERAL SURGERY,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,271(1),425(1),425(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"SriVenkateswaraa, Pondicherry",PATHOLOGY,"₹6,55,000*","₹7,000*",2*,Info not available*,1120,283(1),427(1),-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SriVenkateswaraa, Pondicherry",ORTHOPAEDICS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,176(1),392(1),430(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",DERMATOLOGY,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,432(2),-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB-MSP,Pondicherry,"SriVenkateswaraa, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000*","₹7,000*",2*,Info not available*,1120,445(1),445(1),445(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"PIMS, Pondicherry",PSYCHIATRY,"₹7,95,000","₹43,000",0,₹0,740,137(1),172(1),470(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"SMVMCH, Pondicherry",SPM,"₹5,00,000*",₹0*,0,₹0,900,235(1),479(1),482(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UST,Pondicherry,"PIMS, Pondicherry",RADIO DIAGNOSIS,"₹7,95,000","₹43,000",0,₹0,740,481(1),481(1),484(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UMB,Pondicherry,"IGMC & RI, Pondicherry",FORENSIC MEDICINE,"₹1,10,000*","₹43,000",0,₹0,750,173(1),402(1),485(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE-FF,Pondicherry,"PIMS, Pondicherry",SPM,"₹6,55,000","₹43,000",0,₹0,740,141(1),496(1),-,-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UBT,Pondicherry,"IGMC & RI, Pondicherry",OBG,"₹1,10,000*","₹43,000",0,₹0,750,-,-,520(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"IGMC & RI, Pondicherry",MICROBIOLOGY,"₹1,10,000*","₹43,000",0,₹0,750,150(1),-,538(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"IGMC & RI, Pondicherry",ANATOMY,"₹1,10,000*","₹43,000",0,₹0,750,-,-,561(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"PIMS, Pondicherry",MICROBIOLOGY,"₹6,55,000","₹43,000",0,₹0,740,330(1),-,574(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UOB,Pondicherry,"PIMS, Pondicherry",PHARMACOLOGY,"₹6,55,000","₹43,000",0,₹0,740,242(1),345(1),581(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SriVenkateswaraa, Pondicherry",BIOCHEMISTRY,"₹1,00,000*","₹7,000*",0,₹0,1120,410(1),-,588(1),-,-,-,-,-,-,-,-,-
+PY-Govt Quota,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",MICROBIOLOGY,"₹1,00,000*","₹7,000*",0,₹0,1120,239(1),-,-,-,-,598(1),-,-,-,-,-,-
+PY-Govt Quota,USC,Pondicherry,"SMVMCH, Pondicherry",PHARMACOLOGY,"₹1,00,000*",₹0*,0,₹0,900,405(1),-,601(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",TBRD,"₹23,90,000","₹43,000",0,₹0,740,-,477(2),734(2),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"SriVenkateswaraa, Pondicherry",TBRD,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,-,848(1),848(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",PATHOLOGY,"₹13,05,000*","₹7,000*",2*,Info not available*,1120,1393(1),-,-,-,-,-,-,-,-,-,-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",ORTHOPAEDICS,"₹23,90,000","₹43,000",0,₹0,740,1406(1),1406(1),1406(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-TeluguMin,UGE,Pondicherry,"SriVenkateswaraa, Pondicherry",OBG,"₹39,00,000*","₹7,000*",2*,Info not available*,1120,1563(1),1563(1),1579(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Chris.Min,UGE,Pondicherry,"PIMS, Pondicherry",GENERAL SURGERY,"₹23,90,000","₹43,000",0,₹0,740,1228(1),-,1906(1),-,-,-,-,-,-,-,-,-
+PY Mgmt-Open,AGE,Pondicherry,"PIMS, Pondicherry",ANATOMY,"₹6,55,000","₹43,000",0,₹0,740,-,-,2157(1),-,-,-,-,-,-,-,-,-

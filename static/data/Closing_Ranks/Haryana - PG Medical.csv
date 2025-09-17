@@ -1,0 +1,695 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2023 4,CR 2023 5,CR 2023 6,CR 2024 1,CR 2024 2,CR 2024 3,CR 2024 4,CR 2024 5
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",RADIO DIAGNOSIS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,6(1),2(1),1(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",RADIO DIAGNOSIS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,5(1),3(1),2(1),-,-
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",RADIO DIAGNOSIS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,8(1),23(1),5(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",DERMATOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,12(1),-,-,-,-,-,3(1),8(1),6(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,44(1),21(1),9(1),-,-,-,35(1),17(1),7(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,3(2),-,-,1(1),-,-,9(2),6(2),8(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,4(1),2(1),2(1),-,-,13(1),15(1),9(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,89(1),63(1),10(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,55(1),-,-,-,-,116(1),79(1),12(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",RADIO DIAGNOSIS,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,121(1),107(1),14(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,58(1),47(1),14(1),-,-,-,25(1),12(1),15(1),-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,136(1),113(1),17(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",TBRD,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,45(1),72(1),28(1),-,-,-,141(1),127(1),18(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,67(1),-,-,-,-,-,43(1),134(1),20(1),-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,8(1),30(1),-,-,-,-,12(1),26(1),21(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,46(1),24(1),-,7(1),-,-,64(2),46(2),23(2),-,2(1)
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,88(2),53(2),20(1),-,-,1(1),101(2),77(2),26(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",PAEDIATRICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,82(1),57(1),28(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,51(1),16(1),-,-,-,108(1),103(1),29(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,107(2),59(1),30(1),-,-,-,72(1),80(1),30(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",RADIO DIAGNOSIS,"₹14,02,000*","₹56,100",0,₹0,-,203(2),271(2),149(2),-,-,-,312(2),224(2),32(2),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",OPHTHALMOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,180(1),115(1),36(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,106(1),54(1),18(1),-,-,-,161(3),141(3),38(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,95(1),98(1),39(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",DERMATOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,597(1),266(1),43(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",RADIATION ONCOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,205(1),233(1),-,-,-,-,208(1),275(1),46(1),-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,131(1),111(1),50(1),-,-,-,194(1),170(1),47(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,422(1),280(1),49(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,149(2),125(2),61(2),33(1),-,-,185(2),168(2),53(2),9(1),-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,228(1),138(1),70(1),-,-,-,291(2),248(2),56(2),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",OPHTHALMOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,328(1),305(1),57(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",DERMATOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,249(1),286(1),159(1),-,-,-,366(1),311(1),59(1),-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,159(1),90(1),-,-,-,700(1),-,68(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,275(5),177(5),117(4),35(1),-,-,326(6),254(6),71(4),15(1),-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",OBG,"₹14,02,000*","₹40,000",0,₹0,680,417(1),319(1),181(1),-,-,-,670(1),355(1),73(1),-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,362(1),269(1),-,-,-,-,403(2),326(2),77(1),30(1),-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,302(2),211(2),141(2),-,-,-,407(2),265(2),79(2),17(1),-
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,540(1),387(1),84(1),-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,473(2),304(2),87(2),-,-
+HAR Govt-Inst. Pref,IP-BCA,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,614(1),346(1),88(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,371(1),208(1),109(1),-,-,-,1015(1),-,94(1),-,57(1)
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,556(2),337(1),198(1),87(1),-,-,908(2),487(1),97(1),39(1),-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,360(1),248(1),132(1),-,-,-,444(2),411(2),102(1),67(1),-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",PMR,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,555(1),300(1),-,-,-,367(1),434(1),108(1),-,-
+Haryana Priv IP,IP-BCB,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,567(1),398(1),109(1),-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",ENT,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,492(1),-,110(1),36(1),-
+HAR Priv-Govt Quota,UR,Haryana,"NC Med Coll, Panipat",PAEDIATRICS,"₹14,02,000*","₹40,000",0,₹0,680,585(1),327(1),-,-,-,-,801(1),438(1),111(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",GENERAL MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,384(1),231(1),125(1),-,-,-,538(2),445(1),115(1),57(1),-
+HAR Priv-Govt Quota,BCA,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,718(1),390(1),117(1),28(1),-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",TBRD,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1016(1),460(1),120(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",ORTHOPAEDICS,"₹14,02,000*","₹56,100",0,₹0,-,524(2),539(2),-,236(1),-,-,955(1),477(1),131(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,-,-,134(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",RADIO DIAGNOSIS,"₹45,00,000*","₹56,100",Info Not Available,Info not available,720,457(4),293(3),127(1),93(3),233(3),-,358(4),503(4),137(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,364(1),281(1),156(1),128(2),-,-,599(2),425(2),139(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",PAEDIATRICS,"₹14,02,000*","₹40,000",0,₹0,680,460(2),372(2),-,-,-,-,790(3),485(3),140(1),76(1),-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",DERMATOLOGY,"₹40,00,000*","₹56,100",Info Not Available,Info not available,720,621(1),366(1),330(1),-,-,-,892(1),504(1),144(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",PAEDIATRICS,"₹14,02,000*","₹56,100",0,₹0,-,496(2),497(2),303(2),139(1),384(1),-,747(2),464(2),145(2),68(1),-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",GENERAL SURGERY,"₹14,02,000*","₹40,000",0,₹0,680,596(2),402(2),379(1),-,-,-,1014(3),558(3),148(1),-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,286(1),148(1),80(1),-,-,-,861(1),-,150(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",GENERAL MEDICINE,"₹29,90,000*","₹55,000",0,₹0,-,459(3),542(5),346(5),143(2),234(1),-,837(4),685(4),151(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",PSYCHIATRY,"₹14,02,000*","₹44,000",0,₹0,775,643(2),413(1),-,-,-,-,881(1),519(1),152(1),-,-
+HAR Govt-Inst. Pref,IP-SCD,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,821(1),-,153(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",PAEDIATRICS,"₹32,00,000*","₹56,100",Info Not Available,Info not available,720,647(2),493(2),260(1),-,-,-,1042(2),521(2),154(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",TBRD,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,840(1),522(1),155(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",OBG,"₹14,02,000*","₹56,100",0,₹0,-,533(2),534(2),336(1),-,-,-,-,-,158(1),75(1),-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,392(2),288(2),183(2),-,-,-,988(2),-,159(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",OPHTHALMOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,871(1),540(1),164(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",PATHOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,644(2),380(1),232(1),-,-,-,604(1),441(1),167(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,666(2),367(1),173(1),179(2),-,-,679(2),498(2),174(2),-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"ESIC Med Coll, Faridabad",EMERGENCY MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1499(1),561(1),175(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",DERMATOLOGY,"₹32,90,000*","₹55,000",0,₹0,-,493(2),454(2),-,-,-,-,687(2),609(2),178(1),-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,350(2),312(2),174(2),-,-,-,1318(1),-,181(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",OBG,"₹14,02,000*","₹56,100",0,₹0,-,653(3),570(3),357(3),145(1),-,-,828(4),467(4),182(2),-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,736(1),424(1),360(1),-,-,-,756(1),511(1),183(1),-,-
+HAR Govt-Inst. Pref,IP-SC,Haryana,"Pt BD Sharma, Rohtak",RADIATION ONCOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1147(1),520(1),188(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,292(1),-,-,-,689(1),597(1),194(1),-,-
+HAR Govt-All,BCB Service,Haryana,"Kalpana Chawala Govt MC,Karnal",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,1380(1),-,195(1),-,-
+HAR Govt-All,SCD,Haryana,"ESIC Med Coll, Faridabad",OPHTHALMOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1294(1),599(1),196(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",ENT,"₹14,02,000*","₹44,000",0,₹0,775,871(1),721(1),-,153(1),-,-,800(1),600(1),197(1),-,-
+HAR Govt-All,BCB,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,1024(1),619(1),409(1),-,-,-,1243(1),544(1),199(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",GENERAL MEDICINE,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,613(5),406(4),-,-,-,-,945(5),610(5),202(2),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",PSYCHIATRY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,460(1),-,-,-,1031(1),611(1),203(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,440(1),256(1),138(1),-,-,-,362(1),176(1),205(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",PAEDIATRICS,"₹29,90,000*","₹55,000",0,₹0,-,502(1),577(1),373(1),-,-,-,948(1),688(1),209(1),94(1),45(1)
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",TBRD,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1453(1),-,215(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"NC Med Coll, Panipat",GENERAL MEDICINE,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1472(1),-,218(1),-,-
+Haryana Priv IP,IP-UR,Haryana,"Adesh Med Coll, Shahabad",ANAESTHESIOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,1495(1),1007(1),222(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",TBRD,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1109(1),645(1),223(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",ANAESTHESIOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,818(2),511(2),368(2),-,-,-,1181(2),726(2),224(1),95(1),58(1)
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1524(1),-,228(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",PAEDIATRICS,"₹14,02,000*","₹56,100",0,₹0,-,620(1),465(1),-,-,-,-,876(1),657(1),231(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,706(2),603(5),477(4),276(4),-,-,1111(4),622(3),236(2),85(1),25(1)
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",PSYCHIATRY,"₹14,02,000*","₹56,100",0,₹0,-,781(1),606(1),396(1),271(2),590(2),-,1110(1),514(1),242(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",ENT,"₹14,02,000*","₹40,000",0,₹0,680,888(1),741(1),522(1),331(1),902(1),-,960(1),687(1),243(1),134(1),-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",OBG,"₹29,90,000*","₹55,000",0,₹0,-,752(2),585(2),-,-,-,-,985(2),679(2),245(2),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,478(1),684(1),248(1),-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",GENERAL MEDICINE,"₹29,90,000*","₹55,000",0,₹0,-,938(1),755(2),-,-,-,-,1462(3),791(2),251(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"NC Med Coll, Panipat",OPHTHALMOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,-,-,254(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",PAEDIATRICS,"₹32,00,000*","₹56,100",Info Not Available,Info not available,720,639(1),462(1),-,-,-,-,813(1),711(1),266(1),-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",ENT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1676(1),-,267(1),-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",PAEDIATRICS,"₹29,90,000*","₹55,000",0,₹0,-,869(1),-,381(1),-,-,-,1681(1),-,269(1),-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,710(3),430(3),267(3),-,-,-,1793(4),-,272(2),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,723(1),-,275(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",TBRD,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,767(1),605(1),371(1),-,-,-,1138(1),727(1),278(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"NC Med Coll, Panipat",GENERAL SURGERY,"₹14,02,000*","₹40,000",0,₹0,680,413(1),357(1),535(2),-,-,-,1120(1),732(1),282(2),-,-
+HAR Priv-Govt Quota,BCA,Haryana,"World College of MS&RC, Jhajjar",OBG,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,932(1),737(1),287(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",GENERAL MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1755(1),-,290(1),-,-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",TBRD,"₹14,02,000*","₹56,100",0,₹0,-,-,898(1),663(1),-,-,-,2178(1),746(1),291(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,318(1),-,-,-,1779(1),-,297(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",OPHTHALMOLOGY,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,1115(1),756(1),298(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,732(1),450(1),282(1),-,-,-,1794(1),-,304(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",ENT,"₹22,00,000*","₹56,100",Info Not Available,Info not available,720,890(1),-,-,-,-,-,1203(2),775(2),312(1),145(1),-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1824(1),-,314(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"World College of MS&RC, Jhajjar",DERMATOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,714(1),-,-,-,-,-,-,-,315(1),329(1),-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",OPHTHALMOLOGY,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,864(2),736(2),453(2),231(1),-,-,997(1),778(1),316(1),-,-
+HAR Govt-Inst. Pref,IP-BCA Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1452(1),887(1),654(1),-,-,-,1841(1),-,320(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,469(1),602(2),-,-,-,1445(1),785(1),324(2),113(1),-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Faridabad",DNBOBG,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,1847(1),-,325(1),-,-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DNBTBRD,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,735(1),455(1),284(1),-,-,-,1848(1),-,326(1),126(1),-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DNBGENERAL SURGERY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,600(1),541(1),345(1),-,-,-,1878(1),-,336(1),-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,507(1),-,-,-,1947(1),828(1),341(1),-,-
+Haryana DNB Serv,UR,Haryana,"District Civil Hospital, Hisar",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,-,-,-,1914(1),-,345(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,346(1),-,-
+Haryana DNB Serv,UR,Haryana,"Kalpana Chawla GMC Hosp,Karnal",DNBANAESTHESIOLOGY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,345,861(1),544(1),-,-,-,-,1931(1),-,350(1),-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1210(1),-,352(1),-,-
+HAR Govt-All,UR FF,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,355(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",GENERAL SURGERY,"₹30,00,000*","₹56,100",Info Not Available,Info not available,720,758(2),580(2),211(1),-,-,-,1350(1),798(1),356(2),155(2),75(1)
+HAR Govt-All,EWS,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,955(1),672(1),456(1),-,-,-,1949(1),-,359(1),-,-
+HAR Govt-All,UR-PH,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,681(1),330(1),362(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",ANAESTHESIOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1201(1),835(1),364(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",ANAESTHESIOLOGY,"₹20,00,000*","₹56,100",Info Not Available,Info not available,720,1018(3),800(3),342(1),308(2),-,-,1397(4),842(4),368(4),-,-
+Haryana DNB Serv,UR,Haryana,"District Civil Hosp,AmbalaCity",DNBOPHTHALMOLOGY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,839(1),505(1),348(1),-,-,-,2091(1),-,369(1),-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",TBRD,"₹41,75,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,1760(1),850(1),374(1),-,-
+HAR Priv-Govt Quota,BCA,Haryana,"Adesh Med Coll, Shahabad",ENT,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2015(1),-,375(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",ORTHOPAEDICS,"₹32,00,000*","₹56,100",Info Not Available,Info not available,720,863(3),642(3),457(2),187(1),-,-,1117(2),890(2),376(2),-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DNBORTHOPAEDICS,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,126(1),-,-,2030(1),-,381(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,1115(2),-,684(3),-,-,-,1008(1),859(1),382(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,929(1),-,405(1),464(1),-,-,1326(1),751(1),384(2),-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,830(1),626(1),418(1),-,-,-,1797(1),-,396(1),-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",EMERGENCY MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2085(1),-,397(1),-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Maharaja Agrasen, Agroha",OPHTHALMOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,1935(1),-,399(1),-,-
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,1773(1),861(1),401(1),164(1),-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DTBCD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,2011(1),886(1),404(1),-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",ANAESTHESIOLOGY,"₹29,23,000*","₹56,100",Info Not Available,Info not available,720,-,-,901(1),-,-,-,2523(1),889(1),407(1),-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2116(1),-,408(1),-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"Maharaja Agrasen, Agroha",OPHTHALMOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1473(1),903(1),667(1),-,-,-,2117(1),-,409(1),-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1005(1),601(1),391(1),-,-,-,2582(1),-,410(1),-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,954(1),530(1),334(1),-,-,-,2165(1),-,421(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",PHARMACOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1134(1),-,-,473(1),-,-,-,-,422(1),-,95(1)
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,733(1),449(1),281(1),-,-,-,2185(2),-,423(2),-,-
+HAR Govt-All,BCA Service,Haryana,"ESIC Med Coll, Faridabad",TBRD,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2195(1),-,426(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,1376(3),809(1),748(3),417(4),1033(1),-,2029(2),1105(2),430(1),233(2),-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Rohtak",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,301(1),-,-,2451(1),921(1),432(1),-,-
+HAR Priv-Govt Quota,BCB Service,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,1122(1),674(1),459(1),-,-,-,2229(1),-,435(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",BIOCHEMISTRY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,1462(1),-,694(1),683(2),1528(2),-,2137(2),1107(2),436(1),186(1),165(1)
+HAR Govt-All,UR Service,Haryana,"SHKM, Nalhar",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,2239(1),-,439(1),-,-
+Haryana DNB Serv,BCA,Haryana,"BPS Med Coll, Sonepat",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,-,-,-,-,2242(1),-,442(1),-,-
+Haryana DNB Serv,BCB,Haryana,"BPS Med Coll, Sonepat",DNBENT,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,-,-,-,-,2270(1),-,446(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",GENERAL SURGERY,"₹30,00,000*","₹56,100",Info Not Available,Info not available,720,878(5),837(4),386(1),226(1),-,-,1153(4),953(4),452(4),-,-
+HAR Govt-All,SC ESM,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,456(1),-,-
+HAR Priv-Govt Quota,BCA ESM,Haryana,"World College of MS&RC, Jhajjar",PAEDIATRICS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,459(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",OBG,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1992(1),843(1),462(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,814(1),491(1),307(1),-,-,-,2313(1),-,464(1),-,-
+Haryana Priv NRI,NRI,Haryana,"NC Med Coll, Panipat",ORTHOPAEDICS,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1271(1),973(1),470(1),-,-
+Haryana DNB Serv,BCA,Haryana,"General Hospital, Panchkula",DNBGENERAL MEDICINE,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1423(1),-,783(1),-,-,-,2084(1),-,475(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"SGGST Med Coll, Gurgaon",RADIO DIAGNOSIS,"₹45,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,-,-,481(1),-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",ANATOMY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,876(1),425(1),1761(1),-,-,-,482(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"World College of MS&RC, Jhajjar",EMERGENCY MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1429(1),838(1),485(2),147(1),-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,857(1),682(1),486(1),-,-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1458(1),710(1),487(1),-,-
+HAR Govt-All,BCA ESM,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,493(1),-,-
+HAR Govt-All,UR Service,Haryana,"BPS Govt Med Coll, Sonepat",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,1203(1),-,860(1),-,-,-,2612(1),-,497(1),294(1),175(1)
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,951(4),909(4),688(2),361(2),906(2),-,1503(5),1019(5),499(4),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1231(1),-,724(2),-,-,52(1),1980(1),-,502(1),287(1),-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,916(1),466(1),354(1),-,-,-,-,-,503(1),211(1),125(1)
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Ambala Cantt",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,1028(1),696(1),481(1),-,-,-,2426(1),-,504(1),-,-
+Haryana DNB Serv,UR,Haryana,"Al-Aafia CivilHosp,Nuh,Haryana",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,887(1),701(1),485(1),-,-,-,2406(1),-,507(1),-,-
+Haryana DNB Serv,BCA,Haryana,"SHKM Gov Med Coll, Nuh",DNBANAESTHESIOLOGY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,-,-,-,-,2455(1),-,513(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",ORTHOPAEDICS,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2469(1),-,520(1),-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1884(1),1016(1),523(1),-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,2121(1),-,524(1),-,-
+Haryana Priv IP,IP-UR,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1416(1),643(1),527(1),-,-
+Haryana Priv IP,IP-BCA,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1788(1),964(1),531(1),219(1),-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",ANAESTHESIOLOGY,"₹17,90,000*","₹55,000",0,₹0,-,1060(3),936(2),796(6),-,-,-,1823(6),1052(6),534(6),170(2),74(1)
+HAR Priv-Govt Quota,BCA,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,538(1),-,-
+HAR Govt-All,BCA,Haryana,"BPS Govt Med Coll, Sonepat",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,1257(1),-,539(1),-,-
+Haryana DNB Serv,BCA,Haryana,"Civil Hospital, Faridabad",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,2520(1),-,541(1),-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",DERMATOLOGY,"₹32,90,000*","₹55,000",0,₹0,-,853(1),527(1),-,-,-,-,1148(1),810(1),552(1),-,-
+HAR Govt-All,SC Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1100(1),667(1),452(1),-,-,-,2274(1),851(1),553(1),-,-
+Haryana DNB Serv,UR,Haryana,"District Civil Hospital, Hisar",DLO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,1095(1),648(1),558(1),-,-,-,2485(1),-,554(1),265(1),-
+HAR Priv-Govt Quota,SC Service,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,2555(1),-,555(1),-,-
+Haryana DNB Serv,BCA,Haryana,"General Hospital, Panchkula",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,2560(1),-,558(1),-,-
+HAR Priv-Govt Quota,UR FF,Haryana,"SGGST Med Coll, Gurgaon",GENERAL MEDICINE,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,-,-,563(1),-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Ambala Cantt",DLO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,-,-,-,2126(1),1074(1),565(1),-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2221(1),981(1),571(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",PATHOLOGY,"₹17,00,000*","₹56,100",Info Not Available,Info not available,720,1139(1),-,678(1),-,-,-,2237(2),1094(2),576(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",SPM,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1297(1),-,-,-,1386(1),701(1),578(1),-,-
+Haryana DNB Serv,BCB,Haryana,"Civil Hospital, Sec-10,Gurugram",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,2291(1),1100(1),583(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,1838(1),813(1),585(1),232(1),-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,2323(1),1103(1),586(1),-,-
+HAR Govt-All,SC,Haryana,"ESIC Med Coll, Faridabad",SPM,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,-,-,593(1),-,-
+HAR Govt-All,UR Service,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,2437(1),-,599(1),222(1),-
+HAR Govt-All,SC Service,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2650(1),-,607(1),-,-
+Haryana DNB Serv,BCA,Haryana,"Civil Hospital, Palwal, Haryana",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,-,-,-,-,-,-,2681(1),-,608(1),-,-
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,1010(1),-,-,-,-,-,2080(1),1130(1),612(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"NC Med Coll, Panipat",ENT,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,2669(1),-,614(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,1008(1),-,-,-,1678(1),1135(1),615(1),-,-
+Haryana DNB Serv,BCB,Haryana,"General Hospital, Panipat",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,-,-,-,2698(1),-,630(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",BIOCHEMISTRY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,738(1),-,-,-,2233(1),-,631(1),-,-
+HAR Govt-All,UR Service,Haryana,"Kalpana Chawala Govt MC,Karnal",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,641(1),297(1),224(1)
+Haryana DNB Serv,BCB,Haryana,"District Civil Hospital,Rewari",DTBCD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,-,-,-,-,-,-,2704(1),-,642(1),-,-
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",PHARMACOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,-,-,649(1),-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2652(1),-,651(1),-,280(1)
+Haryana DNB Serv,SC,Haryana,"BPS Med Coll, Sonepat",DNBGENERAL SURGERY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,-,-,-,-,2557(1),-,653(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1412(1),-,855(1),720(2),1516(1),-,-,-,661(1),266(1),-
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1192(1),722(1),505(1),-,-,-,-,-,663(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",PATHOLOGY,"₹17,00,000*","₹56,100",Info Not Available,Info not available,720,1454(3),945(1),868(4),506(4),1107(2),-,2260(3),1176(1),664(3),325(1),-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",FORENSIC MEDICINE,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,684(1),-,-
+HAR Govt-All,BCB,Haryana,"SHKM, Nalhar",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,686(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2052(1),1168(1),688(1),-,-
+Haryana DNB Serv,UR,Haryana,"District Civil Hospital, Hisar",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,1182(2),788(2),771(2),-,1297(1),-,-,-,702(1),-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,914(1),678(1),491(1),293(1),-,-,2658(2),-,706(2),-,-
+HAR Govt-All,SCD Service,Haryana,"ESIC Med Coll, Faridabad",PSYCHIATRY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,-,-,708(1),-,-
+HAR Govt-Inst. Pref,IP-BCB Service,Haryana,"ESIC Med Coll, Faridabad",IHBT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2780(1),-,715(1),-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Sec-10,Gurugram",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,512(1),-,-,2630(1),-,719(2),-,-
+HAR Govt-All,BCB Service,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2760(1),-,734(1),-,-
+Haryana DNB Serv,SC,Haryana,"Kalpana Chawla GMC Hosp,Karnal",DNBGENERAL SURGERY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,345,-,-,-,-,-,-,2711(1),-,738(1),-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1479(1),908(1),682(1),-,-,-,2334(1),1189(1),739(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,913(1),-,-,-,2497(1),-,742(1),-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,-,-,754(1),-,-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,1657(1),1095(1),756(2),-,-
+Haryana Priv IP,IP-BCB Service,Haryana,"World College of MS&RC, Jhajjar",ORTHOPAEDICS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,771(1),-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",MICROBIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2282(1),-,775(1),455(1),46(1)
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",PHYSIOLOGY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1346(2),969(1),-,-,-,-,784(1),-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1448(1),-,1202(5),540(1),1637(1),-,-,-,789(2),-,180(1)
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,795(1),-,-
+Haryana DNB Serv,SC,Haryana,"District Civil Hospital, Hisar",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,-,-,-,2727(1),-,797(1),-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Kalpana Chawala Govt MC,Karnal",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,800(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",SPM,"₹9,12,000*","₹55,000",0,₹0,-,-,-,1277(5),692(1),1543(1),-,-,-,804(1),324(1),270(3)
+HAR Govt-All,BCA,Haryana,"Kalpana Chawala Govt MC,Karnal",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,2788(1),-,811(1),-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",GENERAL MEDICINE,"₹52,60,000*","₹56,100",Info Not Available,Info not available,720,1069(1),645(1),435(1),-,-,-,2330(1),846(1),814(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",PHARMACOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,822(1),-,-
+Haryana DNB Serv,SC,Haryana,"General Hospital, Panchkula",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,-,-,826(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",BIOCHEMISTRY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,840(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",PATHOLOGY,"₹14,55,000*","₹55,000",0,₹0,-,1337(2),-,1105(7),670(5),-,-,2381(4),-,847(7),368(2),188(2)
+HAR Govt-All,UR Service,Haryana,"SHKM, Nalhar",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,854(1),-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,693(1),-,-,-,-,856(1),-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"Adesh Med Coll, Shahabad",PSYCHIATRY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,-,-,864(1),-,-
+HAR Priv-Govt Quota,UR ESM,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,865(1),-,-
+HAR Govt-Inst. Pref,IP-BCA,Haryana,"SHKM, Nalhar",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,866(1),-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1586(1),1169(1),868(1),-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",ORTHOPAEDICS,"₹45,93,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,2163(1),1080(1),871(1),344(1),-
+HAR Priv-Govt Quota,SCD Service,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,1405(1),-,-,-,-,-,-,-,876(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",SPM,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,1271(1),-,1056(1),-,-,-,2502(1),-,887(1),-,-
+Haryana Priv NRI,NRI,Haryana,"Al Falah SchooloffMS,Faridabad",GENERAL MEDICINE,"₹66,80,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,2597(1),868(1),888(1),511(1),-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",PATHOLOGY,"₹14,55,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,-,889(1),501(1),-
+HAR Govt-All,BCA,Haryana,"BPS Govt Med Coll, Sonepat",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,-,-,896(1),-,-
+Haryana DNB Serv,UR ESM,Haryana,"SHKM Gov Med Coll, Nuh",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,-,-,-,-,-,-,898(1),-,-
+Haryana DNB Serv,SC,Haryana,"Civil Hospital, Bahadurgarh",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,-,-,-,-,-,-,899(1),-,-
+HAR Govt-All,SCD Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,-,-,906(1),-,-
+HAR Govt-Inst. Pref,IP-BCA,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,908(1),-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Maharaja Agrasen, Agroha",FORENSIC MEDICINE,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,910(1),-,-
+HAR Govt-All,EWS,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,716(1),-,-,-,-,-,2125(1),-,919(1),-,-
+HAR Priv-Govt Quota,SCD Service,Haryana,"World College of MS&RC, Jhajjar",RADIO DIAGNOSIS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,930(1),-,-
+HAR Govt-All,EWS,Haryana,"BPS Govt Med Coll, Sonepat",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,839(1),-,-,-,-,-,935(1),-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",GENERAL SURGERY,"₹42,75,000*","₹56,100",Info Not Available,Info not available,720,1166(1),-,677(1),-,-,-,2198(1),-,943(1),-,-
+HAR Priv-Govt Quota,UR FF,Haryana,"World College of MS&RC, Jhajjar",OPHTHALMOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,945(1),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",SPM,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1097(3),767(1),-,-,-,-,950(3),-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",FORENSIC MEDICINE,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1296(2),-,-,-,2774(1),-,952(2),-,-
+Haryana DNB Serv,SC,Haryana,"Civil Hospital, Sec-10,Gurugram",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,-,-,958(1),-,-
+HAR Govt-All,SCD,Haryana,"BPS Govt Med Coll, Sonepat",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,-,-,960(1),-,-
+Haryana DNB Serv,SCD,Haryana,"General Hospital, Panchkula",DNBGENERAL SURGERY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,-,-,963(1),-,-
+HAR Govt-All,SC,Haryana,"BPS Govt Med Coll, Sonepat",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,1730(1),1203(1),970(1),-,181(1)
+HAR Govt-All,BCB Service,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2743(1),-,977(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"Adesh Med Coll, Shahabad",PSYCHIATRY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,-,-,981(1),-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",SPM,"₹5,52,000*","₹44,000",0,₹0,775,-,-,949(2),-,-,-,-,-,988(2),285(2),-
+Haryana DNB Serv,SC,Haryana,"SHKM Gov Med Coll, Nuh",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,-,-,-,-,-,-,1004(1),-,-
+Haryana Priv IP,IP-UR Service,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,867(1),-,-,-,-,-,1005(1),-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,1006(1),429(1),-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,1176(1),-,-,-,2320(2),909(2),1013(3),490(1),-
+Haryana Priv IP,IP-SCD Service,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,1020(1),-,-
+Haryana Priv NRI,NRI,Haryana,"Al Falah SchooloffMS,Faridabad",ANAESTHESIOLOGY,"₹50,10,000*","₹55,000",0,₹0,-,-,-,1328(1),-,-,-,2677(1),-,1026(1),-,-
+HAR Govt-All,SC,Haryana,"Kalpana Chawala Govt MC,Karnal",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,1027(1),-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1114(1),-,-,-,2350(1),1025(1),1028(2),345(1),-
+Haryana Priv IP,IP-UR Service,Haryana,"NC Med Coll, Panipat",ANAESTHESIOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,-,-,1029(1),-,-
+HAR Govt-All,BCB Service,Haryana,"ESIC Med Coll, Faridabad",FORENSIC MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,-,-,1030(1),-,-
+Haryana Priv IP,IP-BCB Service,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,1177(1),1031(1),-,-
+Haryana DNB Serv,SC,Haryana,"General Hospital, Panchkula",DA(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,-,-,1032(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,1372(1),-,-,-,-,-,1033(1),-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",PHYSIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1186(1),-,-,-,-,-,1038(1),-,-
+HAR Govt-All,UR-PH Service,Haryana,"Pt BD Sharma, Rohtak",DERMATOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,1043(1),-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",PHYSIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,1047(1),-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"NC Med Coll, Panipat",MICROBIOLOGY,"₹5,52,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,-,-,1053(1),-,-
+HAR Govt-Inst. Pref,IP-BCB,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2296(1),1197(1),1054(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",SPM,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,1066(1),-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",PHYSIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,1067(1),-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"Maharaja Agrasen, Agroha",BIOCHEMISTRY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,-,-,1068(1),-,-
+Haryana DNB Serv,SCD,Haryana,"BPS Med Coll, Sonepat",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,-,-,-,-,-,-,1069(1),-,-
+HAR Govt-All,SC,Haryana,"SHKM, Nalhar",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,1072(1),-,-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",MICROBIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,1892(1),1041(1),1073(1),-,-
+HAR Govt-Inst. Pref,IP-SC,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,1378(1),-,-,-,-,-,1074(1),-,-
+HAR Priv-Govt Quota,BCB Service,Haryana,"World College of MS&RC, Jhajjar",TBRD,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,-,-,1075(1),-,-
+HAR Govt-All,BCB-PH,Haryana,"Pt BD Sharma, Rohtak",RADIATION ONCOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,1077(1),-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1(1),2(1),-,-,-,-,2(1),1(1),-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,10(1),7(1),-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,53(1),25(1),-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",SPM,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,622(1),807(1),469(1),-,-,-,-,-,-,58(1),-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,91(2),-,-,-,-,-,59(2),62(2),-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,69(1),42(1),10(1),-,-,-,70(1),60(1),-,-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,74(1),66(1),25(1),-,-,-,50(1),99(1),-,-,-
+HAR Govt-All,EWS,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,76(1),39(1),35(1),-,-,-,107(1),126(1),-,-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",DERMATOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,129(1),67(1),-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,-,-,142(1),-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,1160(1),698(1),483(1),511(1),-,-,-,-,-,143(1),-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,745(1),549(1),316(1),-,-,-,-,-,-,146(1),-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,198(1),-,-,-,-,-,158(1),143(1),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",MICROBIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1228(1),-,-,-,-,-,-,-,-,-,176(1)
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",PAEDIATRICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,137(1),191(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",RADIO DIAGNOSIS,"₹14,02,000*","₹40,000",0,₹0,680,29(1),228(1),-,-,-,-,193(1),154(1),-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Sec-10,Gurugram",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,-,-,-,254(1),-
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,433(1),-,-,-,-,-,260(1),-
+Haryana Priv IP,IP-BCA,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,211(1),173(1),88(1),-,-,-,228(1),268(1),-,-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,247(1),285(1),-,-,-,-,92(1),270(1),-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,272(1),164(1),-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,273(1),195(1),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",PHYSIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,582(1),-,-,-,-,-,-,-,276(1)
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",ANATOMY,"₹7,20,000*","₹55,000",0,₹0,-,-,-,-,-,-,-,-,-,-,273(1),279(1)
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",MICROBIOLOGY,"₹7,20,000*","₹55,000",0,₹0,-,-,-,1400(4),-,-,-,-,-,-,-,283(2)
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1087(1),837(2),-,-,-,-,-,-,287(1)
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",ANATOMY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1212(1),814(1),-,-,-,-,-,-,303(1)
+HAR Govt-All,UR Service,Haryana,"Kalpana Chawala Govt MC,Karnal",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,-,-,-,-,305(1)
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",DERMATOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,215(1),273(1),150(1),-,-,-,214(1),306(1),-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,9(1),78(1),34(1),-,-,-,316(1),-,-,-,-
+HAR Govt-All,BCB,Haryana,"BPS Govt Med Coll, Sonepat",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,-,-,-,352(1),-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",MICROBIOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,1235(2),766(1),1612(1),-,-,-,-,372(1),-
+HAR Priv-Govt Quota,BCA,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,323(1),190(1),-,-,-,-,414(1),281(1),-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,446(1),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",MICROBIOLOGY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1268(1),905(1),1694(1),-,-,-,-,452(1),-
+HAR Govt-All,SC,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,508(1),408(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",OBG,"₹14,02,000*","₹44,000",0,₹0,775,390(1),225(1),153(1),-,-,-,532(1),319(1),-,-,-
+HAR Govt-Inst. Pref,IP-BCA,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,170(1),235(1),-,-,-,-,536(1),-,-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",ENT,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,412(1),236(1),-,-,-,-,559(1),290(1),-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,175(1),222(1),163(1),-,-,-,572(1),-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,591(1),-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"World College of MS&RC, Jhajjar",RADIO DIAGNOSIS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,593(1),-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",GENERAL MEDICINE,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,594(1),-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,600(2),-,-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,456(2),308(2),193(1),-,-,-,603(2),322(2),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",GENERAL MEDICINE,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,484(1),346(1),-,-,-,-,571(1),605(1),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",RADIO DIAGNOSIS,"₹45,00,000*","₹56,100",Info Not Available,Info not available,720,303(1),157(1),119(1),-,-,-,613(1),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",DERMATOLOGY,"₹40,00,000*","₹56,100",Info Not Available,Info not available,720,542(1),344(1),-,-,-,-,639(1),479(1),-,-,-
+Haryana Priv IP,IP-BCA,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,498(1),359(1),218(1),-,-,-,686(1),375(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",OPHTHALMOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,471(1),342(1),204(1),-,-,-,751(1),-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"Adesh Med Coll, Shahabad",GENERAL MEDICINE,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,752(1),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",ORTHOPAEDICS,"₹14,02,000*","₹44,000",0,₹0,775,510(1),334(1),194(1),-,-,-,792(1),446(1),-,-,-
+Haryana Priv IP,IP-UR,Haryana,"World College of MS&RC, Jhajjar",ORTHOPAEDICS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,642(1),792(1),-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,629(1),371(1),310(1),-,-,-,808(1),621(1),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"NC Med Coll, Panipat",OBG,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,820(1),-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",TBRD,"₹14,02,000*","₹44,000",0,₹0,775,-,-,273(1),-,-,-,860(1),696(1),-,-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",PHARMACOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,791(1),-,-,-,-,906(1),-,-,-
+HAR Govt-All,EWS,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,481(1),481(1),298(1),-,-,-,929(1),525(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",OPHTHALMOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,234(1),-,-,940(1),614(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,943(1),746(1),383(1),368(1),-,-,949(1),773(1),-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,326(1),176(1),91(1),-,-,-,950(2),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",OBG,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,709(2),470(2),-,132(1),-,-,969(3),555(3),-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DMRD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,156(1),167(1),-,-,-,-,1071(1),-,-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1084(1),548(1),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",OPHTHALMOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,439(1),-,-,-,1085(1),669(1),-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1093(1),562(1),-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"NC Med Coll, Panipat",PAEDIATRICS,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1096(1),-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,1101(1),658(1),-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,1106(1),-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",PSYCHIATRY,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,860(1),742(1),523(1),-,-,-,1122(2),743(2),-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",ORTHOPAEDICS,"₹32,00,000*","₹56,100",Info Not Available,Info not available,720,875(1),673(1),458(1),-,-,-,1136(1),885(1),-,-,-
+Haryana DNB Serv,BCB,Haryana,"BPS Med Coll, Sonepat",DMRD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,-,-,-,-,1161(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-SCD Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,1181(1),-,-,-
+HAR Govt-Inst. Pref,IP-BCB,Haryana,"Pt BD Sharma, Rohtak",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,-,1193(1),-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Ambala Cantt",DMRD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,304(1),175(1),123(1),-,-,-,1218(1),-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",ANAESTHESIOLOGY,"₹20,00,000*","₹56,100",Info Not Available,Info not available,720,937(2),617(2),-,-,-,-,1234(1),681(1),-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,746(1),412(1),423(1),-,-,-,1267(1),612(1),-,-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",OBG,"₹29,90,000*","₹55,000",0,₹0,-,924(1),-,-,-,-,-,1285(1),-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"Kalpana Chawla GMC Hosp,Karnal",DNBGENERAL MEDICINE,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,345,-,-,-,-,-,-,1291(1),647(1),-,-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,453(1),-,-,1298(2),719(2),-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1328(1),-,-,-,-
+Haryana Priv IP,IP-SC,Haryana,"NC Med Coll, Panipat",RADIO DIAGNOSIS,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1337(1),-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1349(1),-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1356(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-SC Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1432(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"SHKM, Nalhar",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,1436(1),920(1),-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Adesh Med Coll, Shahabad",OBG,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,1456(1),-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"NC Med Coll, Panipat",ORTHOPAEDICS,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,1485(1),774(1),-,-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1489(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,543(1),-,-,-,-,-,1576(1),-,-,-,-
+HAR Govt-All,EWS,Haryana,"BPS Govt Med Coll, Sonepat",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,978(1),-,-,-,1630(1),-,-,-,-
+Haryana DNB Serv,BCA,Haryana,"BPS Med Coll, Sonepat",DNBGENERAL MEDICINE,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,1343(1),806(1),573(1),-,-,-,1652(1),-,-,-,-
+HAR Govt-All,SC Service,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1654(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-BCA Service,Haryana,"ESIC Med Coll, Faridabad",ORTHOPAEDICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1665(1),-,-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DNBOBG,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,1688(1),-,-,-,-
+HAR Govt-All,BCB Service,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,1704(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-SC Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,879(1),-,-,-,-,-,1764(1),-,-,-,-
+HAR Govt-All,SC Service,Haryana,"ESIC Med Coll, Faridabad",PAEDIATRICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,1811(1),-,-,-,-
+Haryana DNB Serv,UR,Haryana,"BPS Med Coll, Sonepat",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,-,587(1),434(1),-,-,1843(1),956(1),-,-,-
+HAR Govt-All,SC Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1106(1),671(1),-,-,-,-,1861(1),-,-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"SGGST Med Coll, Gurgaon",RADIO DIAGNOSIS,"₹45,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,-,-,-,1933(1),-,-,-,-
+Haryana Priv IP,IP-SC Service,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,1971(1),-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",GENERAL MEDICINE,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2018(1),-,-,-,-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DNBORTHOPAEDICS,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,-,-,-,-,2031(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2073(1),941(1),-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"NC Med Coll, Panipat",GENERAL SURGERY,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,2177(1),-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2199(1),-,-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Sec-10,Gurugram",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,-,-,-,-,2201(1),-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",MICROBIOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,1145(1),-,-,-,2217(1),-,-,-,301(3)
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",PSYCHIATRY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,2236(1),-,-,-,-
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,497(1),831(1),-,-,2251(1),989(1),-,332(1),298(1)
+HAR Govt-Inst. Pref,IP-BCB Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2268(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",SPORTS MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2305(1),-,-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"Maharaja Agrasen, Agroha",SPM,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,2319(1),-,-,-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",ANAESTHESIOLOGY,"₹17,90,000*","₹55,000",0,₹0,-,1441(1),-,829(3),-,-,-,2324(3),997(3),-,-,-
+HAR Govt-All,BCA,Haryana,"SHKM, Nalhar",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,2342(1),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",PHARMACOLOGY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1205(2),914(2),-,-,2390(1),-,-,513(1),291(2)
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",DERMATOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2394(1),-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",MICROBIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,2395(1),-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"BPS Govt Med Coll, Sonepat",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,-,-,-,2417(1),-,-,518(1),-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",PHARMACOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,-,-,-,-,2439(1),-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",PAEDIATRICS,"₹45,93,000*","₹56,100",Info Not Available,Info not available,720,1427(1),-,-,-,-,-,2444(1),1101(1),-,-,-
+Haryana DNB Serv,BCA,Haryana,"General Hospital, Panchkula",DA(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,-,-,-,-,2459(1),-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1101(1),804(1),572(1),-,-,-,2472(1),-,-,-,-
+HAR Govt-All,UR-PH,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,-,-,-,2580(1),-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",MICROBIOLOGY,"₹5,52,000*","₹40,000",0,₹0,680,-,-,1317(2),870(2),1660(1),-,2586(1),-,-,-,-
+HAR Govt-All,EWS,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2598(1),-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",ANAESTHESIOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2599(1),-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",EMERGENCY MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,882(1),-,-,-,2609(1),1125(1),-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2613(1),-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",OBG,"₹14,02,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2618(1),-,-,-,-
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2627(1),-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",EMERGENCY MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,2654(1),-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"NC Med Coll, Panipat",GENERAL MEDICINE,"₹14,02,000*","₹40,000",0,₹0,680,-,-,-,-,-,-,2676(1),551(1),-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Adesh Med Coll, Shahabad",SPM,"₹5,52,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2686(1),-,-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"World College of MS&RC, Jhajjar",DERMATOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,2703(1),-,-,-,-
+HAR Govt-All,BCB,Haryana,"SHKM, Nalhar",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,-,-,-,2715(1),1196(1),-,491(1),-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",SPM,"₹5,52,000*","₹44,000",0,₹0,775,882(1),-,1165(2),570(1),1195(1),-,2769(3),-,-,522(3),-
+HAR Priv-Govt Quota,SC,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,-,-,-,-,-,-,2779(1),-,-,-,-
+Haryana Priv IP,IP-BCB,Haryana,"Adesh Med Coll, Shahabad",PATHOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,-,-,-,-,2787(1),-,-,-,-
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,-,-,-,-,2789(1),-,-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,17(1),18(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,21(1),9(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",PAEDIATRICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,33(1),12(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,84(1),49(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,88(1),37(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",BIOCHEMISTRY,"₹7,20,000*","₹55,000",0,₹0,-,-,-,-,-,-,92(1),-,-,-,-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",ENT,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,96(1),73(1),94(1),41(1),-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",RADIO DIAGNOSIS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,126(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCB,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,143(1),79(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,164(1),84(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",OPHTHALMOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,169(1),103(1),47(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,192(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,195(1),140(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"ESIC Med Coll, Faridabad",GENERAL SURGERY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,197(1),103(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,199(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,201(1),107(1),49(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB Service,Haryana,"ESIC Med Coll, Faridabad",PAEDIATRICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,223(1),121(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR ESM,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,223(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",MICROBIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,229(1),-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"World College of MS&RC, Jhajjar",RADIO DIAGNOSIS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,237(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Adesh Med Coll, Shahabad",GENERAL MEDICINE,"₹14,02,000*","₹44,000",0,₹0,775,238(2),168(2),87(2),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-BCB,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,240(1),-,57(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,254(1),133(1),75(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"ESIC Med Coll, Faridabad",TBRD,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,262(1),128(1),64(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,301(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCB,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,319(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,321(1),184(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",GENERAL MEDICINE,"₹14,02,000*","₹40,000",0,₹0,680,321(1),172(1),96(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SC,Haryana,"ESIC Med Coll, Faridabad",OBG,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,323(1),185(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,324(2),-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",SPORTS MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,327(1),274(1),68(1),115(1),-,-,-,-,-,-,-
+HAR Govt-All,BCB ESM,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,329(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"Kalpana Chawala Govt MC,Karnal",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,348(1),-,-,-,-,-,-,-
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,352(1),196(1),-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,378(1),-,-,-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",TBRD,"₹14,02,000*","₹56,100",0,₹0,-,-,379(1),231(1),127(1),-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"ESIC Med Coll, Faridabad",RADIO DIAGNOSIS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,382(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"General Hospital, Panchkula",DNBRADIO DIAGNOSIS,-,-,-,-,300,388(1),242(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panipat",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,389(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,353(1),395(1),244(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SCD,Haryana,"ESIC Med Coll, Faridabad",GENERAL MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,398(1),246(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SC,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,408(1),376(1),-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SCD,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,431(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Adesh Med Coll, Shahabad",DERMATOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,439(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,445(1),-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Palwal, Haryana",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,-,-,-,451(1),-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",RADIATION ONCOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,451(1),377(1),364(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,453(1),262(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"District Civil Hospital,Rewari",DTBCD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,-,-,465(1),341(1),-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCB,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,467(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",ORTHOPAEDICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,469(1),272(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,473(1),275(1),152(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",PMR,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,478(1),294(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB ESM,Haryana,"World College of MS&RC, Jhajjar",RADIO DIAGNOSIS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,479(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",PSYCHIATRY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,487(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,-,213(1),487(1),-,-,-,-,-,-
+HAR Govt-All,UR-PH,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,496(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"NC Med Coll, Panipat",ORTHOPAEDICS,"₹14,02,000*","₹40,000",0,₹0,680,500(1),364(1),239(1),154(1),251(1),-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,504(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,526(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,SC Service,Haryana,"Pt BD Sharma, Rohtak",DERMATOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,527(1),-,-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DNBGENERAL SURGERY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,537(1),320(1),182(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"Kalpana Chawla GMC Hosp,Karnal",DNBOBG,-,-,-,-,345,540(1),322(1),234(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",IHBT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,161(1),542(1),-,-,-,-,-,-
+HAR Govt-All,BCB Service,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,544(1),415(1),-,-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"World College of MS&RC, Jhajjar",GENERAL MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,546(1),354(1),217(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"SHKM, Nalhar",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,546(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,549(1),362(1),287(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB Service,Haryana,"Pt BD Sharma, Rohtak",OBG,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,419(1),551(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"SGGST Med Coll, Gurgaon",GENERAL MEDICINE,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,553(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"SHKM, Nalhar",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,552(1),557(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,558(1),330(1),190(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,560(1),-,-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",FORENSIC MEDICINE,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,566(1),476(1),-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"NC Med Coll, Panipat",OBG,"₹14,02,000*","₹40,000",0,₹0,680,581(1),345(1),207(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,597(1),355(1),263(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",ANATOMY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,-,603(1),-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,607(1),572(1),525(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB Service,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,608(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"District Civil Hospital, Hisar",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,-,609(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,482(1),611(1),399(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"World College of MS&RC, Jhajjar",TBRD,"₹14,02,000*","₹56,100",0,₹0,-,-,-,621(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",OPHTHALMOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,624(1),369(1),225(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Maharaja Agrasen, Agroha",SPM,"₹1,00,000*","₹95,594",0*,₹0*,550,333(1),180(1),626(1),369(1),-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",PHARMACOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,-,632(1),-,-,-,-,-,-,-
+HAR Govt-All,SC Service,Haryana,"Pt BD Sharma, Rohtak",TBRD,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,638(1),538(1),341(1),-,-,-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"World College of MS&RC, Jhajjar",EMERGENCY MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,641(1),621(1),-,211(1),-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",PSYCHIATRY,"₹14,02,000*","₹44,000",0,₹0,775,645(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,650(1),500(1),-,-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-SC,Haryana,"Maharaja Agrasen, Agroha",ORTHOPAEDICS,"₹1,00,000*","₹95,594",0*,₹0*,550,660(1),391(1),240(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,672(1),665(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,680(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"ESIC Med Coll, Faridabad",PSYCHIATRY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,689(1),411(1),262(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",OBG,"₹35,00,000*","₹56,100",Info Not Available,Info not available,720,690(1),387(1),338(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"ESIC Med Coll, Faridabad",ENT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,704(1),423(1),290(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"BPS Med Coll, Sonepat",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,713(1),429(1),266(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,715(1),448(1),280(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SCD,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,670(1),725(1),254(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DNBANAESTHESIOLOGY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,-,136(1),726(1),-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,739(1),452(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"SHKM Gov Med Coll, Nuh",DNBANAESTHESIOLOGY,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,647,-,-,739(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"Adesh Med Coll, Shahabad",ENT,"₹14,02,000*","₹44,000",0,₹0,775,744(1),677(1),427(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"NC Med Coll, Panipat",GENERAL MEDICINE,"₹14,02,000*","₹40,000",0,₹0,680,547(1),747(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR FF,Haryana,"General Hospital, Panchkula",DNBOBG,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,760(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCA,Haryana,"BPS Med Coll, Sonepat",DMRD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,761(1),463(1),-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"ESIC Med Coll, Faridabad",FORENSIC MEDICINE,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,770(1),544(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,-,-,779(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"BPS Med Coll, Sonepat",DNBOBG,-,-,-,-,550,640(1),781(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",PHARMACOLOGY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,786(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"Civil Hospital, Faridabad",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,788(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"Civil Hospital, Palwal, Haryana",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,-,-,-,798(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB Service,Haryana,"Adesh Med Coll, Shahabad",RADIO DIAGNOSIS,"₹14,02,000*","₹44,000",0,₹0,775,799(1),-,-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,802(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR Service,Haryana,"NC Med Coll, Panipat",RADIO DIAGNOSIS,"₹14,02,000*","₹40,000",0,₹0,680,802(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,807(1),640(1),430(1),284(1),-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",PSYCHIATRY,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,808(1),690(1),295(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Faridabad",DNBOPHTHALMOLOGY,-,-,-,-,200,811(1),545(1),408(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",ENT,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,815(1),492(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,817(1),689(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",BIOCHEMISTRY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,827(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"BPS Med Coll, Sonepat",DNBENT,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,846(1),550(1),437(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCA Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,850(1),-,-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,-,-,861(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"ESIC Med Coll, Faridabad",ANAESTHESIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,868(1),-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"SHKM Gov Med Coll, Nuh",DNBENT,-,-,-,-,647,874(1),598(1),372(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"World College of MS&RC, Jhajjar",ORTHOPAEDICS,"₹14,02,000*","₹56,100",0,₹0,-,-,-,884(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Kalpana Chawala Govt MC,Karnal",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,886(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"NC Med Coll, Panipat",ENT,"₹14,02,000*","₹40,000",0,₹0,680,-,-,887(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,888(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"NC Med Coll, Panipat",OPHTHALMOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,825(1),893(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"ESIC Med Coll, Faridabad",MICROBIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,894(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"NC Med Coll, Panipat",MICROBIOLOGY,"₹5,52,000*","₹40,000",0,₹0,680,-,-,899(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",GENERAL MEDICINE,"₹14,02,000*","₹44,000",0,₹0,775,904(1),644(1),-,-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"World College of MS&RC, Jhajjar",OPHTHALMOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,905(1),486(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"General Hospital, Panchkula",DGO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,-,-,907(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCB ESM,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,909(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"World College of MS&RC, Jhajjar",ENT,"₹14,02,000*","₹56,100",0,₹0,-,911(1),861(1),630(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,915(1),615(1),403(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"BPS Govt Med Coll, Sonepat",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,925(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB,Haryana,"Maharaja Agrasen, Agroha",ANATOMY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,931(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service FF,Haryana,"World College of MS&RC, Jhajjar",GENERAL SURGERY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,932(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"BPS Med Coll, Sonepat",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,-,932(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR-PH Service,Haryana,"ESIC Med Coll, Faridabad",RADIO DIAGNOSIS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,935(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SCD,Haryana,"Civil Hospital, Faridabad",DNBOBG,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,939(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"General Hospital, Panchkula",DA(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,939(1),566(1),495(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR Service,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,942(1),569(1),367(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SCD,Haryana,"District Civil Hospital, Hisar",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,-,944(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"World College of MS&RC, Jhajjar",GENERAL MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,950(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",ENT,"₹22,00,000*","₹56,100",Info Not Available,Info not available,720,959(1),768(1),540(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",TBRD,"₹29,00,000*","₹56,100",Info Not Available,Info not available,720,961(1),704(1),416(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC Service,Haryana,"Maharaja Agrasen, Agroha",FORENSIC MEDICINE,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,963(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",OBG,"₹52,60,000*","₹56,100",Info Not Available,Info not available,720,893(1),702(1),966(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"SHKM, Nalhar",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,967(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"ESIC Med Coll, Faridabad",IHBT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,968(1),669(1),325(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"NC Med Coll, Panipat",PAEDIATRICS,"₹14,02,000*","₹40,000",0,₹0,680,983(1),752(1),756(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR-PH,Haryana,"Pt BD Sharma, Rohtak",PAEDIATRICS,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,714(1),1004(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"SHKM, Nalhar",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1006(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"NC Med Coll, Panipat",ANAESTHESIOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,1014(1),823(1),592(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR-PH Service,Haryana,"ESIC Med Coll, Faridabad",ENT,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1015(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"Civil Hospital, Bahadurgarh",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,1019(1),743(1),524(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR-PH,Haryana,"SHKM, Nalhar",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1020(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SCD,Haryana,"General Hospital, Panchkula",DCH(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1026(1),613(1),401(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SCD,Haryana,"BPS Med Coll, Sonepat",DTBCD(NBEMS),-,-,-,-,550,-,-,1030(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"Adesh Med Coll, Shahabad",OPHTHALMOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,1034(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,776(1),474(1),1035(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",PHYSIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1036(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"ESIC Med Coll, Faridabad",ORTHOPAEDICS,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,1043(1),928(1),770(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"Civil Hospital, Sec-10,Gurugram",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,1048(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"SGGST Med Coll, Gurgaon",RADIO DIAGNOSIS,"₹69,74,000*","₹56,100",Info Not Available,Info not available,720,1058(1),586(1),323(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"Civil Hospital, Sec-10,Gurugram",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,200,-,-,1066(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",OBG,"₹14,02,000*","₹44,000",0,₹0,775,1068(1),695(1),-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCB Service,Haryana,"SHKM, Nalhar",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1072(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"Adesh Med Coll, Shahabad",ANAESTHESIOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,1085(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,UR,Haryana,"BPS Med Coll, Sonepat",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,550,1090(1),664(1),451(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Adesh Med Coll, Shahabad",SPM,"₹5,52,000*","₹44,000",0,₹0,775,-,-,1098(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC Service,Haryana,"ESIC Med Coll, Faridabad",BIOCHEMISTRY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1121(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB Service,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1130(1),937(1),916(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD,Haryana,"BPS Govt Med Coll, Sonepat",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,1133(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"General Hospital, Panchkula",DNBORTHOPAEDICS,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1135(1),734(1),517(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Pt BD Sharma, Rohtak",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,1139(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-SCD,Haryana,"Maharaja Agrasen, Agroha",OPHTHALMOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1063(1),641(1),1142(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"Adesh Med Coll, Shahabad",MICROBIOLOGY,"₹5,52,000*","₹44,000",0,₹0,775,-,-,1153(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCA Service,Haryana,"ESIC Med Coll, Faridabad",SPM,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1161(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR FF,Haryana,"World College of MS&RC, Jhajjar",EMERGENCY MEDICINE,"₹14,02,000*","₹56,100",0,₹0,-,-,-,1162(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-BCB Service,Haryana,"World College of MS&RC, Jhajjar",OBG,"₹14,02,000*","₹56,100",0,₹0,-,-,-,1167(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",RADIATION ONCOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1174(1),941(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",PSYCHIATRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1175(1),-,-,-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",TBRD,"₹14,02,000*","₹44,000",0,₹0,775,1176(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"SHKM, Nalhar",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1180(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",PAEDIATRICS,"₹14,02,000*","₹44,000",0,₹0,775,1181(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"Kalpana Chawala Govt MC,Karnal",FORENSIC MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1183(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"BPS Govt Med Coll, Sonepat",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,1185(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-SC Service,Haryana,"Kalpana Chawala Govt MC,Karnal",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1190(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service ESM,Haryana,"Pt BD Sharma, Rohtak",GENERAL MEDICINE,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,969(1),-,1194(1),-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"NC Med Coll, Panipat",OPHTHALMOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,1207(1),727(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCB,Haryana,"Pt BD Sharma, Rohtak",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1211(1),-,-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",PHARMACOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1215(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"General Hospital, Panchkula",DFAM(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1220(1),919(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"BPS Govt Med Coll, Sonepat",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,1221(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",MICROBIOLOGY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1229(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"ESIC Med Coll, Faridabad",PHYSIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1231(1),862(1),-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR Service,Haryana,"Adesh Med Coll, Shahabad",ANAESTHESIOLOGY,"₹14,02,000*","₹44,000",0,₹0,775,-,-,1237(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-UR,Haryana,"Maharaja Agrasen, Agroha",MICROBIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1240(1),833(1),-,-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"Maharaja Agrasen, Agroha",ANATOMY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1267(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"NC Med Coll, Panipat",ORTHOPAEDICS,"₹14,02,000*","₹40,000",0,₹0,680,1268(1),925(1),990(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"SHKM, Nalhar",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,1275(1),-,501(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"BPS Med Coll, Sonepat",DA(NBEMS),-,-,-,-,550,1282(1),774(1),547(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SC,Haryana,"Maharaja Agrasen, Agroha",BIOCHEMISTRY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1283(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCB Service,Haryana,"World College of MS&RC, Jhajjar",ANAESTHESIOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,-,-,1285(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD Service,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1286(1),777(1),811(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"ESIC Med Coll, Faridabad",ANATOMY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1289(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR-PH,Haryana,"Maharaja Agrasen, Agroha",GENERAL SURGERY,"₹1,00,000*","₹95,594",0*,₹0*,550,-,-,1299(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCA,Haryana,"Pt BD Sharma, Rohtak",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,1325(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR,Haryana,"SGGST Med Coll, Gurgaon",BIOCHEMISTRY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1332(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"ESIC Med Coll, Faridabad",PHARMACOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,-,-,1336(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR Service,Haryana,"Kalpana Chawala Govt MC,Karnal",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,1339(1),-,550(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Pt BD Sharma, Rohtak",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1008(1),-,1341(1),-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-BCB Service,Haryana,"Pt BD Sharma, Rohtak",GENERAL SURGERY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1347(1),-,-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCA,Haryana,"Kalpana Chawla GMC Hosp,Karnal",DNBGENERAL MEDICINE,"₹1,25,000","₹1,00,980",Info Not Available,Info not available,345,1352(1),814(1),-,-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"BPS Govt Med Coll, Sonepat",PATHOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,1354(1),854(1),761(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,1108(1),-,1357(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"SHKM, Nalhar",BIOCHEMISTRY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1369(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"NC Med Coll, Panipat",GENERAL SURGERY,"₹14,02,000*","₹40,000",0,₹0,680,1374(1),831(1),601(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Adesh Med Coll, Shahabad",GENERAL SURGERY,"₹14,02,000*","₹44,000",0,₹0,775,1377(1),-,1256(1),-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"Al Falah SchooloffMS,Faridabad",PATHOLOGY,"₹24,96,000*","₹55,000",0,₹0,-,-,-,1379(1),-,-,-,-,-,-,-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",SPM,-,-,-,-,-,-,-,1380(2),-,-,-,-,-,-,-,-
+HAR Govt-All,SC,Haryana,"Kalpana Chawala Govt MC,Karnal",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1382(1),-,-,-,-,-,-,-,-
+HAR Priv-Minority,MINORITY,Haryana,"Al Falah SchooloffMS,Faridabad",BIOCHEMISTRY,-,-,-,-,-,-,-,1385(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA,Haryana,"Pt BD Sharma, Rohtak",MICROBIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,-,-,1388(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,SC,Haryana,"Civil Hospital, Rohtak",DO(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,Info Not Available,1390(1),843(1),809(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,-,600(1),1395(1),-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"BPS Govt Med Coll, Sonepat",PHYSIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,-,-,1403(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA,Haryana,"World College of MS&RC, Jhajjar",OPHTHALMOLOGY,"₹14,02,000*","₹56,100",0,₹0,-,1404(1),933(1),-,-,-,-,-,-,-,-,-
+HAR Govt-Inst. Pref,IP-UR,Haryana,"Kalpana Chawala Govt MC,Karnal",PHARMACOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,1409(1),-,628(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,SCD,Haryana,"Maharaja Agrasen, Agroha",PATHOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1416(1),-,1100(1),-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-BCB,Haryana,"Adesh Med Coll, Shahabad",ORTHOPAEDICS,"₹14,02,000*","₹44,000",0,₹0,775,1451(1),-,-,-,-,-,-,-,-,-,-
+Haryana Priv NRI,NRI,Haryana,"NC Med Coll, Panipat",ANAESTHESIOLOGY,"₹14,02,000*","₹40,000",0,₹0,680,1465(1),-,664(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",OPHTHALMOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1471(1),-,-,-,-,-,-,-,-,-,-
+Haryana Priv IP,IP-BCA,Haryana,"Adesh Med Coll, Shahabad",OBG,"₹14,02,000*","₹44,000",0,₹0,775,1482(1),-,-,-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"General Hospital, Panchkula",DTBCD(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1490(1),679(1),462(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD,Haryana,"Pt BD Sharma, Rohtak",SPM,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1499(1),-,-,-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"BPS Govt Med Coll, Sonepat",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,506,1501(1),-,1007(1),-,-,-,-,-,-,-,-
+HAR Govt-All,BCA Service,Haryana,"Pt BD Sharma, Rohtak",ANAESTHESIOLOGY,"₹1,25,000*","₹1,00,980*",0*,₹0*,2080,1509(1),-,891(1),-,1098(1),-,-,-,-,-,-
+HAR Priv-Govt Quota,BCA Service,Haryana,"Maharaja Agrasen, Agroha",ANAESTHESIOLOGY,"₹1,00,000*","₹95,594",0*,₹0*,550,1512(1),-,838(1),-,-,-,-,-,-,-,-
+HAR Priv-Govt Quota,UR Service,Haryana,"World College of MS&RC, Jhajjar",PAEDIATRICS,"₹14,02,000*","₹56,100",0,₹0,-,1518(1),-,775(1),-,-,-,-,-,-,-,-
+Haryana DNB Serv,BCB,Haryana,"General Hospital, Panchkula",DA(NBEMS),"₹1,25,000","₹1,00,980",Info Not Available,Info not available,300,1520(1),939(1),801(1),-,-,-,-,-,-,-,-
+HAR Govt-All,SCD Service,Haryana,"ESIC Med Coll, Faridabad",MICROBIOLOGY,"₹2,50,000*","₹1,15,853*",2*,"₹10,00,000*",625,1525(1),-,1063(1),-,-,-,-,-,-,-,-
+HAR Govt-All,UR,Haryana,"SHKM, Nalhar",ANATOMY,"₹1,25,000*","₹1,00,980*",0*,₹0*,500,-,-,1078(1),733(1),1622(1),-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"Al Falah SchooloffMS,Faridabad",PHYSIOLOGY,"₹7,20,000*","₹55,000",0,₹0,-,-,-,1360(1),-,1732(1),-,-,-,-,-,-
+HAR Priv-Mgmt,MNG,Haryana,"SGGST Med Coll, Gurgaon",BIOCHEMISTRY,"₹10,00,000*","₹56,100",Info Not Available,Info not available,720,-,-,1397(2),-,1756(1),-,-,-,-,-,-

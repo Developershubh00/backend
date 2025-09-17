@@ -1,0 +1,156 @@
+Quota,Category,State,Institute,Course,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds,CR 2023 1,CR 2023 2,CR 2023 3,CR 2024 1,CR 2024 2,CR 2024 3
+DNB Sponsored,GEN,West Bengal,"Apollo Gleneagles, Kolkata",DNBRADIO DIAGNOSIS,-,-,-,-,750,-,-,-,19423(1),19423(1),66681(1)
+DNB Sponsored,GEN,Delhi,"Sir Ganga Ram Hospital, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹83,000",0,₹0,675,19005(1),-,26163(1),15597(1),23912(1),68633(1)
+DNB Sponsored,GEN,Delhi,"Hindu Rao Hospital, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹1,21,389*",0,₹0,980,10022(1),-,-,12897(1),12897(1),71297(1)
+DNB Sponsored,GEN,Maharashtra,"Dr AmbedkarCentRlwyHosp, MUM",DNBGENERAL MEDICINE,-,-,-,-,366,-,-,-,51223(1),14214(1),72883(1)
+DNB Sponsored,GEN,Punjab,"Sacred Heart Hosp, Jalandhar",DNBGENERAL MEDICINE,-,-,-,-,200,-,-,-,53487(1),58353(1),73819(1)
+DNB Sponsored,GEN,Jharkhand,"Bokaro General Hosp, Bokaro",DNBOBG,"₹1,25,000","₹56,100*",0,₹0,910,28068(1),-,-,22791(1),-,74053(1)
+DNB Sponsored,GEN,Delhi,"Hindu Rao Hospital, Delhi",DNBANAESTHESIOLOGY,-,-,-,-,980,-,-,-,57492(1),71162(1),75170(1)
+DNB Sponsored,GEN,Maharashtra,"Jehangir Hospital, Pune",DNBGENERAL SURGERY,-,-,-,-,335,57339(1),57339(1),103622(1),60378(1),70232(1),75414(1)
+DNB Sponsored,GEN,Jharkhand,"Tata Main Hospital, Jamshedpur",DNBOBG,-,-,-,-,915,28069(1),-,-,21334(1),-,76428(1)
+DNB Sponsored,GEN,Jharkhand,"Tata Main Hospital, Jamshedpur",DNBGENERAL MEDICINE,"₹1,25,000","₹52,000",0,₹0,915,26571(1),-,-,14214(1),24252(1),77295(1)
+DNB Sponsored,GEN,West Bengal,"DiamondHarbour(Gov),Harindanga",DNBGENERAL MEDICINE,"₹1,25,000","₹46,384",0,₹0,726,41732(1),-,73224(1),39664(1),54430(1),78124(1)
+DNB Sponsored,GEN,Karnataka,"NarayanaHrudyalaya,Bommasandra",DNBGENERAL MEDICINE,"₹1,25,000","₹45,000",0,₹0,2000,28698(1),-,-,30527(1),30527(1),79524(1)
+DNB Sponsored,GEN,Maharashtra,"Poona Hospital & RC, Pune",DNBGENERAL MEDICINE,"₹1,25,000","₹75,000*",0,₹0,300,31225(1),-,-,49115(1),48895(1),79947(1)
+DNB Sponsored,GEN,Jharkhand,"Central Hospital, Dhanbad",DNBGENERAL MEDICINE,"₹1,25,000","₹56,100",0,₹0,395,33577(1),-,-,40952(1),40952(1),82358(1)
+DNB Sponsored,GEN,Maharashtra,"Ruby Hall Clinic, Pune",DNBGENERAL MEDICINE,"₹1,25,000","₹63,957",0,₹0,600,43626(1),-,-,44081(1),44081(1),82529(1)
+DNB Sponsored,GEN,Maharashtra,"DrHedgewarRugnalaya,Aurangabad",DNBGENERAL MEDICINE,-,-,-,-,267,-,-,-,56283(1),56283(1),83873(1)
+DNB Sponsored,GEN,Delhi,"Dr Baba Saheb Ambedkar, Delhi",DNBANAESTHESIOLOGY,-,-,-,-,500,-,-,-,48741(1),58853(1),86472(1)
+DNB Sponsored,GEN,Delhi,"Max SS Hosp, Patparganj,Delhi",DNBANAESTHESIOLOGY,"₹1,25,000","₹60,000",0,₹0,402,57034(1),-,-,71162(1),71415(1),88511(1)
+DNB Sponsored,GEN,Punjab,"Fortis Hospital, Mohali",DNBANAESTHESIOLOGY,"₹1,25,000","₹44,000",0,₹0,360,68726(1),-,-,71736(1),71736(1),89524(1)
+DNB Sponsored,GEN,Tamil Nadu,"MIOT Hospital, Chennai",DNBANAESTHESIOLOGY,-,-,-,-,920,-,-,-,88783(1),82232(1),90472(1)
+DNB Sponsored,GEN,Tamil Nadu,"Dr Agarwal's Eye Hosp, Chennai",DNBOPHTHALMOLOGY,"₹1,25,000","₹48,000",0,₹0,20,67327(1),87354(2),-,73908(1),66016(1),92139(1)
+DNB Sponsored,GEN,Kerala,"Baby Memorial, Kozhikode",DNBANAESTHESIOLOGY,-,-,-,-,600,-,-,-,89720(1),60378(1),93127(1)
+DNB Sponsored,GEN,Kerala,"ChaithanyaEyeHosp,Trivandrum",DNBOPHTHALMOLOGY,"₹1,25,000","₹53,000",0,₹0,50,60910(1),60910(1),191847(1),78295(1),78295(1),94068(1)
+DNB Sponsored,GEN,Delhi,"Jaipur Golden Hospital, Delhi",DNBFAMILY MEDICINE,-,-,-,-,242,-,-,-,74308(1),74308(1),101450(1)
+DNB Sponsored,GEN,Maharashtra,"Sadhu Vaswani Missions, Pune",DNBFAMILY MEDICINE,-,-,-,-,369,-,-,-,91237(1),89403(1),104442(1)
+DNB Sponsored,GEN,Maharashtra,"Holy Spirit Hospital, Mumbai",DNBFAMILY MEDICINE,"₹1,25,000","₹61,000",0,₹0,300,81047(1),-,-,73657(1),75756(1),104694(1)
+DNB Sponsored,GEN,Tamil Nadu,"Dr Kamakshi Mem, Chennai",DNBFAMILY MEDICINE,"₹1,25,000","₹48,000",0,₹0,220,99830(1),119489(1),-,100209(1),-,106434(1)
+DNB Sponsored,GEN,Gujarat,"GMERS MedColl Hosp,Vadadora",DNBMICROBIOLOGY,-,-,-,-,750,-,-,-,88880(1),164287(1),175480(1)
+DNB Sponsored,GEN,Delhi,"Dr Baba Saheb Ambedkar, Delhi",DNBOBG,"₹1,25,000","₹1,10,533*",0,₹0,500,27187(1),-,-,16105(1),-,-
+DNB Sponsored,GEN,Delhi,"Hindu Rao Hospital, Delhi",DNBOBG,-,-,-,-,980,-,-,-,19880(1),19880(1),-
+DNB Sponsored,GEN,Delhi,"Dr Baba Saheb Ambedkar, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹1,10,533*",0,₹0,500,20652(1),-,-,20078(1),-,-
+DNB Sponsored,GEN,West Bengal,"Apollo Gleneagles, Kolkata",DNBGENERAL MEDICINE,"₹1,25,000","₹42,000",0,₹0,750,28617(1),-,-,24936(1),24936(1),-
+DNB Sponsored,GEN,Delhi,"Holy Family Hospital, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹68,000*",0,₹0,345,24358(1),-,-,25494(1),-,-
+DNB Sponsored,GEN,West Bengal,"Coochbehar Govt Med Coll, WB",DNBGENERAL MEDICINE,"₹1,25,000","₹45,071",0,₹0,400,47183(1),-,-,26165(1),-,-
+DNB Sponsored,GEN,Haryana,"Medanta The Medicity, Gurgaon",DNBGENERAL MEDICINE,-,-,-,-,1200,-,-,-,26962(1),-,-
+DNB Sponsored,GEN,Delhi,"Dr Baba Saheb Ambedkar, Delhi",DNBPAEDIATRICS,-,-,-,-,500,-,-,-,27383(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Kongunad Hosp, Coimbatore",DNBGENERAL SURGERY,"₹1,25,000","₹50,000",0,₹0,250,63644(1),-,-,27994(1),-,-
+DNB Sponsored,GEN,Telangana,"Fernandez Hospital, Hyderabad",DNBOBG,"₹1,25,000","₹51,000",0,₹0,224,43179(1),-,-,29618(1),-,-
+DNB Sponsored,GEN,Chandigarh,"Govt MultSpec Hosp, Chandigarh",DNBGENERAL MEDICINE,"₹1,25,000","₹65,000*",0,₹0,500,26831(1),-,-,29762(1),-,-
+DNB Sponsored,GEN,Delhi,"Mata Chanan Devi Hosp, Delhi",DNBGENERAL MEDICINE,-,-,-,-,210,-,-,-,29949(1),-,-
+DNB Sponsored,GEN,Haryana,"Maharaja Agrasen MCHosp,Agroha",DNBGENERAL MEDICINE,"₹1,25,000","₹90,209",0,₹0,541,41291(1),-,-,30046(1),-,-
+DNB Sponsored,GEN,Delhi,"Maharaja Agrasen Hosp, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹63,000",0,₹0,300,24713(1),-,-,32494(1),-,-
+DNB Sponsored,GEN,Jharkhand,"Tata Motors Hosp, Jamshedpur",DNBGENERAL MEDICINE,"₹1,25,000","₹53,000",0,₹0,404,43172(1),43172(2),61678(1),34368(1),-,-
+DNB Sponsored,GEN,Delhi,"Shri Balaji Action Med, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹70,000",0,₹0,250,-,-,-,34411(1),-,-
+DNB Sponsored,GEN,Delhi,"Jaipur Golden Hospital, Delhi",DNBGENERAL MEDICINE,-,-,-,-,242,-,-,-,37019(1),-,-
+DNB Sponsored,GEN,Haryana,"Sarvodaya Hospital, Faridabad",DNBGENERAL MEDICINE,-,-,-,-,300,-,-,-,43314(1),-,-
+DNB Sponsored,GEN,West Bengal,Durgapur Steel Plant Hosp,DNBGENERAL MEDICINE,"₹1,25,000","₹45,071*",0,₹0,600,54266(1),-,-,44368(1),-,-
+DNB Sponsored,GEN,Rajasthan,"Santokbha Durlabhji Mem,Jaipur",DNBANAESTHESIOLOGY,-,-,-,-,525,-,-,-,44443(1),44443(1),-
+DNB Sponsored,GEN,Jharkhand,"Tata Main Hospital, Jamshedpur",DNBGENERAL SURGERY,-,-,-,-,915,32955(1),55287(1),87339(1),45295(1),-,-
+DNB Sponsored,GEN,Delhi,"Sir Ganga Ram Hospital, Delhi",DNBANAESTHESIOLOGY,"₹1,25,000","₹83,000",0,₹0,675,49453(1),-,-,45703(1),-,-
+DNB Sponsored,GEN,West Bengal,"Apollo Gleneagles, Kolkata",DNBPAEDIATRICS,"₹1,25,000","₹42,000",0,₹0,750,30348(1),30348(1),76041(1),46440(1),-,-
+DNB Sponsored,GEN,Gujarat,"GMERS MedColl Hosp,Ahmedabad",DNBPAEDIATRICS,-,-,-,-,970,-,-,-,46757(1),-,-
+DNB Sponsored,GEN,Delhi,"Sir Ganga Ram Hospital, Delhi",DNBGENERAL SURGERY,-,-,-,-,675,30426(1),-,-,47728(1),-,-
+DNB Sponsored,GEN,Delhi,"Jaipur Golden Hospital, Delhi",DNBGENERAL SURGERY,"₹1,25,000","₹70,000",0,₹0,242,57097(1),-,-,48334(1),-,-
+DNB Sponsored,GEN,Odisha,"Ispat Gen Hospital, Rourkela",DNBGENERAL MEDICINE,"₹1,25,000","₹53,822",0,₹0,600,34682(1),-,-,24252(1),49115(1),-
+DNB Sponsored,GEN,Jharkhand,"Tata Main Hospital, Jamshedpur",DNBORTHOPAEDICS,-,-,-,-,915,44125(1),-,-,46206(1),49527(1),-
+DNB Sponsored,GEN,Maharashtra,"JagjivanRamRailwayHosp, Mumbai",DNBGENERAL MEDICINE,"₹1,25,000","₹87,188",0,₹0,361,30939(1),-,-,50004(1),-,-
+DNB Sponsored,GEN,West Bengal,"RN Tagore (Cardiac), Kolkata",DNBGENERAL SURGERY,"₹1,25,000","₹43,758",0,₹0,681,59798(1),59798(2),70722(1),51192(1),-,-
+DNB Sponsored,GEN,Pondicherry,"RG Govt Wom&Child,Pondicherry",DNBOBG,"₹1,25,000","₹40,000",0,₹0,450,43805(1),-,-,51612(1),-,-
+DNB Sponsored,GEN,Haryana,"BPS Med Coll, Sonepat",DNBGENERAL SURGERY,"₹1,25,000","₹90,209",0,₹0,550,55525(1),-,-,51940(1),-,-
+DNB Sponsored,GEN,Maharashtra,"Holy Spirit Hospital, Mumbai",DNBGENERAL MEDICINE,-,-,-,-,300,-,-,-,52951(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Apollo Hosp, Greams Rd,Chennai",DNBGENERAL MEDICINE,"₹1,25,000","₹48,000",0,₹0,745,40152(1),-,-,53585(1),-,-
+DNB Sponsored,GEN,Gujarat,"GMERS MedColl Hosp,Ahmedabad",DNBGENERAL SURGERY,"₹1,25,000","₹84,000*",0,₹0,970,46005(1),-,-,54658(1),-,-
+DNB Sponsored,GEN,Delhi,"Hindu Rao Hospital, Delhi",DNBGENERAL SURGERY,"₹1,25,000","₹1,21,389*",0,₹0,980,30775(1),-,-,23912(1),54756(1),-
+DNB Sponsored,GEN,Maharashtra,"Saifee Hospital, Mumbai",DNBGENERAL MEDICINE,"₹1,25,000","₹63,000",0,₹0,257,42991(1),-,-,55532(1),-,-
+DNB Sponsored,GEN,Maharashtra,"Kingsway Hospitals, Nagpur, MH",DNBGENERAL MEDICINE,"₹1,25,000","₹35,000",0,₹0,300,45353(1),45353(1),57028(1),55891(1),-,-
+DNB Sponsored,GEN,Karnataka,"District Hospital, Dharwad",DNBGENERAL MEDICINE,-,-,-,-,250,-,-,-,56576(1),-,-
+DNB Sponsored,GEN,West Bengal,"District Hospital, Howrah",DNBGENERAL MEDICINE,"₹1,25,000","₹46,384",0,₹0,642,32717(1),32717(1),-,34315(1),56629(1),-
+DNB Sponsored,GEN,Jharkhand,"Tata Main Hospital, Jamshedpur",DNBANAESTHESIOLOGY,"₹1,25,000","₹52,000",0,₹0,915,72105(1),76241(2),-,56923(1),-,-
+DNB Sponsored,GEN,Andhra Pradesh,"Dr Ramesh Cardiac Hosp, Guntur",DNBGENERAL MEDICINE,-,-,-,-,350,-,-,-,57150(1),-,-
+DNB Sponsored,GEN,West Bengal,"Raiganj GovtMedC,UttarDinajpur",DNBGENERAL MEDICINE,-,-,-,-,500,-,-,-,49527(1),57492(1),-
+DNB Sponsored,GEN,Kerala,"Little Flower Hosp, Angamaly",DNBGENERAL MEDICINE,-,-,-,-,690,-,-,-,57825(1),-,-
+DNB Sponsored,GEN,Karnataka,"Sagar Hosp, Jayanagar, BLR",DNBGENERAL MEDICINE,-,-,-,-,200,-,-,-,57975(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Southern Railway Hosp, Chennai",DNBGENERAL MEDICINE,"₹1,25,000","₹48,000*",0,₹0,505,38790(1),38790(1),84288(1),58741(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"GKNM Hospital, Coimbatore",DNBGENERAL MEDICINE,"₹1,25,000","₹49,440",0,₹0,600,52030(1),52030(1),-,59318(1),59318(1),-
+DNB Sponsored,GEN,Maharashtra,"Rajiv Gandhi MedColl,Thane,MUM",DNBGENERAL SURGERY,-,-,-,-,500,-,-,-,58353(1),59485(1),-
+DNB Sponsored,GEN,Kerala,"Mar Sleeva Medicity, Kottayam",DNBGENERAL MEDICINE,-,-,-,-,-,-,-,-,59940(1),-,-
+DNB Sponsored,GEN,Punjab,"SBLS Civil Hospital, Jalandhar",DNBGENERAL SURGERY,-,-,-,-,470,-,-,-,60182(1),-,-
+DNB Sponsored,GEN,Kerala,"Rajagiri Hospital, Ernakulam",DNBGENERAL MEDICINE,-,-,-,-,530,-,-,-,60352(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Ganga Med Centre, Coimbatore",DNBORTHOPAEDICS,"₹1,25,000","₹50,000",0,₹0,500,53048(1),67164(2),73941(1),60419(1),-,-
+DNB Sponsored,GEN,Assam,"SriSankaradevaNethr,Guwahati",DNBOPHTHALMOLOGY,"₹1,25,000","₹48,000",0,₹0,177,58821(1),-,-,61541(1),-,-
+DNB Sponsored,GEN,Pondicherry,"IG GovtGenHosp&PGI,Pondicherry",DNBGENERAL SURGERY,"₹1,25,000","₹43,000",0,₹0,626,58951(1),-,93738(1),61623(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"JLNM Hosp, Rainawari",DNBGENERAL MEDICINE,-,-,-,-,200,-,-,-,62229(1),-,-
+DNB Sponsored,GEN,Punjab,"Amandeep Hospital, Amritsar",DNBORTHOPAEDICS,"₹1,25,000","₹49,000",0,₹0,200,43252(1),-,-,62654(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Dr Jeyasekharan Hosp,Nagercoil",DNBGENERAL SURGERY,"₹1,25,000","₹48,000",0,₹0,200,72417(1),86623(2),146638(1),62836(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"Govt Med Coll Hosp, Anantnag",DNBGENERAL MEDICINE,"₹1,25,000","₹57,000*",0,₹0,363,44607(1),-,-,62924(1),-,-
+DNB Sponsored,GEN,Gujarat,"Gujarat IMH Hosp, Ahmedabad",DNBPSYCHIATRY,-,-,-,-,312,-,-,-,63558(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"Assoc Hosp Govt MC, Baramulla",DNBGENERAL MEDICINE,"₹1,25,000","₹48,000*",0,₹0,300,48994(1),58731(2),81938(1),63760(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Aravind Eye Hospital, Theni",DNBOPHTHALMOLOGY,-,-,-,-,163,-,-,-,63772(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"Govt Med Coll Hosp, Anantnag",DNBGENERAL SURGERY,-,-,-,-,363,-,-,-,63838(1),-,-
+DNB Sponsored,GEN,Karnataka,"NarayanaHrudyalaya,Bommasandra",DNBCARDIOTHORACIC 6 YRS,"₹1,25,000","₹45,000",0,₹0,2000,62261(1),65320(1),-,64098(1),-,-
+DNB Sponsored,GEN,Andhra Pradesh,"BalajiInstitute-BIRRD,Tirupati",DNBORTHOPAEDICS,-,-,-,-,250,-,-,-,65161(1),-,-
+DNB Sponsored,GEN,Karnataka,"Nethradhama SS Eye Hosp, BLR",DNBOPHTHALMOLOGY,"₹1,25,000","₹45,000",0,₹0,127,17423(1),-,-,65837(1),-,-
+DNB Sponsored,GEN,Karnataka,"Manipal Hosp, Rustum Bagh, BLR",DNBNEUROSURGERY 6 YRS,-,-,-,-,600,-,-,-,66100(1),-,-
+DNB Sponsored,GEN,Delhi,"Indraprastha Apollo Hosp,Delhi",DNBANAESTHESIOLOGY,-,-,-,-,718,-,-,-,66461(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"JLNM Hosp, Rainawari",DNBGENERAL SURGERY,-,-,-,-,200,-,-,-,66686(1),-,-
+DNB Sponsored,GEN,Delhi,"MaxSmart SS(SaketCityH),Delhi",DNBANAESTHESIOLOGY,-,-,-,-,250,-,-,-,66872(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"District Hospital, Ganderbal,JK",DNBGENERAL SURGERY,-,-,-,-,200,-,-,-,67759(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Madras Medical Mission,Chennai",DNBCARDIOTHORACIC 6 YRS,"₹1,25,000","₹52,500",0,₹0,200,-,-,-,68021(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Preethi Hospital, Madurai",DNBORTHOPAEDICS,-,-,-,-,214,-,-,-,68322(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Aravind Eye Hospital, Noombal",DNBOPHTHALMOLOGY,-,-,-,-,250,-,-,-,68513(1),68513(1),-
+DNB Sponsored,GEN,Haryana,"Medanta The Medicity, Gurgaon",DNBANAESTHESIOLOGY,"₹1,25,000","₹59,000*",0,₹0,1200,62051(1),-,-,68978(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Apollo Hosp, Greams Rd,Chennai",DNBNEUROSURGERY 6 YRS,"₹1,25,000","₹48,000",0,₹0,745,73416(1),-,-,69192(1),-,-
+DNB Sponsored,GEN,Delhi,"Batra Hospital, Delhi",DNBANAESTHESIOLOGY,"₹1,25,000","₹61,000",0,₹0,495,55887(1),-,-,69387(1),-,-
+DNB Sponsored,GEN,Karnataka,"NarayanaHrudyalaya,Bommasandra",DNBANAESTHESIOLOGY,-,-,-,-,2000,-,-,-,72392(1),-,-
+DNB Sponsored,GEN,Telangana,"Asha Hospital, Hyderabad",DNBPSYCHIATRY,"₹1,25,000","₹50,686",0,₹0,96,59665(1),59665(1),93221(1),72775(1),-,-
+DNB Sponsored,GEN,Telangana,"Krishna IMS, Secunderabad",DNBANAESTHESIOLOGY,"₹1,25,000","₹50,686",0,₹0,675,39445(1),-,93889(1),73911(1),73911(1),-
+DNB Sponsored,GEN,West Bengal,"The Mission Hosp, Durgapur, WB",DNBANAESTHESIOLOGY,-,-,-,-,360,-,-,-,74535(1),-,-
+DNB Sponsored,GEN,Odisha,"JaiprakashHosp,Rourkela,Odisha",DNBFAMILY MEDICINE,-,-,-,-,307,-,-,-,75096(1),-,-
+DNB Sponsored,GEN,Karnataka,"MM Joshi Eye Hospital, Hubli",DNBOPHTHALMOLOGY,"₹1,25,000","₹45,000",0,₹0,40,56511(1),-,-,76663(1),-,-
+DNB Sponsored,GEN,Maharashtra,"Ruby Hall Clinic, Pune",DNBANAESTHESIOLOGY,-,-,-,-,600,-,-,-,81357(1),-,-
+DNB Sponsored,GEN,Karnataka,"Manipal Hosp, Rustum Bagh, BLR",DNBANAESTHESIOLOGY,"₹1,25,000","₹45,000",0,₹0,600,59092(1),59092(1),116046(1),72035(1),81731(1),-
+DNB Sponsored,GEN,Maharashtra,"Jehangir Hospital, Pune",DNBANAESTHESIOLOGY,"₹1,25,000","₹65,791*",0,₹0,335,73499(1),73499(2),184106(1),81731(1),75313(1),-
+DNB Sponsored,GEN,Kerala,"Little Flower Hosp, Angamaly",DNBOPHTHALMOLOGY,-,-,-,-,690,-,-,-,83426(1),-,-
+DNB Sponsored,GEN,Maharashtra,"Jehangir Hospital, Pune",DNBFAMILY MEDICINE,"₹1,25,000","₹65,791*",0,₹0,335,65569(1),78433(1),-,75756(1),85391(1),-
+DNB Sponsored,GEN,Karnataka,"Sahyadri Narayana Hosp,Shimoga",DNBANAESTHESIOLOGY,"₹1,25,000","₹45,000",0,₹0,228,78787(1),-,-,87844(1),87236(1),-
+DNB Sponsored,GEN,Tamil Nadu,"Kovai MedicalCentre,Coimbatore",DNBANAESTHESIOLOGY,"₹1,25,000","₹48,000",0,₹0,950,80224(1),-,-,88082(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Kauvery Hospital, Chennai",DNBANAESTHESIOLOGY,-,-,-,-,200,-,-,-,89952(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"Dr Rangarajan Mem Hosp,Chennai",DNBFAMILY MEDICINE,-,-,-,-,176,-,-,-,94888(1),-,-
+DNB Sponsored,GEN,Pondicherry,"IG GovtGenHosp&PGI,Pondicherry",DNBFAMILY MEDICINE,-,-,-,-,626,-,-,-,95471(1),-,-
+DNB Sponsored,GEN,Tamil Nadu,"CSI Kalyani, Chennai",DNBFAMILY MEDICINE,"₹1,25,000","₹48,000",0,₹0,200,89281(1),98949(1),-,105582(1),-,-
+DNB Sponsored,GEN,Jammu and Kashmir,"Govt Med Coll Hosp, Anantnag",DNBCOMMUNITY MEDICINE,-,-,-,-,363,-,-,-,137699(1),-,-
+DNB Sponsored,GEN,Karnataka,"Manipal Hosp, Rustum Bagh, BLR",DNBRADIO DIAGNOSIS,"₹1,25,000","₹45,000",0,₹0,600,6958(1),12650(1),-,-,-,-
+DNB Sponsored,GEN,Karnataka,"NarayanaHrudyalaya,Bommasandra",DNBRADIO DIAGNOSIS,-,-,-,-,2000,15940(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"Deen Dayal Upadhyay, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹1,10,533*",0,₹0,640,21019(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"Hindu Rao Hospital, Delhi",DNBPAEDIATRICS,"₹1,25,000","₹1,21,389*",0,₹0,980,29251(1),-,-,-,-,-
+DNB Sponsored,GEN,West Bengal,"District Hospital, Jalpaiguri",DNBOBG,"₹1,25,000","₹45,071",0,₹0,1000,36717(1),-,-,-,-,-
+DNB Sponsored,GEN,Kerala,"KIMS Al Shifa Hosp, Malappuram",DNBGENERAL MEDICINE,"₹1,25,000","₹55,120",0,₹0,500,39631(1),-,-,-,-,-
+DNB Sponsored,GEN,Himachal Pradesh,"Lal Bah Shastri Govt Med,Mandi",DNBGENERAL MEDICINE,"₹1,25,000","₹40,000*",2,"₹40,00,000",550,40934(1),-,-,-,-,-
+DNB Sponsored,GEN,Chhattisgarh,"JLN Main Hosp & RC, Bhilai",DNBGENERAL MEDICINE,"₹1,25,000","₹53,550",0,₹0,860,41618(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"Batra Hospital, Delhi",DNBGENERAL SURGERY,"₹1,25,000","₹61,000",0,₹0,495,45862(1),-,-,-,-,-
+DNB Sponsored,GEN,Karnataka,"Apollo Hosp, Bannerghatta, BLR",DNBGENERAL MEDICINE,"₹1,25,000","₹45,000",0,₹0,350,46150(1),-,-,-,-,-
+DNB Sponsored,GEN,Maharashtra,"Jupiter Hospital, Thane",DNBPAEDIATRICS,"₹1,25,000","₹66,100",0,₹0,350,46926(1),-,-,-,-,-
+DNB Sponsored,GEN,Tamil Nadu,"Southern Railway Hosp, Chennai",DNBGENERAL SURGERY,"₹1,25,000","₹48,000*",0,₹0,505,51593(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"Max SS Hosp, Saket, Delhi",DNBANAESTHESIOLOGY,"₹1,25,000","₹60,000",0,₹0,539,52396(1),-,-,-,-,-
+DNB Sponsored,GEN,Tamil Nadu,"Kovai MedicalCentre,Coimbatore",DNBPAEDIATRICS,"₹1,25,000","₹48,000",0,₹0,950,55645(1),-,-,-,-,-
+DNB Sponsored,GEN,Meghalaya,"Nazareth Hospital, Shillong",DNBGENERAL MEDICINE,"₹1,25,000","₹48,000",0,₹0,366,56565(1),-,-,-,-,-
+DNB Sponsored,GEN,Haryana,"Fortis Escorts Hosp, Faridabad",DNBGENERAL SURGERY,"₹1,25,000","₹71,100",0,₹0,210,56917(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"Mata Chanan Devi Hosp, Delhi",DNBGENERAL SURGERY,"₹1,25,000","₹56,100",0,₹0,210,57286(1),-,-,-,-,-
+DNB Sponsored,GEN,Assam,"Aditya Diag & Hosp, Dibrugarh",DNBGENERAL MEDICINE,"₹1,25,000","₹48,000",0,₹0,210,57623(1),57623(1),-,-,-,-
+DNB Sponsored,GEN,Maharashtra,"Jehangir Hospital, Pune",DNBEMERGENCY MEDICINE,"₹1,25,000","₹65,791*",0,₹0,335,59428(1),-,-,-,-,-
+DNB Sponsored,GEN,Delhi,"St Stephen's Hospital, Delhi",DNBGENERAL MEDICINE,"₹1,25,000","₹58,000*",0,₹0,595,22231(1),22594(1),60862(1),-,-,-
+DNB Sponsored,GEN,Karnataka,"St Martha's Hosp, Bangalore",DNBGENERAL SURGERY,"₹1,25,000","₹45,000",0,₹0,431,65994(1),-,-,-,-,-
+DNB Sponsored,GEN,Karnataka,"St Philomena's Hosp,Bangalore",DNBGENERAL SURGERY,"₹1,25,000","₹45,000",0,₹0,371,72373(1),-,-,-,-,-
+DNB Sponsored,GEN,Uttar Pradesh,"Chandan Hospital, Lucknow",DNBANAESTHESIOLOGY,"₹1,25,000","₹85,000",0,₹0,198,64810(1),75434(2),-,-,-,-
+DNB Sponsored,GEN,Tamil Nadu,"GKNM Hospital, Coimbatore",DNBANAESTHESIOLOGY,"₹1,25,000","₹49,440",0,₹0,600,79499(1),81494(2),-,-,-,-
+DNB Sponsored,GEN,Tamil Nadu,"Christian F Hosp, Oddanchatram",DNBFAMILY MEDICINE,"₹1,25,000","₹48,000",0,₹0,299,88379(1),-,-,-,-,-
+DNB Sponsored,GEN,Maharashtra,"HurkisondasNurrotumdas, Mumbai",DNBANAESTHESIOLOGY,"₹1,25,000","₹70,000",0,₹0,360,71389(1),71389(1),89929(1),-,-,-
+DNB Sponsored,GEN,Pondicherry,"IndiraGandhi MC&RI,Pondicherry",DNBANAESTHESIOLOGY,"₹1,25,000","₹43,000",0*,₹0*,750,73753(1),82216(1),91297(1),-,-,-
+DNB Sponsored,GEN,Delhi,"St Stephen's Hospital, Delhi",DNBFAMILY MEDICINE,"₹1,25,000","₹58,000*",0,₹0,595,58403(1),-,93951(1),-,-,-
+DNB Sponsored,GEN,Kerala,"SreeGokulam MedColl,Trivandrum",DNBEMERGENCY MEDICINE,"₹1,25,000","₹53,000",0,₹0,750,56823(1),-,112494(1),-,-,-
+DNB Sponsored,GEN,Telangana,"Apollo Hosp,Jubilee Hills,Hyd",DNBGENERAL SURGERY,"₹1,25,000","₹50,686",0,₹0,550,70199(1),69966(1),115105(1),-,-,-
+DNB Sponsored,GEN,Tamil Nadu,"Arvind Eye Hosp, Coimbatore",DNBOPHTHALMOLOGY,"₹1,25,000","₹48,000",0,₹0,450,29184(1),-,154087(1),-,-,-
+DNB Sponsored,GEN,Andhra Pradesh,"SankarFoundation EyeHosp,Vizag",DNBOPHTHALMOLOGY,"₹1,25,000","₹44,075",0,₹0,200,73311(1),88750(2),180646(1),-,-,-
+DNB Sponsored,GEN,Delhi,"Max SS Hosp, Saket, Delhi",DNBFAMILY MEDICINE,"₹1,25,000","₹60,000",0,₹0,539,50090(1),-,196276(1),-,-,-

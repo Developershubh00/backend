@@ -1,0 +1,94 @@
+State,Institute,Course,Quota,Fee,Stipend Year 1,Bond Years,Bond Penalty,Beds
+Himachal Pradesh,"IGMC, Shimla",ANAESTHESIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",ANAESTHESIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",ANAESTHESIOLOGY,HP Priv All,"₹19,31,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ANAESTHESIOLOGY,HP Priv NRI,"₹33,40,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ANAESTHESIOLOGY,HP Private-StateQuota,"₹19,31,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",ANATOMY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",ANATOMY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",ANATOMY,HP Priv All,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ANATOMY,HP Private-StateQuota,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"RPG, Tanda",BIOCHEMISTRY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",BIOCHEMISTRY,HP Priv All,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",BIOCHEMISTRY,HP Private-StateQuota,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"RPG, Tanda",DERMATOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"IGMC, Shimla",DERMATOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"MMU, Solan",DERMATOLOGY,HP Priv All,"₹31,87,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",DERMATOLOGY,HP Priv NRI,"₹58,45,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",DERMATOLOGY,HP Private-StateQuota,"₹31,87,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",FORENSIC MEDICINE,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",FORENSIC MEDICINE,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",FORENSIC MEDICINE,HP Priv All,"₹3,50,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",FORENSIC MEDICINE,HP Private-StateQuota,"₹3,50,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"RPG, Tanda",GENERAL MEDICINE,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"IGMC, Shimla",GENERAL MEDICINE,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"MMU, Solan",GENERAL MEDICINE,HP Priv All,"₹28,99,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",GENERAL MEDICINE,HP Priv NRI,"₹58,45,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",GENERAL MEDICINE,HP Private-StateQuota,"₹28,99,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",MICROBIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"LalBahShastri Govt Med, Mandi",MICROBIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",500
+Himachal Pradesh,"RPG, Tanda",MICROBIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",MICROBIOLOGY,HP Priv All,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",MICROBIOLOGY,HP Private-StateQuota,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",PAEDIATRICS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",PAEDIATRICS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",PAEDIATRICS,HP Priv All,"₹27,67,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PAEDIATRICS,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PAEDIATRICS,HP Private-StateQuota,"₹27,67,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",PATHOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",PATHOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",PATHOLOGY,HP Priv All,"₹15,95,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PATHOLOGY,HP Private-StateQuota,"₹15,95,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",PHARMACOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"LalBahShastri Govt Med, Mandi",PHARMACOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",500
+Himachal Pradesh,"RPG, Tanda",PHARMACOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",PHARMACOLOGY,HP Priv All,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PHARMACOLOGY,HP Private-StateQuota,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",PHYSIOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"MMU, Solan",PHYSIOLOGY,HP Priv All,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PHYSIOLOGY,HP Private-StateQuota,"₹3,00,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",PSYCHIATRY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",PSYCHIATRY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",PSYCHIATRY,HP Priv All,"₹23,47,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PSYCHIATRY,HP Priv NRI,"₹41,75,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",PSYCHIATRY,HP Private-StateQuota,"₹23,47,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",RADIATION ONCOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"IGMC, Shimla",RADIO DIAGNOSIS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",RADIO DIAGNOSIS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",RADIO DIAGNOSIS,HP Priv All,"₹33,39,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",RADIO DIAGNOSIS,HP Priv NRI,"₹66,80,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",RADIO DIAGNOSIS,HP Private-StateQuota,"₹33,39,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",SPM,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"Govt Med Coll, Nahan",SPM,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",Info Not Available
+Himachal Pradesh,"RPG, Tanda",SPM,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",SPM,HP Priv All,"₹3,50,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",SPM,HP Private-StateQuota,"₹3,50,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",TBRD,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"MMU, Solan",TBRD,HP Priv All,"₹23,47,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",TBRD,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",TBRD,HP Private-StateQuota,"₹23,47,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",ENT,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",ENT,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",ENT,HP Priv All,"₹19,31,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ENT,HP Priv NRI,"₹37,58,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ENT,HP Private-StateQuota,"₹19,31,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",GENERAL SURGERY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",GENERAL SURGERY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",GENERAL SURGERY,HP Priv All,"₹26,35,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",GENERAL SURGERY,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",GENERAL SURGERY,HP Private-StateQuota,"₹26,35,600*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"RPG, Tanda",OBG,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"IGMC, Shimla",OBG,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"MMU, Solan",OBG,HP Priv All,"₹29,35,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",OBG,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",OBG,HP Private-StateQuota,"₹29,35,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",OPHTHALMOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",OPHTHALMOLOGY,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",OPHTHALMOLOGY,HP Priv All,"₹27,67,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",OPHTHALMOLOGY,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",OPHTHALMOLOGY,HP Private-StateQuota,"₹27,67,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"IGMC, Shimla",ORTHOPAEDICS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",1031
+Himachal Pradesh,"RPG, Tanda",ORTHOPAEDICS,HP Govt Quota,"₹39,000*","₹40,000*",3*,"₹40,00,000*",802
+Himachal Pradesh,"MMU, Solan",ORTHOPAEDICS,HP Priv All,"₹27,67,800*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ORTHOPAEDICS,HP Priv NRI,"₹50,10,000*","₹40,000",1,"₹10,00,000",720
+Himachal Pradesh,"MMU, Solan",ORTHOPAEDICS,HP Private-StateQuota,"₹27,67,800*","₹40,000",1,"₹10,00,000",720

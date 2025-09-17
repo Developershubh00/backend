@@ -1,0 +1,37 @@
+# macOS-specific files
+.DS_Store
+**/.DS_Store
+
+# Virtual environments
+.env
+venv/
+env/
+
+# Python bytecode and cache files
+*.pyc
+__pycache__/
+migrations/**/__pycache__/
+
+# Django-specific files
+*.log
+*.pot
+db.sqlite3
+local_settings.py # Or any other local settings file not meant for production
+
+# Media and static files (if managed locally and not meant for version control)
+media/
+static/
+
+# IDE and editor specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Testing and coverage reports
+.tox/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Deployment-related files (if applicable)
+*.tar.gz
+*.zip

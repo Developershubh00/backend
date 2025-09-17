@@ -10,8 +10,7 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from rest_framework import permissions
 from core import views
-from django.http import JsonResponse
-
+from django.urls import path
 from core.views import (
     CollegeCutoffViewSet, UGSeatMatrixViewSet, PGFeeDetailsViewSet,
     ClosingRankViewSet, PrivateCollegeViewSet, NIRFUniversityRankingViewSet,
@@ -21,8 +20,8 @@ from core.views import (
     verify_email_otp, LogoutView, HealthCheckView,
     CategoryBasedAllotmentView, CategoryBasedClosingRankView,
     CategoryBasedSeatMatrixView, CategoryBasedFeeStipendBondView,
-    CategoryListView, CategorySummaryView,
-)
+    CategoryListView, CategorySummaryView,upload_closingranks_data,upload_allotment_data,upload_seatmatrix_data,upload_fees_bond_data, AllotmentDataList, SeatMatrixDataList, 
+    FeeStipendBondDataList, ClosingRanksDataList)
 
 schema_view = get_schema_view(
    openapi.Info(
@@ -36,11 +35,8 @@ schema_view = get_schema_view(
 )
 
 
-# def home(request):
-#     return JsonResponse({"message": "BD Counselling Backend API", "status": "OK"})
-
 def home(request):
-    return JsonResponse({"status": "ok", "message": "Backend live 🎉"})
+    return JsonResponse({"message": "BD Counselling Backend API", "status": "OK"})
 
 # Routers for ViewSets
 router = DefaultRouter()
@@ -102,6 +98,11 @@ urlpatterns = [
     # CSV upload:
     path("api/upload/<str:type>/", views.CSVUploadView.as_view(), name="csv-upload"),
 
+    path("upload-allotments/", upload_allotment_data, name="upload-allotments"),
+    path("upload-seatmatrix/", upload_seatmatrix_data, name="upload-seatmatrix"),
+    path("upload-feesbond/", upload_fees_bond_data, name="upload-feesbond"),
+    path("upload-closingranks/", upload_closingranks_data, name="upload-closingranks"),
+
     # Category-based API endpoints
     path("api/categories/", CategoryListView.as_view(), name="category-list"),
     path("api/category/summary/<str:category>/", CategorySummaryView.as_view(), name="category-summary"),
@@ -109,10 +110,16 @@ urlpatterns = [
     path("api/category/closing-ranks/<str:category>/", CategoryBasedClosingRankView.as_view(), name="category-closing-ranks"),
     path("api/category/seat-matrix/<str:category>/", CategoryBasedSeatMatrixView.as_view(), name="category-seat-matrix"),
     path("api/category/fee-stipend-bond/<str:category>/", CategoryBasedFeeStipendBondView.as_view(), name="category-fee-stipend-bond"),
+    path("get-allotments/", AllotmentDataList.as_view(), name="get_allotments"),
+    path("get-seatmatrix/", SeatMatrixDataList.as_view(), name="get_seatmatrix"),
+    path("get-feesbond/", FeeStipendBondDataList.as_view(), name="get_feesbond"),
+    path("get-closingranks/", ClosingRanksDataList.as_view(), name="get_closingranks"),
 
 ]
+
 
 # Serve static files during development
 if settings.DEBUG:
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    

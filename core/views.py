@@ -33,13 +33,13 @@ from rest_framework.permissions import AllowAny
 from .models import RankPredictionCollege
 from .serializers import RankPredictionCollegeSerializer
 from .models import UGSeatMatrix, PGFeeDetails, PrivateCollege, NIRFUniversityRanking
-from .models import Allotment, ClosingRank, SeatMatrix, FeeStipendBond
+from .models import Allotment, ClosingRank, SeatMatrix, FeeStipendBond, AllotmentData, SeatMatrixData, FeeStipendBondData, ClosingRanksData
 from .serializers import (
     UGSeatMatrixSerializer, PGFeeDetailsSerializer, OldClosingRankSerializer,
     PrivateCollegeSerializer, NIRFUniversityRankingSerializer, LoginSerializer,
     AllotmentSerializer, ClosingRankSerializer, SeatMatrixSerializer, FeeStipendBondSerializer
 )
-
+from django_filters.rest_framework import DjangoFilterBackend
 from django.contrib.auth import get_user_model
 from rest_framework import generics, permissions
 from .serializers import UserSerializer
@@ -79,42 +79,9 @@ from rest_framework_simplejwt.tokens import RefreshToken
 from drf_yasg.utils import swagger_auto_schema
 from drf_yasg import openapi
 
-# class LoginAPIView(APIView):
-#     @swagger_auto_schema(
-#         request_body=LoginSerializer,
-#         responses={
-#             200: openapi.Response(
-#                 description="Successful login",
-#                 examples={
-#                     "application/json": {
-#                         "access": "your_jwt_token",
-#                         "refresh": "your_refresh_token",
-#                         "user_id": 1,
-#                         "username": "shubh",
-#                         "email": "shubh@example.com"
-#                     }
-#                 }
-#             ),
-#             401: "Invalid credentials",
-#         }
-#     )
-#     def post(self, request):
-#         serializer = LoginSerializer(data=request.data)
-#         if serializer.is_valid():
-#             return Response(serializer.validated_data, status=status.HTTP_200_OK)
-#         return Response(serializer.errors, status=status.HTTP_401_UNAUTHORIZED)
 class LoginAPIView(APIView):
-    permission_classes = [AllowAny]
-    
     @swagger_auto_schema(
-        request_body=openapi.Schema(
-            type=openapi.TYPE_OBJECT,
-            properties={
-                'email': openapi.Schema(type=openapi.TYPE_STRING),
-                'password': openapi.Schema(type=openapi.TYPE_STRING),
-            },
-            required=['email', 'password']
-        ),
+        request_body=LoginSerializer,
         responses={
             200: openapi.Response(
                 description="Successful login",
@@ -122,6 +89,9 @@ class LoginAPIView(APIView):
                     "application/json": {
                         "access": "your_jwt_token",
                         "refresh": "your_refresh_token",
+                        "user_id": 1,
+                        "username": "shubh",
+                        "email": "shubh@example.com"
                     }
                 }
             ),
@@ -129,46 +99,11 @@ class LoginAPIView(APIView):
         }
     )
     def post(self, request):
-        email = request.data.get('email')
-        password = request.data.get('password')
-        
-        if not email or not password:
-            return Response({
-                'detail': 'Email and password are required'
-            }, status=status.HTTP_400_BAD_REQUEST)
-        
-        try:
-            # Find user by email
-            user = User.objects.get(email=email)
-            
-            # Authenticate using username (since Django auth uses username)
-            authenticated_user = authenticate(
-                request, 
-                username=user.username, 
-                password=password
-            )
-            
-            if authenticated_user:
-                # Generate tokens
-                refresh = RefreshToken.for_user(authenticated_user)
-                
-                return Response({
-                    'access': str(refresh.access_token),
-                    'refresh': str(refresh),
-                }, status=status.HTTP_200_OK)
-            else:
-                return Response({
-                    'detail': 'Invalid credentials'
-                }, status=status.HTTP_401_UNAUTHORIZED)
-                
-        except User.DoesNotExist:
-            return Response({
-                'detail': 'Invalid credentials'
-            }, status=status.HTTP_401_UNAUTHORIZED)
-        except Exception as e:
-            return Response({
-                'detail': 'Login failed'
-            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        serializer = LoginSerializer(data=request.data)
+        if serializer.is_valid():
+            return Response(serializer.validated_data, status=status.HTTP_200_OK)
+        return Response(serializer.errors, status=status.HTTP_401_UNAUTHORIZED)
+
 
 
 # Removed duplicate SignupView and ProfileView definitions to avoid conflicts.
@@ -194,51 +129,12 @@ class SignupView(generics.CreateAPIView):
             user = serializer.save()
             return Response(UserProfileSerializer(user).data, status=201)
         return Response(serializer.errors, status=400)
-
-
-# class ProfileView(APIView):
-#     permission_classes = [permissions.IsAuthenticated]
-
-#     def get(self, request):
-#         serializer = UserProfileSerializer(request.user)
-#         return Response(serializer.data)
-
-#     def put(self, request):
-#         user = request.user
-#         # Update all fields that are provided
-#         if 'email' in request.data:
-#             user.email = request.data['email']
-#         if 'name' in request.data:
-#             user.first_name = request.data['name']
-#         if 'phone' in request.data:
-#             user.phone = request.data['phone']
-#         if 'neet_rank' in request.data:
-#             user.neet_rank = request.data['neet_rank']
-#         if 'category' in request.data:
-#             user.category = request.data['category']
-#         if 'state' in request.data:
-#             user.state = request.data['state']
-        
-#         user.save()
-#         serializer = UserProfileSerializer(user)
-#         return Response(serializer.data)
-
 class ProfileView(APIView):
     permission_classes = [permissions.IsAuthenticated]
 
     def get(self, request):
-        user = request.user
-        # Map backend field names to frontend expected names
-        user_data = {
-            'id': user.id,
-            'email': user.email,
-            'name': user.first_name,
-            'phone': user.phone,
-            'neetRank': user.neet_rank,  # Map neet_rank to neetRank
-            'category': user.category,
-            'state': user.state,
-        }
-        return Response(user_data)
+        serializer = UserProfileSerializer(request.user)
+        return Response(serializer.data)
 
     def put(self, request):
         user = request.user
@@ -249,26 +145,16 @@ class ProfileView(APIView):
             user.first_name = request.data['name']
         if 'phone' in request.data:
             user.phone = request.data['phone']
-        if 'neetRank' in request.data:  # Handle neetRank from frontend
-            user.neet_rank = request.data['neetRank']
+        if 'neet_rank' in request.data:
+            user.neet_rank = request.data['neet_rank']
         if 'category' in request.data:
             user.category = request.data['category']
         if 'state' in request.data:
             user.state = request.data['state']
         
         user.save()
-        
-        # Return mapped field names
-        user_data = {
-            'id': user.id,
-            'email': user.email,
-            'name': user.first_name,
-            'phone': user.phone,
-            'neetRank': user.neet_rank,
-            'category': user.category,
-            'state': user.state,
-        }
-        return Response(user_data)
+        serializer = UserProfileSerializer(user)
+        return Response(serializer.data)
     
 from rest_framework.views import APIView
 from rest_framework.permissions import IsAuthenticated
@@ -790,3 +676,301 @@ class CategorySummaryView(APIView):
             })
         except Exception as e:
             return Response({"error": str(e)}, status=500)
+
+# app/views.py
+import os
+import pandas as pd
+from django.conf import settings
+from django.http import JsonResponse
+
+
+# 1. Allotment Data (Round_1 → Round_5)
+def upload_allotment_data(request):
+    csv_path = os.path.join(settings.BASE_DIR, "static", "data", "allotments")
+    csv_files = [f for f in os.listdir(csv_path) if f.endswith(".csv")]
+
+    objs = []
+    for file in csv_files:
+        df = pd.read_csv(os.path.join(csv_path, file))
+        for _, row in df.iterrows():
+            print(row)
+            objs.append(AllotmentData(
+                round=row["Round"],
+                ai_rank=row["AI Rank"],
+                state=row["State"],
+                institute=row["Institute"],
+                course=row["Course"],
+                quota=row["Quota"],
+                category=row["Category"],
+                fee=row["Fee"],
+                stipend_year1=row["Stipend Year 1"],
+                bond_years=row["Bond Years"] if not pd.isna(row["Bond Years"]) else None,
+                bond_penalty=row["Bond Penalty"],
+                beds=row["Beds"]
+            ))
+    # print(objs)
+    AllotmentData.objects.bulk_create(objs)
+    return JsonResponse({"status": "success", "inserted": len(objs)})
+
+
+# 2. Seat Matrix Data
+def upload_seatmatrix_data(request):
+    file_path = os.path.join(settings.BASE_DIR, "static", "data", "Seat_matrix.csv")
+    df = pd.read_csv(file_path)
+
+    objs = []
+    for _, row in df.iterrows():
+        # print(row["category"])
+        objs.append(SeatMatrixData(
+            round=row["Round"],
+            quota=row["Quota"],
+            category=row["Category"],
+            state=row["State"],
+            institute=row["Institute"],
+            course=row["Course"],
+            seats=row["Seats"],
+            fee=row["Fee"],
+            stipend_year1=row["Stipend Year 1"],
+            bond_years=row["Bond Years"] if not pd.isna(row["Bond Years"]) else None,
+            bond_penalty=row["Bond Penalty"],
+            beds=row["Beds"],
+            cr_2023_1=row.get("CR 2023 1", None),
+            cr_2023_2=row.get("CR 2023 2", None),
+            cr_2023_3=row.get("CR 2023 3", None),
+            cr_2023_4=row.get("CR 2023 4", None),
+            cr_2023_5=row.get("CR 2023 5", None),
+            cr_2024_1=row.get("CR 2024 1", None),
+            cr_2024_2=row.get("CR 2024 2", None),
+            cr_2024_3=row.get("CR 2024 3", None),
+            cr_2024_4=row.get("CR 2024 4", None),
+            cr_2024_5=row.get("CR 2024 5", None),
+        ))
+        print(row)
+    print(objs)
+    SeatMatrixData.objects.bulk_create(objs)
+    return JsonResponse({"status": "success", "inserted": len(objs)})
+
+
+# 3. Fee / Stipend / Bond Data (38 files)
+def upload_fees_bond_data(request):
+    folder_path = os.path.join(settings.BASE_DIR, "static", "data", "feestipend&bonds")
+    csv_files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
+
+    objs = []
+    for file in csv_files:
+        category_name = os.path.splitext(file)[0]  # filename as category
+        df = pd.read_csv(os.path.join(folder_path, file))
+        for _, row in df.iterrows():
+            objs.append(FeeStipendBondData(
+                category_type=category_name,
+                state=row["State"],
+                institute=row["Institute"],
+                course=row["Course"],
+                quota=row["Quota"],
+                fee=row["Fee"],
+                stipend_year1=row["Stipend Year 1"],
+                bond_years=row["Bond Years"] if not pd.isna(row["Bond Years"]) else None,
+                bond_penalty=row["Bond Penalty"],
+                beds=row["Beds"]
+            ))
+            print(row)
+    print(objs)
+    FeeStipendBondData.objects.bulk_create(objs)
+    return JsonResponse({"status": "success", "inserted": len(objs)})
+
+
+# 4. Closing Ranks Data (38 files)
+# def upload_closingranks_data(request):
+#     folder_path = os.path.join(settings.BASE_DIR, "static", "data", "Closing_Ranks")
+#     csv_files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
+
+#     objs = []
+#     for file in csv_files:
+#         category_name = os.path.splitext(file)[0]  # filename as category
+#         df = pd.read_csv(os.path.join(folder_path, file))
+#         for _, row in df.iterrows():
+#             objs.append(ClosingRanksData(
+#                 category_type=category_name,
+#                 quota=row["Quota"],
+#                 category=row["Category"],
+#                 state=row["State"],
+#                 institute=row["Institute"],
+#                 course=row["Course"],
+#                 fee=row["Fee"],
+#                 stipend_year1=row["Stipend Year 1"],
+#                 bond_years=row["Bond Years"] if not pd.isna(row["Bond Years"]) else None,
+#                 bond_penalty=row["Bond Penalty"],
+#                 beds=row["Beds"],
+#                 cr_2023_1=row.get("CR 2023 1", None),
+#                 cr_2023_2=row.get("CR 2023 2", None),
+#                 cr_2023_3=row.get("CR 2023 3", None),
+#                 cr_2023_4=row.get("CR 2023 4", None),
+#                 cr_2023_5=row.get("CR 2023 5", None),
+#                 cr_2024_1=row.get("CR 2024 1", None),
+#                 cr_2024_2=row.get("CR 2024 2", None),
+#                 cr_2024_3=row.get("CR 2024 3", None),
+#                 cr_2024_4=row.get("CR 2024 4", None),
+#                 cr_2024_5=row.get("CR 2024 5", None),
+#             ))
+#             print(row)
+#     print(objs)
+#     ClosingRanksData.objects.bulk_create(objs)
+#     return JsonResponse({"status": "success", "inserted": len(objs)})
+
+import pandas as pd
+import os
+from django.conf import settings
+from django.http import JsonResponse
+from .models import ClosingRanksData
+
+def upload_closingranks_data(request):
+    folder_path = os.path.join(settings.BASE_DIR, "static", "data", "Closing_Ranks")
+    csv_files = [f for f in os.listdir(folder_path) if f.endswith(".csv")]
+
+    objs = []
+    for file in csv_files:
+        category_name = os.path.splitext(file)[0]  # filename as category
+        df = pd.read_csv(os.path.join(folder_path, file))
+        
+        # Clean column names
+        df.columns = df.columns.str.strip()
+        
+        for _, row in df.iterrows():
+            # Clean and convert data
+            fee = str(row.get("Fee", "")).strip()
+            stipend = str(row.get("Stipend Year 1", "")).strip()
+            bond_penalty = str(row.get("Bond Penalty", "")).strip()
+            
+            # Convert bond years safely
+            bond_years = None
+            try:
+                if not pd.isna(row.get("Bond Years")):
+                    bond_years = float(row["Bond Years"])
+            except (ValueError, TypeError):
+                bond_years = None
+            
+            # Convert beds safely
+            beds = 0
+            try:
+                if not pd.isna(row.get("Beds")):
+                    beds = int(row["Beds"])
+            except (ValueError, TypeError):
+                beds = 0
+                
+            # Helper function to safely convert to int
+            def safe_int_convert(value):
+                try:
+                    if pd.isna(value) or value == '' or value is None:
+                        return 0
+                    return int(float(value))
+                except (ValueError, TypeError):
+                    return 0
+            
+            objs.append(ClosingRanksData(
+                category_type=category_name,
+                quota=str(row.get("Quota", "")).strip(),
+                category=str(row.get("Category", "")).strip(),
+                state=str(row.get("State", "")).strip(),
+                institute=str(row.get("Institute", "")).strip(),
+                course=str(row.get("Course", "")).strip(),
+                fee=fee,
+                stipend_year1=stipend,
+                bond_years=bond_years,
+                bond_penalty=bond_penalty,
+                beds=beds,
+                cr_2023_1=safe_int_convert(row.get("CR 2023 1")),
+                cr_2023_2=safe_int_convert(row.get("CR 2023 2")),
+                cr_2023_3=safe_int_convert(row.get("CR 2023 3")),
+                cr_2023_4=safe_int_convert(row.get("CR 2023 4")),
+                cr_2023_5=safe_int_convert(row.get("CR 2023 5")),
+                cr_2024_1=safe_int_convert(row.get("CR 2024 1")),
+                cr_2024_2=safe_int_convert(row.get("CR 2024 2")),
+                cr_2024_3=safe_int_convert(row.get("CR 2024 3")),
+                cr_2024_4=safe_int_convert(row.get("CR 2024 4")),
+                cr_2024_5=safe_int_convert(row.get("CR 2024 5")),
+            ))
+    
+    # Clear existing data before bulk create
+    ClosingRanksData.objects.all().delete()
+    ClosingRanksData.objects.bulk_create(objs, batch_size=1000)
+    
+    return JsonResponse({"status": "success", "inserted": len(objs)})
+
+
+# app/views.py
+from rest_framework import generics
+from rest_framework.renderers import JSONRenderer
+from .models import AllotmentData, SeatMatrixData, FeeStipendBondData, ClosingRanksData
+from .serializers import (
+    AllotmentDataSerializer, 
+    SeatMatrixDataSerializer, 
+    FeeStipendBondDataSerializer, 
+    ClosingRanksDataSerializer
+)
+from core.pagination import StandardResultsSetPagination
+
+# GET All Allotment Data
+class AllotmentDataList(generics.ListAPIView):
+    queryset = AllotmentData.objects.all()
+    serializer_class = AllotmentDataSerializer
+    pagination_class = StandardResultsSetPagination
+    filter_backends = [DjangoFilterBackend]
+    filterset_fields = ['round', 'category', 'quota', 'state', 'institute', 'course']
+    renderer_classes = [JSONRenderer]
+
+# GET Seat Matrix Data
+class SeatMatrixDataList(generics.ListAPIView):
+    queryset = SeatMatrixData.objects.all()
+    serializer_class = SeatMatrixDataSerializer
+    pagination_class = StandardResultsSetPagination
+    filter_backends = [DjangoFilterBackend]
+    filterset_fields = ['round', 'category', 'quota', 'state', 'institute', 'course']
+    renderer_classes = [JSONRenderer]
+
+# GET Fee/Stipend/Bond Data
+class FeeStipendBondDataList(generics.ListAPIView):
+    queryset = FeeStipendBondData.objects.all()
+    serializer_class = FeeStipendBondDataSerializer
+    pagination_class = StandardResultsSetPagination
+    filter_backends = [DjangoFilterBackend]
+    filterset_fields = ['round', 'category', 'quota', 'state', 'institute', 'course']
+    renderer_classes = [JSONRenderer]
+
+# GET Closing Ranks Data
+# class ClosingRanksDataList(generics.ListAPIView):
+#     queryset = ClosingRanksData.objects.all()
+#     serializer_class = ClosingRanksDataSerializer
+#     pagination_class = StandardResultsSetPagination
+#     filter_backends = [DjangoFilterBackend]
+#     filterset_fields = [ 'category', 'quota', 'state', 'institute', 'course']
+#     renderer_classes = [JSONRenderer]
+
+from rest_framework import generics, filters
+from django_filters.rest_framework import DjangoFilterBackend
+from django_filters import rest_framework as django_filters
+from rest_framework.renderers import JSONRenderer
+from .models import ClosingRanksData
+from .serializers import ClosingRanksDataSerializer
+from .pagination import StandardResultsSetPagination
+class ClosingRanksDataFilter(django_filters.FilterSet):
+    category = django_filters.CharFilter(lookup_expr='icontains')
+    quota = django_filters.CharFilter(lookup_expr='icontains')
+    state = django_filters.CharFilter(lookup_expr='icontains')
+    institute = django_filters.CharFilter(lookup_expr='icontains')
+    course = django_filters.CharFilter(lookup_expr='icontains')
+    category_type = django_filters.CharFilter(lookup_expr='icontains')
+    
+    class Meta:
+        model = ClosingRanksData
+        fields = ['category', 'quota', 'state', 'institute', 'course', 'category_type']
+
+class ClosingRanksDataList(generics.ListAPIView):
+    queryset = ClosingRanksData.objects.all()
+    serializer_class = ClosingRanksDataSerializer
+    pagination_class = StandardResultsSetPagination
+    filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
+    filterset_class = ClosingRanksDataFilter
+    search_fields = ['institute', 'course', 'state']
+    ordering_fields = ['cr_2024_1', 'cr_2024_2', 'cr_2024_3', 'fee']
+    ordering = ['cr_2024_1']  # Default ordering
+    renderer_classes = [JSONRenderer]

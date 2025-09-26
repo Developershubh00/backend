@@ -933,7 +933,7 @@ class FeeStipendBondDataList(generics.ListAPIView):
     serializer_class = FeeStipendBondDataSerializer
     pagination_class = StandardResultsSetPagination
     filter_backends = [DjangoFilterBackend]
-    filterset_fields = ['round', 'category', 'quota', 'state', 'institute', 'course']
+    filterset_fields = ['category_type', 'state', 'institute', 'course', 'quota', 'fee', 'stipend_year1', 'bond_years', 'bond_penalty', 'beds']
     renderer_classes = [JSONRenderer]
 
 # GET Closing Ranks Data

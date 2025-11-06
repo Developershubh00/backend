@@ -65,8 +65,8 @@ MIDDLEWARE = [
 
 
 
-CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-dju9.onrender.com,http://127.0.0.1:5173,http://127.0.0.1:5174').split(',')
-# http://localhost:5173,http://localhost:5174
+CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-dju9.onrender.com,http://127.0.0.1:8000,http://127.0.0.1:5174').split(',')
+
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = True  # Only allow all origins in development
@@ -238,3 +238,15 @@ else:
     SECURE_SSL_REDIRECT = config('SECURE_SSL_REDIRECT', default=False, cast=bool)
     SESSION_COOKIE_SECURE = config('SESSION_COOKIE_SECURE', default=False, cast=bool)
     CSRF_COOKIE_SECURE = config('CSRF_COOKIE_SECURE', default=False, cast=bool)
+
+
+# Email Configuration for Gmail with Google Workspace
+EMAIL_BACKEND = 'core.email_backend.CustomEmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587  # or 465
+EMAIL_USE_TLS = True  # True for 587, False for 465
+EMAIL_USE_SSL = False  # False for 587, True for 465
+EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='no-reply@believersconsultancy.com')
+EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='fayqhihbthfwjcpg')
+DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='Believers Consultancy <no-reply@believersconsultancy.com>')
+FRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')

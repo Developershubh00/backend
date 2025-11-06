@@ -12,6 +12,10 @@ from django.contrib.auth import get_user_model
 from rest_framework_simplejwt.tokens import RefreshToken
 from django.contrib.auth import authenticate
 from .models import FAQ, FAQCategory
+# Add these imports at the top
+from django.contrib.auth.tokens import PasswordResetTokenGenerator
+from django.utils.http import urlsafe_base64_encode, urlsafe_base64_decode
+from django.utils.encoding import force_bytes, force_str
 import uuid
 User = get_user_model()
 
@@ -204,3 +208,49 @@ class ClosingRanksDataSerializer(serializers.ModelSerializer):
     class Meta:
         model = ClosingRanksData
         fields = '__all__'
+
+# Add these new serializers at the end of your serializers.py
+
+class ForgotPasswordSerializer(serializers.Serializer):
+    email = serializers.EmailField()
+
+    def validate_email(self, value):
+        """Check if user with this email exists"""
+        try:
+            User.objects.get(email=value)
+        except User.DoesNotExist:
+            # Don't reveal if email exists (security best practice)
+            # Return the value anyway to avoid information disclosure
+            pass
+        return value
+
+
+class ResetPasswordSerializer(serializers.Serializer):
+    token = serializers.CharField()
+    uid = serializers.CharField()
+    password = serializers.CharField(write_only=True, min_length=8)
+    confirm_password = serializers.CharField(write_only=True)
+
+    def validate(self, data):
+        """Validate passwords match"""
+        if data['password'] != data['confirm_password']:
+            raise serializers.ValidationError({
+                "confirm_password": "Passwords do not match."
+            })
+        
+        # Validate password strength
+        password = data['password']
+        if not any(char.isupper() for char in password):
+            raise serializers.ValidationError({
+                "password": "Password must contain at least one uppercase letter."
+            })
+        if not any(char.islower() for char in password):
+            raise serializers.ValidationError({
+                "password": "Password must contain at least one lowercase letter."
+            })
+        if not any(char.isdigit() for char in password):
+            raise serializers.ValidationError({
+                "password": "Password must contain at least one number."
+            })
+        
+        return data

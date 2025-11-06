@@ -9,7 +9,13 @@ class CustomUser(AbstractUser):
     category = models.CharField(max_length=20, blank=True)
     state = models.CharField(max_length=50, blank=True)
     avatar = models.ImageField(upload_to='avatars/', blank=True, null=True)  
-
+    email_verified = models.BooleanField(default=False)
+    email_otp = models.CharField(max_length=6, blank=True, null=True)
+    
+    # Add these fields (optional but useful for tracking)
+    password_reset_count = models.IntegerField(default=0)
+    last_password_reset = models.DateTimeField(null=True, blank=True)
+    
     def __str__(self):
         return self.email or self.username
     

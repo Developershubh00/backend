@@ -10,6 +10,7 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from rest_framework import permissions
 from core import views
+from core.views import ForgotPasswordAPIView, ResetPasswordAPIView
 from django.urls import path
 from core.views import (
     CollegeCutoffViewSet, UGSeatMatrixViewSet, PGFeeDetailsViewSet,
@@ -21,7 +22,9 @@ from core.views import (
     CategoryBasedAllotmentView, CategoryBasedClosingRankView,
     CategoryBasedSeatMatrixView, CategoryBasedFeeStipendBondView,
     CategoryListView, CategorySummaryView,upload_closingranks_data,upload_allotment_data,upload_seatmatrix_data,upload_fees_bond_data, AllotmentDataList, SeatMatrixDataList, 
-    FeeStipendBondDataList, ClosingRanksDataList)
+    FeeStipendBondDataList, ClosingRanksDataList, verify_email_otp,
+    ForgotPasswordAPIView,  # ✅ ADD THIS
+    ResetPasswordAPIView,)
 
 schema_view = get_schema_view(
    openapi.Info(
@@ -102,6 +105,11 @@ urlpatterns = [
     path("upload-seatmatrix/", upload_seatmatrix_data, name="upload-seatmatrix"),
     path("upload-feesbond/", upload_fees_bond_data, name="upload-feesbond"),
     path("upload-closingranks/", upload_closingranks_data, name="upload-closingranks"),
+
+    # Auth & User (add these after your existing auth paths)
+    path('auth/forgot-password/', ForgotPasswordAPIView.as_view(), name='forgot-password'),
+    path('auth/reset-password/', ResetPasswordAPIView.as_view(), name='reset-password'),
+    
 
     # Category-based API endpoints
     path("api/categories/", CategoryListView.as_view(), name="category-list"),

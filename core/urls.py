@@ -57,7 +57,9 @@ from .views import (
     NIRFUniversityRankingViewSet, FAQViewSet, FAQCategoryViewSet,
     CollegeChoiceViewSet, RankPredictorView, CollegeDatabaseList,
     SignupView, ProfileView, MedicalCollegeList, EmailVerificationView, LoginAPIView,
-    verify_email_otp,
+    verify_email_otp, verify_email_otp,
+    ForgotPasswordAPIView,  # ✅ ADD THIS
+    ResetPasswordAPIView,   # ✅ ADD THIS
 )
 
 router = DefaultRouter()
@@ -73,13 +75,14 @@ router.register(r'faq-categories', FAQCategoryViewSet)
 router.register(r'college-choices', CollegeChoiceViewSet)
 
 urlpatterns = [
-    path('', include(router.urls)),
-    
     path('auth/signup/', SignupView.as_view(), name='signup'),
     path('auth/profile/', ProfileView.as_view(), name='profile'),
+    path('auth/forgot-password/', ForgotPasswordAPIView.as_view(), name='forgot-password'),  # ✅ ADD THIS
+    path('auth/reset-password/', ResetPasswordAPIView.as_view(), name='reset-password'),    # ✅ ADD THIS
     path('medical-colleges/', MedicalCollegeList.as_view(), name='medical-colleges'),
     path('rank-predictor/', RankPredictorView.as_view(), name='rank-predictor'),
     path('college-database/', CollegeDatabaseList.as_view(), name='college-database'),
     path('email-verification/', EmailVerificationView.as_view(), name='email-verification'),
     path('verify-email-otp/', verify_email_otp, name='verify-email-otp'),
+
 ]

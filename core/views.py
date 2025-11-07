@@ -1711,7 +1711,7 @@ class ForgotPasswordAPIView(APIView):
         uid = urlsafe_base64_encode(force_bytes(user.pk))
         
         # Create reset link
-        frontend_url = getattr(settings, 'FRONTEND_URL', 'http://localhost:5173')
+        frontend_url = getattr(settings, 'FRONTEND_URL' )
         reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
         
         user_name = user.first_name if user.first_name else user.username

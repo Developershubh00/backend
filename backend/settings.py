@@ -65,16 +65,7 @@ MIDDLEWARE = [
 
 
 
-# With this FIXED code:
-CORS_ALLOWED_ORIGINS = [
-    'https://backend-dju9.onrender.com',
-    'http://localhost:5173',
-    'http://localhost:3000',
-    'https://believersconsultancy.com',
-    'https://www.believersconsultancy.com',
-    'http://127.0.0.1:8000',
-    'http://127.0.0.1:5174',
-]
+CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-dju9.onrender.com,http://localhost:5173,http://localhost:5174,http://127.0.0.1:8000,http://127.0.0.1:5174').split(',')
 
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True

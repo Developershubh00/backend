@@ -998,491 +998,6 @@ class ClosingRanksDataList(generics.ListAPIView):
     ordering = ['cr_2024_1']  # Default ordering
     renderer_classes = [JSONRenderer]
 
-# class ForgotPasswordAPIView(APIView):
-#     """
-#     Send password reset email with token
-#     POST /auth/forgot-password/
-#     Body: {"email": "user@example.com"}
-#     """
-#     permission_classes = [AllowAny]
-    
-#     def post(self, request):
-#         serializer = ForgotPasswordSerializer(data=request.data)
-        
-#         if not serializer.is_valid():
-#             return Response(
-#                 serializer.errors,
-#                 status=status.HTTP_400_BAD_REQUEST
-#             )
-        
-#         email = serializer.validated_data['email']
-        
-#         try:
-#             user = User.objects.get(email=email)
-#         except User.DoesNotExist:
-#             # Don't reveal if email exists (security best practice)
-#             # But still return success to prevent email enumeration
-#             return Response(
-#                 {
-#                     'success': True,
-#                     'message': 'If this email is registered, you will receive a password reset link shortly.'
-#                 },
-#                 status=status.HTTP_200_OK
-#             )
-        
-#         # Generate token
-#         token_generator = PasswordResetTokenGenerator()
-#         token = token_generator.make_token(user)
-#         uid = urlsafe_base64_encode(force_bytes(user.pk))
-        
-#         # Create reset link
-#         frontend_url = getattr(settings, 'FRONTEND_URL', 'http://localhost:5173')
-#         reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
-        
-#         # Email content
-#         subject = 'Password Reset Request - Believers Consultancy'
-#         message = f"""
-# Hello {user.first_name or user.username},
-
-# You requested to reset your password for Believers Consultancy.
-
-# Click the link below to reset your password:
-# {reset_link}
-
-# This link will expire in 1 hour.
-
-# If you didn't request this, please ignore this email and your password will remain unchanged.
-
-# Best regards,
-# Believers Destination Team
-#         """
-        
-#         html_message = f"""
-# <!DOCTYPE html>
-# <html>
-# <head>
-#     <style>
-#         body {{ font-family: Arial, sans-serif; line-height: 1.6; color: #333; }}
-#         .container {{ max-width: 600px; margin: 0 auto; padding: 20px; }}
-#         .header {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-#                    color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0; }}
-#         .content {{ background: #f9f9f9; padding: 30px; border-radius: 0 0 10px 10px; }}
-#         .button {{ display: inline-block; padding: 15px 30px; background: #667eea; 
-#                    color: white; text-decoration: none; border-radius: 5px; margin: 20px 0; }}
-#         .footer {{ text-align: center; margin-top: 20px; font-size: 12px; color: #777; }}
-#     </style>
-# </head>
-# <body>
-#     <div class="container">
-#         <div class="header">
-#             <h1>Password Reset Request</h1>
-#         </div>
-#         <div class="content">
-#             <p>Hello <strong>{user.first_name or user.username}</strong>,</p>
-#             <p>We received a request to reset your password for your Believers Consultancy account.</p>
-#             <p>Click the button below to reset your password:</p>
-#             <p style="text-align: center;">
-#                 <a href="{reset_link}" class="button">Reset Password</a>
-#             </p>
-#             <p><strong>This link will expire in 1 hour.</strong></p>
-#             <p>If you didn't request this password reset, please ignore this email. Your password will remain unchanged.</p>
-#             <p>For security reasons, we recommend:</p>
-#             <ul>
-#                 <li>Using a strong, unique password</li>
-#                 <li>Not sharing your password with anyone</li>
-#                 <li>Enabling two-factor authentication if available</li>
-#             </ul>
-#         </div>
-#         <div class="footer">
-#             <p>Powered by Believers Destination</p>
-#             <p>This is an automated email. Please do not reply.</p>
-#         </div>
-#     </div>
-# </body>
-# </html>
-#         """
-        
-#         # Send email
-#         try:
-#             send_mail(
-#                 subject=subject,
-#                 message=message,
-#                 html_message=html_message,
-#                 from_email=settings.DEFAULT_FROM_EMAIL,
-#                 recipient_list=[email],
-#                 fail_silently=False,
-#             )
-            
-#             return Response(
-#                 {
-#                     'success': True,
-#                     'message': 'Password reset email sent successfully. Please check your inbox.'
-#                 },
-#                 status=status.HTTP_200_OK
-#             )
-#         except Exception as e:
-#             print(f"Email sending error: {str(e)}")  # Log for debugging
-#             return Response(
-#                 {
-#                     'success': False,
-#                     'error': 'Failed to send email. Please try again later or contact support.'
-#                 },
-#                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
-#             )
-
-
-# class ResetPasswordAPIView(APIView):
-#     """
-#     Reset password with token
-#     POST /auth/reset-password/
-#     Body: {
-#         "token": "xxx",
-#         "uid": "xxx",
-#         "password": "newpassword123",
-#         "confirm_password": "newpassword123"
-#     }
-#     """
-#     permission_classes = [AllowAny]
-    
-#     def post(self, request):
-#         serializer = ResetPasswordSerializer(data=request.data)
-        
-#         if not serializer.is_valid():
-#             return Response(
-#                 serializer.errors,
-#                 status=status.HTTP_400_BAD_REQUEST
-#             )
-        
-#         token = serializer.validated_data['token']
-#         uid = serializer.validated_data['uid']
-#         password = serializer.validated_data['password']
-        
-#         # Decode uid and get user
-#         try:
-#             user_id = force_str(urlsafe_base64_decode(uid))
-#             user = User.objects.get(pk=user_id)
-#         except (TypeError, ValueError, OverflowError, User.DoesNotExist):
-#             return Response(
-#                 {
-#                     'success': False,
-#                     'error': 'Invalid reset link. Please request a new password reset.'
-#                 },
-#                 status=status.HTTP_400_BAD_REQUEST
-#             )
-        
-#         # Verify token
-#         token_generator = PasswordResetTokenGenerator()
-#         if not token_generator.check_token(user, token):
-#             return Response(
-#                 {
-#                     'success': False,
-#                     'error': 'Invalid or expired reset link. Please request a new password reset.'
-#                 },
-#                 status=status.HTTP_400_BAD_REQUEST
-#             )
-        
-#         # Reset password
-#         user.set_password(password)
-        
-#         # Update tracking fields (optional)
-#         user.password_reset_count = user.password_reset_count + 1 if hasattr(user, 'password_reset_count') else 1
-#         user.last_password_reset = timezone.now()
-        
-#         user.save()
-        
-#         # Optional: Send confirmation email
-#         try:
-#             send_mail(
-#                 subject='Password Reset Successful - Believers Consultancy',
-#                 message=f"""
-# Hello {user.first_name or user.username},
-
-# Your password has been successfully reset.
-
-# If you did not make this change, please contact our support team immediately.
-
-# Best regards,
-# Believers Destination Team
-#                 """,
-#                 from_email=settings.DEFAULT_FROM_EMAIL,
-#                 recipient_list=[user.email],
-#                 fail_silently=True,  # Don't block success if this fails
-#             )
-#         except:
-#             pass  # Ignore email errors for confirmation
-        
-#         return Response(
-#             {
-#                 'success': True,
-#                 'message': 'Password reset successfully. You can now log in with your new password.'
-#             },
-#             status=status.HTTP_200_OK
-#         )
-
-# class ForgotPasswordAPIView(APIView):
-#     """Send password reset email"""
-#     permission_classes = [AllowAny]
-    
-#     def post(self, request):
-#         from .serializers import ForgotPasswordSerializer
-        
-#         serializer = ForgotPasswordSerializer(data=request.data)
-#         if not serializer.is_valid():
-#             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-        
-#         email = serializer.validated_data['email']
-        
-#         try:
-#             user = User.objects.get(email=email)
-#         except User.DoesNotExist:
-#             return Response({
-#                 'success': True,
-#                 'message': 'If this email is registered, you will receive a password reset link shortly.'
-#             }, status=status.HTTP_200_OK)
-        
-#         # Generate token
-#         token_generator = PasswordResetTokenGenerator()
-#         token = token_generator.make_token(user)
-#         uid = urlsafe_base64_encode(force_bytes(user.pk))
-        
-#         # Create reset link
-#         frontend_url = getattr(settings, 'FRONTEND_URL', 'http://localhost:5173')
-#         reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
-        
-#         # Get user name
-#         user_name = user.first_name if user.first_name else (user.username if user.username else "User")
-        
-#         # Email content
-#         subject = 'Password Reset Request - Believers Consultancy'
-#         message = f"""Hello {user_name},
-
-# You requested to reset your password for Believers Consultancy.
-
-# Click the link below to reset your password:
-# {reset_link}
-
-# This link will expire in 1 hour.
-
-# If you didn't request this, please ignore this email.
-
-# Best regards,
-# Believers Consultancy Team"""
-        
-#         html_message = f"""<!DOCTYPE html>
-# <html>
-# <head>
-#     <style>
-#         body {{ font-family: Arial, sans-serif; color: #333; background: #f4f7fa; margin: 0; padding: 20px; }}
-#         .container {{ max-width: 600px; margin: 0 auto; background: white; border-radius: 10px; overflow: hidden; }}
-#         .header {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px 30px; text-align: center; }}
-#         .header h1 {{ margin: 0; font-size: 28px; }}
-#         .content {{ padding: 40px 30px; }}
-#         .button {{ display: inline-block; padding: 16px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white !important; text-decoration: none; border-radius: 8px; font-weight: 600; }}
-#         .warning {{ background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0; border-radius: 4px; }}
-#         .footer {{ background: #f8f9fa; padding: 30px; text-align: center; color: #6c757d; font-size: 13px; }}
-#     </style>
-# </head>
-# <body>
-#     <div class="container">
-#         <div class="header">
-#             <div style="font-size: 48px; margin-bottom: 10px;">🕊️</div>
-#             <h1>Password Reset Request</h1>
-#         </div>
-#         <div class="content">
-#             <p>Hello <strong>{user_name}</strong>,</p>
-#             <p>We received a request to reset your password for your Believers Consultancy account.</p>
-#             <p style="text-align: center; margin: 30px 0;">
-#                 <a href="{reset_link}" class="button">Reset My Password</a>
-#             </p>
-#             <div class="warning">
-#                 <p style="margin: 0;"><strong>⏱️ This link will expire in 1 hour.</strong></p>
-#             </div>
-#             <p>If you didn't request this password reset, please ignore this email. Your account is safe.</p>
-#             <p style="margin-top: 30px; font-size: 14px; color: #6c757d;">Having trouble? Copy and paste this URL:<br>
-#             <span style="word-break: break-all; color: #667eea;">{reset_link}</span></p>
-#         </div>
-#         <div class="footer">
-#             <p><strong>Believers Destination</strong></p>
-#             <p>Empowering Your Medical Career Journey</p>
-#             <p style="margin-top: 15px;">© 2025 Believers Consultancy. All rights reserved.</p>
-#         </div>
-#     </div>
-# </body>
-# </html>"""
-        
-#         # Send email
-#         try:
-#             send_mail(
-#                 subject=subject,
-#                 message=message,
-#                 html_message=html_message,
-#                 from_email=settings.DEFAULT_FROM_EMAIL,
-#                 recipient_list=[email],
-#                 fail_silently=False,
-#             )
-#             return Response({
-#                 'success': True,
-#                 'message': 'Password reset email sent successfully. Please check your inbox.'
-#             }, status=status.HTTP_200_OK)
-#         except Exception as e:
-#             print(f"❌ Email error: {str(e)}")
-#             return Response({
-#                 'success': False,
-#                 'error': 'Failed to send email. Please try again later.'
-#             }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
-
-
-# class ResetPasswordAPIView(APIView):
-#     """Reset password with token"""
-#     permission_classes = [AllowAny]
-    
-#     def post(self, request):
-#         from .serializers import ResetPasswordSerializer
-        
-#         serializer = ResetPasswordSerializer(data=request.data)
-#         if not serializer.is_valid():
-#             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-        
-#         token = serializer.validated_data['token']
-#         uid = serializer.validated_data['uid']
-#         password = serializer.validated_data['password']
-        
-#         # Decode uid and get user
-#         try:
-#             user_id = force_str(urlsafe_base64_decode(uid))
-#             user = User.objects.get(pk=user_id)
-#         except:
-#             return Response({
-#                 'success': False,
-#                 'error': 'Invalid reset link. Please request a new password reset.'
-#             }, status=status.HTTP_400_BAD_REQUEST)
-        
-#         # Verify token
-#         token_generator = PasswordResetTokenGenerator()
-#         if not token_generator.check_token(user, token):
-#             return Response({
-#                 'success': False,
-#                 'error': 'Invalid or expired reset link. Please request a new password reset.'
-#             }, status=status.HTTP_400_BAD_REQUEST)
-        
-#         # Reset password
-#         user.set_password(password)
-#         user.save()
-        
-#         return Response({
-#             'success': True,
-#             'message': 'Password reset successfully. You can now log in with your new password.'
-#         }, status=status.HTTP_200_OK)
-    
-
-# class ForgotPasswordAPIView(APIView):
-#     """Send password reset email"""
-#     permission_classes = [AllowAny]
-    
-#     def post(self, request):
-#         from .serializers import ForgotPasswordSerializer
-        
-#         serializer = ForgotPasswordSerializer(data=request.data)
-#         if not serializer.is_valid():
-#             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-        
-#         email = serializer.validated_data['email']
-        
-#         try:
-#             user = User.objects.get(email=email)
-#         except User.DoesNotExist:
-#             return Response({
-#                 'success': True,
-#                 'message': 'If this email is registered, you will receive a password reset link shortly.'
-#             }, status=status.HTTP_200_OK)
-        
-#         # Generate token
-#         token_generator = PasswordResetTokenGenerator()
-#         token = token_generator.make_token(user)
-#         uid = urlsafe_base64_encode(force_bytes(user.pk))
-        
-#         # Create reset link
-#         frontend_url = getattr(settings, 'FRONTEND_URL', 'http://localhost:5173')
-#         reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
-        
-#         # Get user name
-#         user_name = user.first_name if user.first_name else (user.username if user.username else "User")
-        
-#         # Email content
-#         subject = 'Password Reset Request - Believers Consultancy'
-#         message = f"""Hello {user_name},
-
-# You requested to reset your password for Believers Consultancy.
-
-# Click the link below to reset your password:
-# {reset_link}
-
-# This link will expire in 1 hour.
-
-# If you didn't request this, please ignore this email.
-
-# Best regards,
-# Believers Consultancy Team"""
-        
-#         html_message = f"""<!DOCTYPE html>
-# <html>
-# <head>
-#     <style>
-#         body {{ font-family: Arial, sans-serif; color: #333; background: #f4f7fa; margin: 0; padding: 20px; }}
-#         .container {{ max-width: 600px; margin: 0 auto; background: white; border-radius: 10px; overflow: hidden; }}
-#         .header {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px 30px; text-align: center; }}
-#         .header h1 {{ margin: 0; font-size: 28px; }}
-#         .content {{ padding: 40px 30px; }}
-#         .button {{ display: inline-block; padding: 16px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white !important; text-decoration: none; border-radius: 8px; font-weight: 600; }}
-#         .warning {{ background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0; border-radius: 4px; }}
-#         .footer {{ background: #f8f9fa; padding: 30px; text-align: center; color: #6c757d; font-size: 13px; }}
-#     </style>
-# </head>
-# <body>
-#     <div class="container">
-#         <div class="header">
-#             <div style="font-size: 48px; margin-bottom: 10px;">🕊️</div>
-#             <h1>Password Reset Request</h1>
-#         </div>
-#         <div class="content">
-#             <p>Hello <strong>{user_name}</strong>,</p>
-#             <p>We received a request to reset your password for your Believers Consultancy account.</p>
-#             <p style="text-align: center; margin: 30px 0;">
-#                 <a href="{reset_link}" class="button">Reset My Password</a>
-#             </p>
-#             <div class="warning">
-#                 <p style="margin: 0;"><strong>⏱️ This link will expire in 1 hour.</strong></p>
-#             </div>
-#             <p>If you didn't request this password reset, please ignore this email. Your account is safe.</p>
-#         </div>
-#         <div class="footer">
-#             <p><strong>Believers Destination</strong></p>
-#             <p>© 2025 Believers Consultancy. All rights reserved.</p>
-#         </div>
-#     </div>
-# </body>
-# </html>"""
-        
-#         # Send email
-#         try:
-#             send_mail(
-#                 subject=subject,
-#                 message=message,
-#                 html_message=html_message,
-#                 from_email=settings.DEFAULT_FROM_EMAIL,
-#                 recipient_list=[email],
-#                 fail_silently=False,
-#             )
-#             return Response({
-#                 'success': True,
-#                 'message': 'Password reset email sent successfully. Please check your inbox.'
-#             }, status=status.HTTP_200_OK)
-#         except Exception as e:
-#             print(f"❌ Email error: {str(e)}")
-#             return Response({
-#                 'success': False,
-#                 'error': 'Failed to send email. Please try again later.'
-#             }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
 
 
 class ResetPasswordAPIView(APIView):
@@ -1534,347 +1049,352 @@ class ResetPasswordAPIView(APIView):
 
 import uuid
 
-# ========================================
-# UPDATED ForgotPasswordAPIView with Company Logo
-# Replace your existing ForgotPasswordAPIView with this
-# ========================================
+# # ========================================
+# # UPDATED ForgotPasswordAPIView with Company Logo
+# # Replace your existing ForgotPasswordAPIView with this
+# # ========================================
 
-class ForgotPasswordAPIView(APIView):
-    """
-    Send password reset email with company logo
-    If email doesn't exist, silently auto-create account
-    Both scenarios get identical "Password Reset" email
-    """
-    permission_classes = [AllowAny]
+# class ForgotPasswordAPIView(APIView):
+#     """
+#     Send password reset email with company logo
+#     If email doesn't exist, silently auto-create account
+#     Both scenarios get identical "Password Reset" email
+#     """
+#     permission_classes = [AllowAny]
     
-    def post(self, request):
-        from .serializers import ForgotPasswordSerializer
+#     def post(self, request):
+#         from .serializers import ForgotPasswordSerializer
         
-        serializer = ForgotPasswordSerializer(data=request.data)
-        if not serializer.is_valid():
-            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+#         serializer = ForgotPasswordSerializer(data=request.data)
+#         if not serializer.is_valid():
+#             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         
-        email = serializer.validated_data['email']
+#         email = serializer.validated_data['email']
         
-        try:
-            # Try to get existing user
-            user = User.objects.get(email=email)
-            is_new_user = False
-        except User.DoesNotExist:
-            # ✅ USER DOESN'T EXIST - SILENTLY AUTO-CREATE NEW ACCOUNT
-            # Generate username from email
-            username = email.split('@')[0] + str(uuid.uuid4())[:6]
+#         try:
+#             # Try to get existing user
+#             user = User.objects.get(email=email)
+#             is_new_user = False
+#         except User.DoesNotExist:
+#             # ✅ USER DOESN'T EXIST - SILENTLY AUTO-CREATE NEW ACCOUNT
+#             # Generate username from email
+#             username = email.split('@')[0] + str(uuid.uuid4())[:6]
             
-            # Create new user with unusable password
-            user = User.objects.create(
-                username=username,
-                email=email,
-                first_name=email.split('@')[0].capitalize(),
-            )
-            user.set_unusable_password()  # They'll set password via reset link
-            user.save()
+#             # Create new user with unusable password
+#             user = User.objects.create(
+#                 username=username,
+#                 email=email,
+#                 first_name=email.split('@')[0].capitalize(),
+#             )
+#             user.set_unusable_password()  # They'll set password via reset link
+#             user.save()
             
-            is_new_user = True
-            print(f"✅ Silently auto-created account for: {email}")
+#             is_new_user = True
+#             print(f"✅ Silently auto-created account for: {email}")
         
-        # Generate token (same for both existing and new users)
-        token_generator = PasswordResetTokenGenerator()
-        token = token_generator.make_token(user)
-        uid = urlsafe_base64_encode(force_bytes(user.pk))
+#         # Generate token (same for both existing and new users)
+#         token_generator = PasswordResetTokenGenerator()
+#         token = token_generator.make_token(user)
+#         uid = urlsafe_base64_encode(force_bytes(user.pk))
         
-        # Create reset link
-        frontend_url = getattr(settings, 'FRONTEND_URL')
-        reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
+#         # Create reset link
+#         frontend_url = getattr(settings, 'FRONTEND_URL')
+#         reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
         
-        # Get user name
-        user_name = user.first_name if user.first_name else (user.username if user.username else "User")
+#         # Get user name
+#         user_name = user.first_name if user.first_name else (user.username if user.username else "User")
         
-        # ✅ IDENTICAL EMAIL FOR BOTH - USER CAN'T TELL THE DIFFERENCE
-        subject = 'Password Reset Request - Believers Consultancy'
+#         # ✅ IDENTICAL EMAIL FOR BOTH - USER CAN'T TELL THE DIFFERENCE
+#         subject = 'Password Reset Request - Believers Consultancy'
         
-        message = f"""Hello {user_name},
+#         message = f"""Hello {user_name},
 
-You requested to reset your password for Believers Consultancy.
+# You requested to reset your password for Believers Consultancy.
 
-Click the link below to reset your password:
-{reset_link}
+# Click the link below to reset your password:
+# {reset_link}
 
-This link will expire in 1 hour.
+# This link will expire in 1 hour.
 
-If you didn't request this, please ignore this email and your password will remain unchanged.
+# If you didn't request this, please ignore this email and your password will remain unchanged.
 
-Best regards,
-Believers Consultancy Team"""
+# Best regards,
+# Believers Consultancy Team"""
         
-        html_message = f"""<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {{ 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            color: #333; 
-            background: #f4f7fa; 
-            margin: 0; 
-            padding: 20px; 
-            line-height: 1.6;
-        }}
-        .container {{ 
-            max-width: 600px; 
-            margin: 0 auto; 
-            background: white; 
-            border-radius: 10px; 
-            overflow: hidden; 
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
-        }}
-        .header {{ 
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-            color: white; 
-            padding: 40px 30px; 
-            text-align: center; 
-        }}
-        .logo-container {{
-            margin-bottom: 20px;
-        }}
-        .logo {{
-            max-width: 180px;
-            height: auto;
-            display: inline-block;
-            background: white;
-            padding: 15px;
-            border-radius: 10px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }}
-        .header h1 {{ 
-            margin: 15px 0 0 0; 
-            font-size: 28px; 
-            font-weight: 600; 
-        }}
-        .content {{ 
-            padding: 40px 30px; 
-        }}
-        .greeting {{ 
-            font-size: 18px; 
-            color: #333; 
-            margin-bottom: 20px; 
-        }}
-        .message {{ 
-            font-size: 16px; 
-            color: #555; 
-            line-height: 1.8; 
-            margin-bottom: 25px; 
-        }}
-        .message p {{
-            margin: 0 0 15px 0;
-        }}
-        .button-container {{ 
-            text-align: center; 
-            margin: 35px 0; 
-        }}
-        .button {{ 
-            display: inline-block; 
-            padding: 16px 40px; 
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
-            color: white !important; 
-            text-decoration: none; 
-            border-radius: 8px; 
-            font-weight: 600; 
-            font-size: 16px; 
-            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); 
-            transition: transform 0.2s; 
-        }}
-        .button:hover {{ 
-            transform: translateY(-2px); 
-            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5); 
-        }}
-        .warning {{ 
-            background: #fff3cd; 
-            border-left: 4px solid #ffc107; 
-            padding: 15px 20px; 
-            margin: 25px 0; 
-            border-radius: 4px; 
-        }}
-        .warning p {{ 
-            margin: 0; 
-            color: #856404; 
-            font-size: 14px; 
-            font-weight: 600;
-        }}
-        .security-tips {{ 
-            background: #e7f3ff; 
-            border-left: 4px solid #2196F3; 
-            padding: 20px; 
-            margin: 25px 0; 
-            border-radius: 4px; 
-        }}
-        .security-tips h3 {{ 
-            margin-top: 0; 
-            margin-bottom: 10px; 
-            color: #1976D2; 
-            font-size: 16px; 
-            font-weight: 600; 
-        }}
-        .security-tips ul {{ 
-            margin: 10px 0; 
-            padding-left: 20px; 
-        }}
-        .security-tips li {{ 
-            margin: 8px 0; 
-            font-size: 14px; 
-            color: #555; 
-        }}
-        .footer {{ 
-            background: #f8f9fa; 
-            padding: 30px; 
-            text-align: center; 
-            border-top: 1px solid #e9ecef; 
-        }}
-        .footer p {{ 
-            margin: 5px 0; 
-            font-size: 13px; 
-            color: #6c757d; 
-        }}
-        .footer .company {{ 
-            font-weight: 600; 
-            color: #495057; 
-            font-size: 15px;
-        }}
-        .link-fallback {{ 
-            margin-top: 30px; 
-            padding: 15px;
-            background: #f8f9fa;
-            border-radius: 6px;
-            font-size: 13px; 
-            color: #6c757d; 
-        }}
-        .link-fallback p {{
-            margin: 5px 0;
-        }}
-        .link-fallback a {{ 
-            word-break: break-all; 
-            color: #667eea;
-            text-decoration: none;
-        }}
-        .divider {{
-            height: 1px;
-            background: linear-gradient(to right, transparent, #ddd, transparent);
-            margin: 25px 0;
-        }}
-        @media only screen and (max-width: 600px) {{
-            body {{
-                padding: 10px;
-            }}
-            .header {{ 
-                padding: 30px 20px; 
-            }}
-            .content {{ 
-                padding: 30px 20px; 
-            }}
-            .header h1 {{ 
-                font-size: 24px; 
-            }}
-            .logo {{
-                max-width: 150px;
-                padding: 12px;
-            }}
-            .button {{ 
-                padding: 14px 30px; 
-                font-size: 15px; 
-            }}
-        }}
-    </style>
-</head>
-<body>
-    <div class="container">
-        <!-- Header with Logo -->
-        <div class="header">
-            <div class="logo-container">
-                <img src="https://cdn.dribbble.com/userupload/45553315/file/7f757d2c0ca31bc348006d84b4ab5752.jpeg" 
-                     alt="Believers Consultancy Logo" 
-                     class="logo">
-            </div>
-            <h1>Password Reset Request</h1>
-        </div>
+#         html_message = f"""<!DOCTYPE html>
+# <html>
+# <head>
+#     <meta charset="UTF-8">
+#     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+#     <style>
+#         body {{ 
+#             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+#             color: #333; 
+#             background: #f4f7fa; 
+#             margin: 0; 
+#             padding: 20px; 
+#             line-height: 1.6;
+#         }}
+#         .container {{ 
+#             max-width: 600px; 
+#             margin: 0 auto; 
+#             background: white; 
+#             border-radius: 10px; 
+#             overflow: hidden; 
+#             box-shadow: 0 4px 6px rgba(0,0,0,0.1); 
+#         }}
+#         .header {{ 
+#             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+#             color: white; 
+#             padding: 40px 30px; 
+#             text-align: center; 
+#         }}
+#         .logo-container {{
+#             margin-bottom: 20px;
+#         }}
+#         .logo {{
+#             max-width: 180px;
+#             height: auto;
+#             display: inline-block;
+#             background: white;
+#             padding: 15px;
+#             border-radius: 10px;
+#             box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+#         }}
+#         .header h1 {{ 
+#             margin: 15px 0 0 0; 
+#             font-size: 28px; 
+#             font-weight: 600; 
+#         }}
+#         .content {{ 
+#             padding: 40px 30px; 
+#         }}
+#         .greeting {{ 
+#             font-size: 18px; 
+#             color: #333; 
+#             margin-bottom: 20px; 
+#         }}
+#         .message {{ 
+#             font-size: 16px; 
+#             color: #555; 
+#             line-height: 1.8; 
+#             margin-bottom: 25px; 
+#         }}
+#         .message p {{
+#             margin: 0 0 15px 0;
+#         }}
+#         .button-container {{ 
+#             text-align: center; 
+#             margin: 35px 0; 
+#         }}
+#         .button {{ 
+#             display: inline-block; 
+#             padding: 16px 40px; 
+#             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 
+#             color: white !important; 
+#             text-decoration: none; 
+#             border-radius: 8px; 
+#             font-weight: 600; 
+#             font-size: 16px; 
+#             box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); 
+#             transition: transform 0.2s; 
+#         }}
+#         .button:hover {{ 
+#             transform: translateY(-2px); 
+#             box-shadow: 0 6px 20px rgba(102, 126, 234, 0.5); 
+#         }}
+#         .warning {{ 
+#             background: #fff3cd; 
+#             border-left: 4px solid #ffc107; 
+#             padding: 15px 20px; 
+#             margin: 25px 0; 
+#             border-radius: 4px; 
+#         }}
+#         .warning p {{ 
+#             margin: 0; 
+#             color: #856404; 
+#             font-size: 14px; 
+#             font-weight: 600;
+#         }}
+#         .security-tips {{ 
+#             background: #e7f3ff; 
+#             border-left: 4px solid #2196F3; 
+#             padding: 20px; 
+#             margin: 25px 0; 
+#             border-radius: 4px; 
+#         }}
+#         .security-tips h3 {{ 
+#             margin-top: 0; 
+#             margin-bottom: 10px; 
+#             color: #1976D2; 
+#             font-size: 16px; 
+#             font-weight: 600; 
+#         }}
+#         .security-tips ul {{ 
+#             margin: 10px 0; 
+#             padding-left: 20px; 
+#         }}
+#         .security-tips li {{ 
+#             margin: 8px 0; 
+#             font-size: 14px; 
+#             color: #555; 
+#         }}
+#         .footer {{ 
+#             background: #f8f9fa; 
+#             padding: 30px; 
+#             text-align: center; 
+#             border-top: 1px solid #e9ecef; 
+#         }}
+#         .footer p {{ 
+#             margin: 5px 0; 
+#             font-size: 13px; 
+#             color: #6c757d; 
+#         }}
+#         .footer .company {{ 
+#             font-weight: 600; 
+#             color: #495057; 
+#             font-size: 15px;
+#         }}
+#         .link-fallback {{ 
+#             margin-top: 30px; 
+#             padding: 15px;
+#             background: #f8f9fa;
+#             border-radius: 6px;
+#             font-size: 13px; 
+#             color: #6c757d; 
+#         }}
+#         .link-fallback p {{
+#             margin: 5px 0;
+#         }}
+#         .link-fallback a {{ 
+#             word-break: break-all; 
+#             color: #667eea;
+#             text-decoration: none;
+#         }}
+#         .divider {{
+#             height: 1px;
+#             background: linear-gradient(to right, transparent, #ddd, transparent);
+#             margin: 25px 0;
+#         }}
+#         @media only screen and (max-width: 600px) {{
+#             body {{
+#                 padding: 10px;
+#             }}
+#             .header {{ 
+#                 padding: 30px 20px; 
+#             }}
+#             .content {{ 
+#                 padding: 30px 20px; 
+#             }}
+#             .header h1 {{ 
+#                 font-size: 24px; 
+#             }}
+#             .logo {{
+#                 max-width: 150px;
+#                 padding: 12px;
+#             }}
+#             .button {{ 
+#                 padding: 14px 30px; 
+#                 font-size: 15px; 
+#             }}
+#         }}
+#     </style>
+# </head>
+# <body>
+#     <div class="container">
+#         <!-- Header with Logo -->
+#         <div class="header">
+#             <div class="logo-container">
+#                 <img src="https://cdn.dribbble.com/userupload/45553315/file/7f757d2c0ca31bc348006d84b4ab5752.jpeg" 
+#                      alt="Believers Consultancy Logo" 
+#                      class="logo">
+#             </div>
+#             <h1>Password Reset Request</h1>
+#         </div>
         
-        <!-- Content -->
-        <div class="content">
-            <div class="greeting">
-                Hello <strong>{user_name}</strong>,
-            </div>
+#         <!-- Content -->
+#         <div class="content">
+#             <div class="greeting">
+#                 Hello <strong>{user_name}</strong>,
+#             </div>
             
-            <div class="message">
-                <p>We received a request to reset your password for your Believers Consultancy account.</p>
-                <p>Click the button below to reset your password:</p>
-            </div>
+#             <div class="message">
+#                 <p>We received a request to reset your password for your Believers Consultancy account.</p>
+#                 <p>Click the button below to reset your password:</p>
+#             </div>
             
-            <div class="button-container">
-                <a href="{reset_link}" class="button">Reset My Password</a>
-            </div>
+#             <div class="button-container">
+#                 <a href="{reset_link}" class="button">Reset My Password</a>
+#             </div>
             
-            <div class="warning">
-                <p>⏱️ This link will expire in 1 hour.</p>
-            </div>
+#             <div class="warning">
+#                 <p>⏱️ This link will expire in 1 hour.</p>
+#             </div>
             
-            <div class="message">
-                <p>If you didn't request this password reset, please ignore this email and your password will remain unchanged. Your account is safe.</p>
-            </div>
+#             <div class="message">
+#                 <p>If you didn't request this password reset, please ignore this email and your password will remain unchanged. Your account is safe.</p>
+#             </div>
             
-            <div class="divider"></div>
+#             <div class="divider"></div>
             
-            <div class="security-tips">
-                <h3>🔒 Security Tips</h3>
-                <ul>
-                    <li>Use a strong, unique password with a mix of letters, numbers, and symbols</li>
-                    <li>Never share your password with anyone</li>
-                    <li>Change your password regularly</li>
-                    <li>Enable two-factor authentication when available</li>
-                </ul>
-            </div>
+#             <div class="security-tips">
+#                 <h3>🔒 Security Tips</h3>
+#                 <ul>
+#                     <li>Use a strong, unique password with a mix of letters, numbers, and symbols</li>
+#                     <li>Never share your password with anyone</li>
+#                     <li>Change your password regularly</li>
+#                     <li>Enable two-factor authentication when available</li>
+#                 </ul>
+#             </div>
             
         
-        </div>
+#         </div>
         
-        <!-- Footer -->
-        <div class="footer">
-            <p class="company">Believers Consultancy</p>
-            <p>Empowering Your Medical Career Journey</p>
-            <p style="margin-top: 15px; font-size: 12px;">This is an automated email. Please do not reply to this message.</p>
-            <p style="margin-top: 5px;">© 2025 Believers Consultancy. All rights reserved.</p>
-        </div>
-    </div>
-</body>
-</html>"""
+#         <!-- Footer -->
+#         <div class="footer">
+#             <p class="company">Believers Consultancy</p>
+#             <p>Empowering Your Medical Career Journey</p>
+#             <p style="margin-top: 15px; font-size: 12px;">This is an automated email. Please do not reply to this message.</p>
+#             <p style="margin-top: 5px;">© 2025 Believers Consultancy. All rights reserved.</p>
+#         </div>
+#     </div>
+# </body>
+# </html>"""
         
-        # Send email (same for both existing and new users)
-        try:
-            send_mail(
-                subject=subject,
-                message=message,
-                html_message=html_message,
-                from_email=settings.DEFAULT_FROM_EMAIL,
-                recipient_list=[email],
-                fail_silently=False,
-            )
+#         # Send email (same for both existing and new users)
+#         try:
+#             send_mail(
+#                 subject=subject,
+#                 message=message,
+#                 html_message=html_message,
+#                 from_email=settings.DEFAULT_FROM_EMAIL,
+#                 recipient_list=[email],
+#                 fail_silently=False,
+#             )
             
-            # ✅ Same success message regardless of whether account existed
-            return Response({
-                'success': True,
-                'message': 'Password reset email sent successfully. Please check your inbox.'
-            }, status=status.HTTP_200_OK)
+#             # ✅ Same success message regardless of whether account existed
+#             return Response({
+#                 'success': True,
+#                 'message': 'Password reset email sent successfully. Please check your inbox.'
+#             }, status=status.HTTP_200_OK)
             
-        except Exception as e:
-            print(f"❌ Email error: {str(e)}")
+#         except Exception as e:
+#             print(f"❌ Email error: {str(e)}")
             
-            # If email fails and we auto-created user, delete them (cleanup)
-            if is_new_user:
-                user.delete()
-                print(f"🗑️ Deleted auto-created user due to email failure")
+#             # If email fails and we auto-created user, delete them (cleanup)
+#             if is_new_user:
+#                 user.delete()
+#                 print(f"🗑️ Deleted auto-created user due to email failure")
             
-            return Response({
-                'success': False,
-                'error': 'Failed to send email. Please try again later.'
-            }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+#             return Response({
+#                 'success': False,
+#                 'error': 'Failed to send email. Please try again later.'
+#             }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+
+# # ========================================
+# # ALTERNATIVE ForgotPasswordAPIView with Different Emails for New vs Existing Users 
 
 # class ForgotPasswordAPIView(APIView):
 #     """
@@ -2070,3 +1590,142 @@ Believers Consultancy Team"""
 #                 'success': False,
 #                 'error': 'Failed to send email. Please try again later.'
 #             }, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
+
+
+
+
+import threading
+import uuid
+from django.core.mail import send_mail
+from django.conf import settings
+from django.contrib.auth.tokens import PasswordResetTokenGenerator
+from django.utils.http import urlsafe_base64_encode
+from django.utils.encoding import force_bytes
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
+from rest_framework.permissions import AllowAny
+from django.contrib.auth import get_user_model
+
+User = get_user_model()
+
+
+def send_reset_email_async(email, user_name, reset_link):
+    """Send email in background thread (non-blocking)"""
+    subject = 'Password Reset Request - Believers Consultancy'
+    
+    message = f"""Hello {user_name},
+
+You requested to reset your password for Believers Consultancy.
+
+Click the link below to reset your password:
+{reset_link}
+
+This link will expire in 1 hour.
+
+Best regards,
+Believers Consultancy Team"""
+    
+    html_message = f"""<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {{ font-family: Arial, sans-serif; background: #f4f7fa; margin: 0; padding: 20px; }}
+        .container {{ max-width: 600px; margin: 0 auto; background: white; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }}
+        .header {{ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 40px 30px; text-align: center; border-radius: 10px 10px 0 0; }}
+        .logo {{ max-width: 180px; background: white; padding: 15px; border-radius: 10px; margin-bottom: 20px; }}
+        .content {{ padding: 40px 30px; }}
+        .button {{ display: inline-block; padding: 16px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white !important; text-decoration: none; border-radius: 8px; font-weight: 600; }}
+        .warning {{ background: #fff3cd; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0; border-radius: 4px; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://cdn.dribbble.com/userupload/45553315/file/7f757d2c0ca31bc348006d84b4ab5752.jpeg" alt="Logo" class="logo">
+            <h1 style="margin: 15px 0 0 0;">Password Reset Request</h1>
+        </div>
+        <div class="content">
+            <p>Hello <strong>{user_name}</strong>,</p>
+            <p>We received a request to reset your password.</p>
+            <p style="text-align: center; margin: 30px 0;">
+                <a href="{reset_link}" class="button">Reset My Password</a>
+            </p>
+            <div class="warning">
+                <p style="margin: 0;"><strong>⏱️ This link expires in 1 hour.</strong></p>
+            </div>
+            <p>If you didn't request this, ignore this email.</p>
+        </div>
+    </div>
+</body>
+</html>"""
+    
+    try:
+        send_mail(
+            subject=subject,
+            message=message,
+            html_message=html_message,
+            from_email=settings.DEFAULT_FROM_EMAIL,
+            recipient_list=[email],
+            fail_silently=True,  # Don't crash in background thread
+        )
+        print(f"✅ Email sent to {email}")
+    except Exception as e:
+        print(f"❌ Email error: {str(e)}")
+
+
+class ForgotPasswordAPIView(APIView):
+    """
+    Fast password reset - returns immediately, sends email in background
+    Auto-creates account if email doesn't exist
+    """
+    permission_classes = [AllowAny]
+    
+    def post(self, request):
+        from .serializers import ForgotPasswordSerializer
+        
+        serializer = ForgotPasswordSerializer(data=request.data)
+        if not serializer.is_valid():
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+        
+        email = serializer.validated_data['email']
+        
+        try:
+            user = User.objects.get(email=email)
+        except User.DoesNotExist:
+            # Auto-create account
+            username = email.split('@')[0] + str(uuid.uuid4())[:6]
+            user = User.objects.create(
+                username=username,
+                email=email,
+                first_name=email.split('@')[0].capitalize(),
+            )
+            user.set_unusable_password()
+            user.save()
+            print(f"✅ Auto-created: {email}")
+        
+        # Generate token
+        token_generator = PasswordResetTokenGenerator()
+        token = token_generator.make_token(user)
+        uid = urlsafe_base64_encode(force_bytes(user.pk))
+        
+        # Create reset link
+        frontend_url = getattr(settings, 'FRONTEND_URL', 'http://localhost:5173')
+        reset_link = f"{frontend_url}/reset-password?token={token}&uid={uid}"
+        
+        user_name = user.first_name if user.first_name else user.username
+        
+        # ✅ Send email in BACKGROUND THREAD (non-blocking)
+        email_thread = threading.Thread(
+            target=send_reset_email_async,
+            args=(email, user_name, reset_link),
+            daemon=True
+        )
+        email_thread.start()
+        
+        # ✅ Return IMMEDIATELY (don't wait for email)
+        return Response({
+            'success': True,
+            'message': 'Password reset email sent successfully. Please check your inbox.'
+        }, status=status.HTTP_200_OK)

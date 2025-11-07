@@ -1832,11 +1832,7 @@ Believers Consultancy Team"""
                 </ul>
             </div>
             
-            <div class="link-fallback">
-                <p><strong>Having trouble clicking the button?</strong></p>
-                <p>Copy and paste this URL into your browser:</p>
-                <p><a href="{reset_link}">{reset_link}</a></p>
-            </div>
+        
         </div>
         
         <!-- Footer -->

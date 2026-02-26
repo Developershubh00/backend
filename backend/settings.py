@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'core',
+    # 'core',
+    'core.apps.CoreConfig',
     'rest_framework',
     'rest_framework_simplejwt',
     'corsheaders',
@@ -172,13 +173,6 @@ AUTH_PASSWORD_VALIDATORS = [
 # Custom User Model
 AUTH_USER_MODEL = 'core.CustomUser'
 
-# Email Configuration
-EMAIL_BACKEND = config('EMAIL_BACKEND', default='django.core.mail.backends.console.EmailBackend')
-EMAIL_HOST = config('EMAIL_HOST', default='smtp.gmail.com')
-EMAIL_PORT = config('EMAIL_PORT', default=587, cast=int)
-EMAIL_USE_TLS = config('EMAIL_USE_TLS', default=True, cast=bool)
-EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='')
-EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='')
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
@@ -246,7 +240,28 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587  # or 465
 EMAIL_USE_TLS = True  # True for 587, False for 465
 EMAIL_USE_SSL = False  # False for 587, True for 465
-EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='no-reply@believersconsultancy.com')
-EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='fayqhihbthfwjcpg')
-DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='Believers Consultancy <no-reply@believersconsultancy.com>')
-FRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')
+EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='contact@believersconsultancy.com')
+EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='wodupmegutkzcnhq')
+DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='Believers Consultancy <contact@believersconsultancy.com>')
+FRONTEND_URL = config('FRONTEND_URL', default='https://believersconsultancy.com')
+
+
+# # ─── Google Sheets Configuration ─────────────────────────────────────────────
+
+# GOOGLE_SHEETS_CREDENTIALS_FILE = os.path.join(
+#     BASE_DIR, 'blc_credentials', 'google_service_account.json'
+# )
+# GOOGLE_SHEETS_SIGNUP_SHEET_ID = '1V1NH_APq01dOn03ytZo6iOvuZIfwPfxeCLi-wgAzvrk'
+# GOOGLE_SHEETS_SIGNUP_WORKSHEET_NAME = 'BLC_Leads_Signup_Data'  # or rename your tab and put that name
+# # ─────────────────────────────────────────────────────────────────────────────
+
+# ─── Google Sheets Configuration ─────────────────────────────────────────────
+import json
+
+GOOGLE_SHEETS_CREDENTIALS_JSON = config('GOOGLE_SHEETS_CREDENTIALS_JSON', default='')
+GOOGLE_SHEETS_CREDENTIALS_FILE = os.path.join(
+    BASE_DIR, 'blc_credentials', 'google_service_account.json'
+)
+GOOGLE_SHEETS_SIGNUP_SHEET_ID = '1V1NH_APq01dOn03ytZo6iOvuZIfwPfxeCLi-wgAzvrk'
+GOOGLE_SHEETS_SIGNUP_WORKSHEET_NAME = 'BLC_Leads_Signup_Data'
+# ─────────────────────────────────────────────────────────────────────────────

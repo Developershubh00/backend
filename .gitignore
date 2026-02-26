@@ -33,3 +33,6 @@ htmlcov/
 # Deployment-related files (if applicable)
 *.tar.gz
 *.zip
+
+blc_credentials
+blc_credentials/google_service_account.json

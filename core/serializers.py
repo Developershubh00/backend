@@ -53,21 +53,101 @@ class LoginSerializer(serializers.Serializer):
 
 import uuid
 
-class SignupSerializer(serializers.ModelSerializer):
-    password = serializers.CharField(write_only=True)
-    name = serializers.CharField(write_only=True)
+# class SignupSerializer(serializers.ModelSerializer):
+#     password = serializers.CharField(write_only=True)
+#     name = serializers.CharField(write_only=True)
 
-    class Meta:
+#     class Meta:
+#         model = User
+#         fields = ['id', 'email', 'password', 'name', 'phone', 'neet_rank', 'category', 'state']
+
+#         # ── ADD THESE 8 UTM FIELDS ────────────────────────────────────
+#     utm_source   = serializers.CharField(max_length=255, required=False,
+#                                          allow_blank=True, default='')
+#     utm_medium   = serializers.CharField(max_length=255, required=False,
+#                                          allow_blank=True, default='')
+#     utm_campaign = serializers.CharField(max_length=255, required=False,
+#                                          allow_blank=True, default='')
+#     utm_term     = serializers.CharField(max_length=255, required=False,
+#                                          allow_blank=True, default='')
+#     utm_content  = serializers.CharField(max_length=255, required=False,
+#                                          allow_blank=True, default='')
+#     gclid        = serializers.CharField(max_length=500, required=False,
+#                                          allow_blank=True, default='')
+#     referrer     = serializers.CharField(max_length=500, required=False,
+#                                          allow_blank=True, default='')
+#     landing_url  = serializers.CharField(required=False,
+#                                          allow_blank=True, default='')
+ 
+#     class Meta:
+#         model = User
+#         fields = [
+#             # ... your existing fields ...
+#             # ADD these to the fields list:
+#             'utm_source', 'utm_medium', 'utm_campaign', 'utm_term',
+#             'utm_content', 'gclid', 'referrer', 'landing_url',
+#         ]
+
+
+#     def create(self, validated_data):
+#         name = validated_data.pop('name')
+#         password = validated_data.pop('password')
+
+#         # Auto-generate username from name or fallback to uuid
+#         username = name.lower().replace(" ", "")[:12] + str(uuid.uuid4())[:4]
+#         user = User(username=username, first_name=name, **validated_data)
+#         user.set_password(password)
+#         user.save()
+#         return user
+
+class SignupSerializer(serializers.ModelSerializer):
+    password     = serializers.CharField(write_only=True)
+    name         = serializers.CharField(write_only=True)
+    utm_source   = serializers.CharField(max_length=255, required=False, allow_blank=True, default='')
+    utm_medium   = serializers.CharField(max_length=255, required=False, allow_blank=True, default='')
+    utm_campaign = serializers.CharField(max_length=255, required=False, allow_blank=True, default='')
+    utm_term     = serializers.CharField(max_length=255, required=False, allow_blank=True, default='')
+    utm_content  = serializers.CharField(max_length=255, required=False, allow_blank=True, default='')
+    gclid        = serializers.CharField(max_length=500, required=False, allow_blank=True, default='')
+    referrer     = serializers.CharField(max_length=500, required=False, allow_blank=True, default='')
+    landing_url  = serializers.CharField(required=False, allow_blank=True, default='')
+
+    class Meta:                          # ← only ONE Meta block
         model = User
-        fields = ['id', 'email', 'password', 'name', 'phone', 'neet_rank', 'category', 'state']
+        fields = [
+            'id', 'email', 'password', 'name',
+            'phone', 'neet_rank', 'category', 'state',
+            'utm_source', 'utm_medium', 'utm_campaign', 'utm_term',
+            'utm_content', 'gclid', 'referrer', 'landing_url',
+        ]
 
     def create(self, validated_data):
-        name = validated_data.pop('name')
-        password = validated_data.pop('password')
+        name         = validated_data.pop('name')
+        password     = validated_data.pop('password')
+        utm_source   = validated_data.pop('utm_source', '')
+        utm_medium   = validated_data.pop('utm_medium', '')
+        utm_campaign = validated_data.pop('utm_campaign', '')
+        utm_term     = validated_data.pop('utm_term', '')
+        utm_content  = validated_data.pop('utm_content', '')
+        gclid        = validated_data.pop('gclid', '')
+        referrer     = validated_data.pop('referrer', '')
+        landing_url  = validated_data.pop('landing_url', '')
 
-        # Auto-generate username from name or fallback to uuid
         username = name.lower().replace(" ", "")[:12] + str(uuid.uuid4())[:4]
-        user = User(username=username, first_name=name, **validated_data)
+
+        user = User(
+            username=username,
+            first_name=name,
+            utm_source=utm_source,
+            utm_medium=utm_medium,
+            utm_campaign=utm_campaign,
+            utm_term=utm_term,
+            utm_content=utm_content,
+            gclid=gclid,
+            referrer=referrer,
+            landing_url=landing_url,
+            **validated_data
+        )
         user.set_password(password)
         user.save()
         return user

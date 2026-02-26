@@ -16,6 +16,18 @@ class CustomUser(AbstractUser):
     password_reset_count = models.IntegerField(default=0)
     last_password_reset = models.DateTimeField(null=True, blank=True)
     
+        # ── UTM / Traffic Source Tracking ─────────────────────────────
+    utm_source   = models.CharField(max_length=255, blank=True, default='')
+    utm_medium   = models.CharField(max_length=255, blank=True, default='')
+    utm_campaign = models.CharField(max_length=255, blank=True, default='')
+    utm_term     = models.CharField(max_length=255, blank=True, default='')
+    utm_content  = models.CharField(max_length=255, blank=True, default='')
+    gclid        = models.CharField(max_length=500, blank=True, default='')
+    referrer     = models.CharField(max_length=500, blank=True, default='')
+    landing_url  = models.TextField(blank=True, default='')
+    signup_ip    = models.GenericIPAddressField(null=True, blank=True)
+
+
     def __str__(self):
         return self.email or self.username
     

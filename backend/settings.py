@@ -66,7 +66,7 @@ MIDDLEWARE = [
 
 
 
-CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-fiwg.onrender.com,http://localhost:5173,http://localhost:5174,http://127.0.0.1:8000,http://127.0.0.1:5174').split(',')
+CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-fiwg.onrender.com,http://localhost:5173,http://localhost:5174,http://127.0.0.1:8000,http://127.0.0.1:5173').split(',')
 
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True

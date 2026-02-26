@@ -43,3 +43,11 @@ def sync_new_signup_to_google_sheets(sender, instance, created, **kwargs):
 
     # Push to Google Sheets (errors are caught inside, will not crash signup)
     append_signup_to_sheet(instance)
+
+@receiver(post_save, sender=User)
+def sync_new_signup_to_google_sheets(sender, instance, created, **kwargs):
+    print(f"🔔 SIGNAL FIRED — created={created}, email={instance.email}")  # ADD
+    if not created:
+        return
+    print(f"📤 Sending to sheet: {instance.email}")  # ADD
+    append_signup_to_sheet(instance)

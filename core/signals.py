@@ -17,23 +17,23 @@ logger = logging.getLogger(__name__)
 User = get_user_model()
 
 
-@receiver(post_save, sender=User)
+@receiver(post_save, sender=User, dispatch_uid="sync_signup_to_google_sheets")
 def sync_new_signup_to_google_sheets(sender, instance, created, **kwargs):
     """
     Fires ONLY when a brand new user is created (created=True).
     Does NOT fire on profile updates, password changes, OTP saves, etc.
-    
+
+    dispatch_uid prevents duplicate registration if the app is reloaded.
+
     Flow:
       User hits signup API
         → serializer.save() → user.save() → DB write ✅
           → post_save signal fires (created=True)
-            → append_signup_to_sheet(user) 
+            → append_signup_to_sheet(user)
               → Google Sheet updated ✅
-              → JWT token returned to frontend ✅ (sheet sync does not block this)
+              → JWT token returned to frontend ✅
     """
     if not created:
-        # This is an update (profile edit, password reset, OTP save, etc.)
-        # Do nothing — we only want NEW signups
         return
 
     logger.info(
@@ -41,13 +41,4 @@ def sync_new_signup_to_google_sheets(sender, instance, created, **kwargs):
         instance.email, instance.id
     )
 
-    # Push to Google Sheets (errors are caught inside, will not crash signup)
-    append_signup_to_sheet(instance)
-
-@receiver(post_save, sender=User)
-def sync_new_signup_to_google_sheets(sender, instance, created, **kwargs):
-    print(f"🔔 SIGNAL FIRED — created={created}, email={instance.email}")  # ADD
-    if not created:
-        return
-    print(f"📤 Sending to sheet: {instance.email}")  # ADD
     append_signup_to_sheet(instance)

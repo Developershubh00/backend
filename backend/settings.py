@@ -245,7 +245,8 @@ EMAIL_USE_SSL = False  # False for 587, True for 465
 EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='contact@believersconsultancy.com')
 EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='wodupmegutkzcnhq')
 DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='Believers Consultancy <contact@believersconsultancy.com>')
-FRONTEND_URL = config('FRONTEND_URL', default='https://believersconsultancy.com')
+FRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')
+PASSWORD_RESET_APPS_SCRIPT_URL = config('PASSWORD_RESET_APPS_SCRIPT_URL', default='https://script.google.com/macros/s/AKfycbzWtq0Cq8xVZu_Hm0avekCl4LwyXzXKf6UFqqgGssWjeByUEdFgjqsNVNGp20JQ7BZu/exec')
 
 
 # # ─── Google Sheets Configuration ─────────────────────────────────────────────

@@ -139,8 +139,10 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # Database configuration
 DATABASE_URL = config('DATABASE_URL', default=None)
 if DATABASE_URL:
+    # Clean unsupported options that crash psycopg2
+    clean_url = DATABASE_URL.replace('&channel_binding=require', '').replace('?channel_binding=require&', '?').replace('?channel_binding=require', '')
     DATABASES = {
-        'default': dj_database_url.parse(DATABASE_URL)
+        'default': dj_database_url.parse(clean_url, conn_max_age=600, ssl_require=True)
     }
 else:
     DATABASES = {

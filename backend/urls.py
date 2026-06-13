@@ -10,119 +10,199 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 from rest_framework import permissions
 from core import views
-from core.views import ForgotPasswordAPIView, ResetPasswordAPIView
+from core.views import (
+    ForgotPasswordAPIView,
+    ResetPasswordAPIView,
+    UGAllotmentDataList,
+    UGAllotmentDataViewSet,
+    UGAllotmentFilterOptionsView,
+    UGAllotmentFilterOptionsView,
+)
 from django.urls import path
 from core.views import (
-    CollegeCutoffViewSet, UGSeatMatrixViewSet, PGFeeDetailsViewSet,
-    ClosingRankViewSet, PrivateCollegeViewSet, NIRFUniversityRankingViewSet,
-    INICETAllotmentViewSet, FAQCategoryViewSet, FAQViewSet,
-    CollegeChoiceViewSet, MedicalCollegeList, SignupView,
-    ProfileView, RankPredictorView, CollegeDatabaseList,
-    verify_email_otp, LogoutView, HealthCheckView,
-    CategoryBasedAllotmentView, CategoryBasedClosingRankView,
-    CategoryBasedSeatMatrixView, CategoryBasedFeeStipendBondView,
-    CategoryListView, CategorySummaryView,upload_closingranks_data,upload_allotment_data,upload_seatmatrix_data,upload_fees_bond_data, AllotmentDataList, SeatMatrixDataList, 
-    FeeStipendBondDataList, ClosingRanksDataList, verify_email_otp,
+    CollegeCutoffViewSet,
+    UGSeatMatrixViewSet,
+    PGFeeDetailsViewSet,
+    ClosingRankViewSet,
+    PrivateCollegeViewSet,
+    NIRFUniversityRankingViewSet,
+    INICETAllotmentViewSet,
+    FAQCategoryViewSet,
+    FAQViewSet,
+    CollegeChoiceViewSet,
+    MedicalCollegeList,
+    SignupView,
+    ProfileView,
+    RankPredictorView,
+    CollegeDatabaseList,
+    verify_email_otp,
+    LogoutView,
+    HealthCheckView,
+    CategoryBasedAllotmentView,
+    CategoryBasedClosingRankView,
+    CategoryBasedSeatMatrixView,
+    CategoryBasedFeeStipendBondView,
+    CategoryListView,
+    CategorySummaryView,
+    upload_closingranks_data,
+    upload_allotment_data,
+    upload_seatmatrix_data,
+    upload_fees_bond_data,
+    AllotmentDataList,
+    SeatMatrixDataList,
+    FeeStipendBondDataList,
+    ClosingRanksDataList,
+    verify_email_otp,
     ForgotPasswordAPIView,  # ✅ ADD THIS
-    ResetPasswordAPIView,)
+    ResetPasswordAPIView,
+)
 
 schema_view = get_schema_view(
-   openapi.Info(
-      title="BD Counselling API",
-      default_version='v1',
-      description="API docs for BD Counselling Platform",
-      contact=openapi.Contact(email="shubham.saxena@believersdestination.com"),
-   ),
-   public=True,
-   permission_classes=[permissions.AllowAny],
+    openapi.Info(
+        title="BD Counselling API",
+        default_version="v1",
+        description="API docs for BD Counselling Platform",
+        contact=openapi.Contact(email="shubham.saxena@believersdestination.com"),
+    ),
+    public=True,
+    permission_classes=[permissions.AllowAny],
 )
 
 
 def home(request):
     return JsonResponse({"message": "BD Counselling Backend API", "status": "OK"})
 
+
 # Routers for ViewSets
 router = DefaultRouter()
-router.register(r'cutoffs', CollegeCutoffViewSet)
-router.register(r'ug-seat-matrix', UGSeatMatrixViewSet)
-router.register(r'pg-fee-details', PGFeeDetailsViewSet)
-router.register(r'closing-ranks', ClosingRankViewSet)
-router.register(r'private-colleges', PrivateCollegeViewSet)
-router.register(r'nirf-rankings', NIRFUniversityRankingViewSet)
-router.register(r'allotments', INICETAllotmentViewSet)
-router.register(r'faq-categories', FAQCategoryViewSet)
-router.register(r'faqs', FAQViewSet)
-router.register(r'choice-list', CollegeChoiceViewSet, basename='choice-list')
-router.register(r'college-choices', CollegeChoiceViewSet, basename='collegechoice')
+router.register(r"cutoffs", CollegeCutoffViewSet)
+router.register(r"ug-seat-matrix", UGSeatMatrixViewSet)
+router.register(r"pg-fee-details", PGFeeDetailsViewSet)
+router.register(r"closing-ranks", ClosingRankViewSet)
+router.register(r"private-colleges", PrivateCollegeViewSet)
+router.register(r"nirf-rankings", NIRFUniversityRankingViewSet)
+router.register(r"allotments", INICETAllotmentViewSet)
+router.register(r"faq-categories", FAQCategoryViewSet)
+router.register(r"faqs", FAQViewSet)
+router.register(r"choice-list", CollegeChoiceViewSet, basename="choice-list")
+router.register(r"college-choices", CollegeChoiceViewSet, basename="collegechoice")
+router.register(r"ug-allotment", UGAllotmentDataViewSet, basename="ug-allotment")
 
 # Single urlpatterns definition
 urlpatterns = [
-    path('', home),  # Root endpoint
-    path('health/', HealthCheckView.as_view(), name='health-check'),  # Health check endpoint
-    path('admin/', admin.site.urls),
-
+    path("", home),  # Root endpoint
+    path(
+        "health/", HealthCheckView.as_view(), name="health-check"
+    ),  # Health check endpoint
+    path("admin/", admin.site.urls),
     # API Router URLs
-    path('api/', include(router.urls)),
-
+    path("api/", include(router.urls)),
     # Auth & User
-    path('auth/signup/', SignupView.as_view(), name='signup'),
-    path("auth/logout/", LogoutView.as_view(), name='logout'),
-    path('auth/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
-    path('auth/profile/', ProfileView.as_view(), name='profile'),
-    path("auth/verify-email/", verify_email_otp, name='verify-email'),
+    path("auth/signup/", SignupView.as_view(), name="signup"),
+    path("auth/logout/", LogoutView.as_view(), name="logout"),
+    path("auth/token/refresh/", TokenRefreshView.as_view(), name="token_refresh"),
+    path("auth/profile/", ProfileView.as_view(), name="profile"),
+    path("auth/verify-email/", verify_email_otp, name="verify-email"),
     # path("auth/logout/", LogoutView.as_view()),  # Uncomment when ready
-
     # Other APIs
-    path('medical-colleges/', MedicalCollegeList.as_view(), name='medical-college-list'),
-    path('rank-predictor/', RankPredictorView.as_view(), name='rank-predictor'),
-    path('college-database/', CollegeDatabaseList.as_view(), name='college-database'),
-
+    path(
+        "medical-colleges/", MedicalCollegeList.as_view(), name="medical-college-list"
+    ),
+    path("rank-predictor/", RankPredictorView.as_view(), name="rank-predictor"),
+    path("college-database/", CollegeDatabaseList.as_view(), name="college-database"),
     # Token auth and DRF login
-    path('auth/login/', views.LoginAPIView.as_view(), name='api_token_auth'),
-    path('api-auth/', include('rest_framework.urls')),
+    path("auth/login/", views.LoginAPIView.as_view(), name="api_token_auth"),
+    path("api-auth/", include("rest_framework.urls")),
     # Swagger and Redoc
-    path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),
-    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
-    path('swagger.json', schema_view.without_ui(cache_timeout=0), name='schema-json'),
-
-    
+    path(
+        "swagger/",
+        schema_view.with_ui("swagger", cache_timeout=0),
+        name="schema-swagger-ui",
+    ),
+    path("redoc/", schema_view.with_ui("redoc", cache_timeout=0), name="schema-redoc"),
+    path("swagger.json", schema_view.without_ui(cache_timeout=0), name="schema-json"),
     path("api/allotments/", views.AllotmentListView.as_view(), name="allotment-list"),
-    path("api/allotments/<str:category>/", views.AllotmentListView.as_view(), name="allotment-list-category"),
-
-    path("api/closing-ranks/", views.ClosingRankListView.as_view(), name="closingrank-list"),
-    path("api/closing-ranks/<str:category>/", views.ClosingRankListView.as_view(), name="closingrank-list-category"),
-
-    path("api/seat-matrix/", views.SeatMatrixListView.as_view(), name="seatmatrix-list"),
-    path("api/seat-matrix/<str:category>/", views.SeatMatrixListView.as_view(), name="seatmatrix-list-category"),
-
+    path(
+        "api/allotments/<str:category>/",
+        views.AllotmentListView.as_view(),
+        name="allotment-list-category",
+    ),
+    path(
+        "api/closing-ranks/",
+        views.ClosingRankListView.as_view(),
+        name="closingrank-list",
+    ),
+    path(
+        "api/closing-ranks/<str:category>/",
+        views.ClosingRankListView.as_view(),
+        name="closingrank-list-category",
+    ),
+    path(
+        "api/seat-matrix/", views.SeatMatrixListView.as_view(), name="seatmatrix-list"
+    ),
+    path(
+        "api/seat-matrix/<str:category>/",
+        views.SeatMatrixListView.as_view(),
+        name="seatmatrix-list-category",
+    ),
     path("api/fees/", views.FeeListView.as_view(), name="fee-list"),
-    path("api/fees/<str:category>/", views.FeeListView.as_view(), name="fee-list-category"),
-
+    path(
+        "api/fees/<str:category>/",
+        views.FeeListView.as_view(),
+        name="fee-list-category",
+    ),
     # CSV upload:
     path("api/upload/<str:type>/", views.CSVUploadView.as_view(), name="csv-upload"),
-
     path("upload-allotments/", upload_allotment_data, name="upload-allotments"),
     path("upload-seatmatrix/", upload_seatmatrix_data, name="upload-seatmatrix"),
     path("upload-feesbond/", upload_fees_bond_data, name="upload-feesbond"),
     path("upload-closingranks/", upload_closingranks_data, name="upload-closingranks"),
-
     # Auth & User (add these after your existing auth paths)
-    path('auth/forgot-password/', ForgotPasswordAPIView.as_view(), name='forgot-password'),
-    path('auth/reset-password/', ResetPasswordAPIView.as_view(), name='reset-password'),
-    
-
+    path(
+        "auth/forgot-password/", ForgotPasswordAPIView.as_view(), name="forgot-password"
+    ),
+    path("auth/reset-password/", ResetPasswordAPIView.as_view(), name="reset-password"),
     # Category-based API endpoints
     path("api/categories/", CategoryListView.as_view(), name="category-list"),
-    path("api/category/summary/<str:category>/", CategorySummaryView.as_view(), name="category-summary"),
-    path("api/category/allotments/<str:category>/", CategoryBasedAllotmentView.as_view(), name="category-allotments"),
-    path("api/category/closing-ranks/<str:category>/", CategoryBasedClosingRankView.as_view(), name="category-closing-ranks"),
-    path("api/category/seat-matrix/<str:category>/", CategoryBasedSeatMatrixView.as_view(), name="category-seat-matrix"),
-    path("api/category/fee-stipend-bond/<str:category>/", CategoryBasedFeeStipendBondView.as_view(), name="category-fee-stipend-bond"),
+    path(
+        "api/category/summary/<str:category>/",
+        CategorySummaryView.as_view(),
+        name="category-summary",
+    ),
+    path(
+        "api/category/allotments/<str:category>/",
+        CategoryBasedAllotmentView.as_view(),
+        name="category-allotments",
+    ),
+    path(
+        "api/category/closing-ranks/<str:category>/",
+        CategoryBasedClosingRankView.as_view(),
+        name="category-closing-ranks",
+    ),
+    path(
+        "api/category/seat-matrix/<str:category>/",
+        CategoryBasedSeatMatrixView.as_view(),
+        name="category-seat-matrix",
+    ),
+    path(
+        "api/category/fee-stipend-bond/<str:category>/",
+        CategoryBasedFeeStipendBondView.as_view(),
+        name="category-fee-stipend-bond",
+    ),
     path("get-allotments/", AllotmentDataList.as_view(), name="get_allotments"),
     path("get-seatmatrix/", SeatMatrixDataList.as_view(), name="get_seatmatrix"),
     path("get-feesbond/", FeeStipendBondDataList.as_view(), name="get_feesbond"),
     path("get-closingranks/", ClosingRanksDataList.as_view(), name="get_closingranks"),
-
+    path(
+        "api/ug-allotment/filter-options/",
+        UGAllotmentFilterOptionsView.as_view(),
+        name="ug-allotment-filter-options",
+    ),
+    path(
+        "api/ug-allotments/",
+        UGAllotmentDataList.as_view(),
+        name="ug-allotments",
+    ),
 ]
 
 
@@ -130,4 +210,3 @@ urlpatterns = [
 if settings.DEBUG:
     urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-    

@@ -23,75 +23,80 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY', default='django-insecure-t(va6ywah^$59ah@!nx=2jew3s9t=g*_ze(kyw6&)=2paenv&w')
+SECRET_KEY = config(
+    "SECRET_KEY",
+    default="django-insecure-t(va6ywah^$59ah@!nx=2jew3s9t=g*_ze(kyw6&)=2paenv&w",
+)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = config('DEBUG', default=True, cast=bool)
+# DEBUG = config('DEBUG', default=True, cast=bool)
 
-ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='backend-fiwg.onrender.com,localhost,127.0.0.1').split(',')
+# ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='backend-fiwg.onrender.com,localhost,127.0.0.1').split(',')
+DEBUG = True
 
+ALLOWED_HOSTS = ["*"]
 
 # Application definition
 
 INSTALLED_APPS = [
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
+    "django.contrib.admin",
+    "django.contrib.auth",
+    "django.contrib.contenttypes",
+    "django.contrib.sessions",
+    "django.contrib.messages",
+    "django.contrib.staticfiles",
     # 'core',
-    'core.apps.CoreConfig',
-    'rest_framework',
-    'rest_framework_simplejwt',
-    'corsheaders',
-    'import_export',
-    'rest_framework_simplejwt.token_blacklist',
-    'drf_yasg',
+    "core.apps.CoreConfig",
+    "rest_framework",
+    "rest_framework_simplejwt",
+    "corsheaders",
+    "import_export",
+    "rest_framework_simplejwt.token_blacklist",
+    "drf_yasg",
 ]
 
 MIDDLEWARE = [
-    'corsheaders.middleware.CorsMiddleware',
-    'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
-    'django.contrib.sessions.middleware.SessionMiddleware',
-    'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
-    'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.messages.middleware.MessageMiddleware',
-    'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    "corsheaders.middleware.CorsMiddleware",
+    "django.middleware.security.SecurityMiddleware",
+    "whitenoise.middleware.WhiteNoiseMiddleware",
+    "django.contrib.sessions.middleware.SessionMiddleware",
+    "django.middleware.common.CommonMiddleware",
+    "django.middleware.csrf.CsrfViewMiddleware",
+    "django.contrib.auth.middleware.AuthenticationMiddleware",
+    "django.contrib.messages.middleware.MessageMiddleware",
+    "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
 
-
-
-
-CORS_ALLOWED_ORIGINS = config('CORS_ALLOWED_ORIGINS', default='https://backend-fiwg.onrender.com,http://localhost:5173,http://localhost:5174,http://127.0.0.1:8000,http://127.0.0.1:5173').split(',')
+CORS_ALLOWED_ORIGINS = config(
+    "CORS_ALLOWED_ORIGINS",
+    default="https://backend-fiwg.onrender.com,http://localhost:5173,http://localhost:5174,http://127.0.0.1:8000,http://127.0.0.1:5173",
+).split(",")
 
 # Additional CORS settings for production
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = True  # Only allow all origins in development
 
 CORS_ALLOWED_HEADERS = [
-    'accept',
-    'accept-encoding',
-    'authorization',
-    'content-type',
-    'dnt',
-    'origin',
-    'user-agent',
-    'x-csrftoken',
-    'x-requested-with',
+    "accept",
+    "accept-encoding",
+    "authorization",
+    "content-type",
+    "dnt",
+    "origin",
+    "user-agent",
+    "x-csrftoken",
+    "x-requested-with",
 ]
 
 # Allow these HTTP methods
 CORS_ALLOW_METHODS = [
-    'DELETE',
-    'GET',
-    'OPTIONS',
-    'PATCH',
-    'POST',
-    'PUT',
+    "DELETE",
+    "GET",
+    "OPTIONS",
+    "PATCH",
+    "POST",
+    "PUT",
 ]
 
 # Disable CSRF for API endpoints (since you're using JWT)
@@ -102,56 +107,59 @@ CSRF_TRUSTED_ORIGINS = [
 
 # Or disable CSRF entirely for API (if using JWT)
 CSRF_COOKIE_SECURE = False  # Set to True in production with HTTPS
-CSRF_COOKIE_SAMESITE = 'Lax'
+CSRF_COOKIE_SAMESITE = "Lax"
 
-ROOT_URLCONF = 'backend.urls'
+ROOT_URLCONF = "backend.urls"
 
 REST_FRAMEWORK = {
-    'DEFAULT_AUTHENTICATION_CLASSES': (
-        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    "DEFAULT_AUTHENTICATION_CLASSES": (
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
     ),
-    'DEFAULT_PAGINATION_CLASS': 'core.pagination.StandardResultsSetPagination',
-    'PAGE_SIZE': 75,
-    'DEFAULT_FILTER_BACKENDS': ['django_filters.rest_framework.DjangoFilterBackend'],
+    "DEFAULT_PAGINATION_CLASS": "core.pagination.StandardResultsSetPagination",
+    "PAGE_SIZE": 75,
+    "DEFAULT_FILTER_BACKENDS": ["django_filters.rest_framework.DjangoFilterBackend"],
 }
 
 TEMPLATES = [
     {
-        'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
-        'APP_DIRS': True,
-        'OPTIONS': {
-            'context_processors': [
-                'django.template.context_processors.request',
-                'django.contrib.auth.context_processors.auth',
-                'django.contrib.messages.context_processors.messages',
+        "BACKEND": "django.template.backends.django.DjangoTemplates",
+        "DIRS": [],
+        "APP_DIRS": True,
+        "OPTIONS": {
+            "context_processors": [
+                "django.template.context_processors.request",
+                "django.contrib.auth.context_processors.auth",
+                "django.contrib.messages.context_processors.messages",
             ],
         },
     },
 ]
 
-WSGI_APPLICATION = 'backend.wsgi.application'
+WSGI_APPLICATION = "backend.wsgi.application"
 
 
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 # Database configuration
-DATABASE_URL = config('DATABASE_URL', default=None)
+DATABASE_URL = config("DATABASE_URL", default=None)
 if DATABASE_URL:
     # Clean unsupported options that crash psycopg2
-    clean_url = DATABASE_URL.replace('&channel_binding=require', '').replace('?channel_binding=require&', '?').replace('?channel_binding=require', '')
+    clean_url = (
+        DATABASE_URL.replace("&channel_binding=require", "")
+        .replace("?channel_binding=require&", "?")
+        .replace("?channel_binding=require", "")
+    )
     DATABASES = {
-        'default': dj_database_url.parse(clean_url, conn_max_age=600, ssl_require=True)
+        "default": dj_database_url.parse(clean_url, conn_max_age=600, ssl_require=True)
     }
 else:
     DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': BASE_DIR / 'db.sqlite3',
+        "default": {
+            "ENGINE": "django.db.backends.sqlite3",
+            "NAME": BASE_DIR / "db.sqlite3",
         }
     }
-
 
 
 # Password validation
@@ -159,29 +167,29 @@ else:
 
 AUTH_PASSWORD_VALIDATORS = [
     {
-        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+        "NAME": "django.contrib.auth.password_validation.UserAttributeSimilarityValidator",
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
+        "NAME": "django.contrib.auth.password_validation.MinimumLengthValidator",
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',
+        "NAME": "django.contrib.auth.password_validation.CommonPasswordValidator",
     },
     {
-        'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
+        "NAME": "django.contrib.auth.password_validation.NumericPasswordValidator",
     },
 ]
 
 # Custom User Model
-AUTH_USER_MODEL = 'core.CustomUser'
+AUTH_USER_MODEL = "core.CustomUser"
 
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = "UTC"
 
 USE_I18N = True
 
@@ -191,32 +199,36 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
-STATIC_URL = config('STATIC_URL', default='/static/')
-STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = config("STATIC_URL", default="/static/")
+STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static'),
+    os.path.join(BASE_DIR, "static"),
 ]
 
 # Media files
-MEDIA_URL = config('MEDIA_URL', default='/media/')
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = config("MEDIA_URL", default="/media/")
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 
 # WhiteNoise configuration for static files
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
-DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # JWT Token Settings
 from datetime import timedelta
 
 SIMPLE_JWT = {
-    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=config('JWT_ACCESS_TOKEN_LIFETIME', default=60, cast=int)),
-    'REFRESH_TOKEN_LIFETIME': timedelta(minutes=config('JWT_REFRESH_TOKEN_LIFETIME', default=1440, cast=int)),
-    'AUTH_HEADER_TYPES': ('Bearer',),
-    'BLACKLIST_AFTER_ROTATION': True,
+    "ACCESS_TOKEN_LIFETIME": timedelta(
+        minutes=config("JWT_ACCESS_TOKEN_LIFETIME", default=60, cast=int)
+    ),
+    "REFRESH_TOKEN_LIFETIME": timedelta(
+        minutes=config("JWT_REFRESH_TOKEN_LIFETIME", default=1440, cast=int)
+    ),
+    "AUTH_HEADER_TYPES": ("Bearer",),
+    "BLACKLIST_AFTER_ROTATION": True,
 }
 
 # Security settings for production
@@ -226,27 +238,33 @@ if not DEBUG:
     SECURE_HSTS_INCLUDE_SUBDOMAINS = True
     SECURE_HSTS_SECONDS = 31536000
     SECURE_REDIRECT_EXEMPT = []
-    SECURE_SSL_REDIRECT = config('SECURE_SSL_REDIRECT', default=True, cast=bool)
-    SESSION_COOKIE_SECURE = config('SESSION_COOKIE_SECURE', default=True, cast=bool)
-    CSRF_COOKIE_SECURE = config('CSRF_COOKIE_SECURE', default=True, cast=bool)
+    SECURE_SSL_REDIRECT = config("SECURE_SSL_REDIRECT", default=True, cast=bool)
+    SESSION_COOKIE_SECURE = config("SESSION_COOKIE_SECURE", default=True, cast=bool)
+    CSRF_COOKIE_SECURE = config("CSRF_COOKIE_SECURE", default=True, cast=bool)
 else:
     # Development security settings
-    SECURE_SSL_REDIRECT = config('SECURE_SSL_REDIRECT', default=False, cast=bool)
-    SESSION_COOKIE_SECURE = config('SESSION_COOKIE_SECURE', default=False, cast=bool)
-    CSRF_COOKIE_SECURE = config('CSRF_COOKIE_SECURE', default=False, cast=bool)
+    SECURE_SSL_REDIRECT = config("SECURE_SSL_REDIRECT", default=False, cast=bool)
+    SESSION_COOKIE_SECURE = config("SESSION_COOKIE_SECURE", default=False, cast=bool)
+    CSRF_COOKIE_SECURE = config("CSRF_COOKIE_SECURE", default=False, cast=bool)
 
 
 # Email Configuration for Gmail with Google Workspace
-EMAIL_BACKEND = 'core.email_backend.CustomEmailBackend'
-EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_BACKEND = "core.email_backend.CustomEmailBackend"
+EMAIL_HOST = "smtp.gmail.com"
 EMAIL_PORT = 587  # or 465
 EMAIL_USE_TLS = True  # True for 587, False for 465
 EMAIL_USE_SSL = False  # False for 587, True for 465
-EMAIL_HOST_USER = config('EMAIL_HOST_USER', default='contact@believersconsultancy.com')
-EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD', default='wodupmegutkzcnhq')
-DEFAULT_FROM_EMAIL = config('DEFAULT_FROM_EMAIL', default='Believers Consultancy <contact@believersconsultancy.com>')
-FRONTEND_URL = config('FRONTEND_URL', default='http://localhost:5173')
-PASSWORD_RESET_APPS_SCRIPT_URL = config('PASSWORD_RESET_APPS_SCRIPT_URL', default='https://script.google.com/macros/s/AKfycbzWtq0Cq8xVZu_Hm0avekCl4LwyXzXKf6UFqqgGssWjeByUEdFgjqsNVNGp20JQ7BZu/exec')
+EMAIL_HOST_USER = config("EMAIL_HOST_USER", default="contact@believersconsultancy.com")
+EMAIL_HOST_PASSWORD = config("EMAIL_HOST_PASSWORD", default="wodupmegutkzcnhq")
+DEFAULT_FROM_EMAIL = config(
+    "DEFAULT_FROM_EMAIL",
+    default="Believers Consultancy <contact@believersconsultancy.com>",
+)
+FRONTEND_URL = config("FRONTEND_URL", default="http://localhost:5173")
+PASSWORD_RESET_APPS_SCRIPT_URL = config(
+    "PASSWORD_RESET_APPS_SCRIPT_URL",
+    default="https://script.google.com/macros/s/AKfycbzWtq0Cq8xVZu_Hm0avekCl4LwyXzXKf6UFqqgGssWjeByUEdFgjqsNVNGp20JQ7BZu/exec",
+)
 
 
 # # ─── Google Sheets Configuration ─────────────────────────────────────────────
@@ -261,10 +279,10 @@ PASSWORD_RESET_APPS_SCRIPT_URL = config('PASSWORD_RESET_APPS_SCRIPT_URL', defaul
 # ─── Google Sheets Configuration ─────────────────────────────────────────────
 import json
 
-GOOGLE_SHEETS_CREDENTIALS_JSON = config('GOOGLE_SHEETS_CREDENTIALS_JSON', default='')
+GOOGLE_SHEETS_CREDENTIALS_JSON = config("GOOGLE_SHEETS_CREDENTIALS_JSON", default="")
 GOOGLE_SHEETS_CREDENTIALS_FILE = os.path.join(
-    BASE_DIR, 'blc_credentials', 'google_service_account.json'
+    BASE_DIR, "blc_credentials", "google_service_account.json"
 )
-GOOGLE_SHEETS_SIGNUP_SHEET_ID = '1V1NH_APq01dOn03ytZo6iOvuZIfwPfxeCLi-wgAzvrk'
-GOOGLE_SHEETS_SIGNUP_WORKSHEET_NAME = 'BLC_Leads_Signup_Data'
+GOOGLE_SHEETS_SIGNUP_SHEET_ID = "1V1NH_APq01dOn03ytZo6iOvuZIfwPfxeCLi-wgAzvrk"
+GOOGLE_SHEETS_SIGNUP_WORKSHEET_NAME = "BLC_Leads_Signup_Data"
 # ─────────────────────────────────────────────────────────────────────────────

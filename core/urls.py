@@ -52,37 +52,72 @@
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import (
-    CollegeCutoffViewSet, INICETAllotmentViewSet, UGSeatMatrixViewSet,
-    PGFeeDetailsViewSet, ClosingRankViewSet, PrivateCollegeViewSet,
-    NIRFUniversityRankingViewSet, FAQViewSet, FAQCategoryViewSet,
-    CollegeChoiceViewSet, RankPredictorView, CollegeDatabaseList,
-    SignupView, ProfileView, MedicalCollegeList, EmailVerificationView, LoginAPIView,
-    verify_email_otp, verify_email_otp,
+    CollegeCutoffViewSet,
+    INICETAllotmentViewSet,
+    UGAllotmentDataList,
+    UGAllotmentDataViewSet,
+    UGAllotmentFilterOptionsView,
+    UGSeatMatrixViewSet,
+    PGFeeDetailsViewSet,
+    ClosingRankViewSet,
+    PrivateCollegeViewSet,
+    NIRFUniversityRankingViewSet,
+    FAQViewSet,
+    FAQCategoryViewSet,
+    CollegeChoiceViewSet,
+    RankPredictorView,
+    CollegeDatabaseList,
+    SignupView,
+    ProfileView,
+    MedicalCollegeList,
+    EmailVerificationView,
+    LoginAPIView,
+    verify_email_otp,
+    verify_email_otp,
     ForgotPasswordAPIView,  # ✅ ADD THIS
-    ResetPasswordAPIView,   # ✅ ADD THIS
+    ResetPasswordAPIView,  # ✅ ADD THIS
 )
 
 router = DefaultRouter()
-router.register(r'college-cutoffs', CollegeCutoffViewSet)
-router.register(r'inicet-allotments', INICETAllotmentViewSet)
-router.register(r'ug-seat-matrix', UGSeatMatrixViewSet)
-router.register(r'pg-fees', PGFeeDetailsViewSet)
-router.register(r'closing-ranks', ClosingRankViewSet)
-router.register(r'private-colleges', PrivateCollegeViewSet)
-router.register(r'nirf-rankings', NIRFUniversityRankingViewSet)
-router.register(r'faqs', FAQViewSet)
-router.register(r'faq-categories', FAQCategoryViewSet)
-router.register(r'college-choices', CollegeChoiceViewSet)
+router.register(r"college-cutoffs", CollegeCutoffViewSet)
+router.register(r"inicet-allotments", INICETAllotmentViewSet)
+router.register(r"ug-seat-matrix", UGSeatMatrixViewSet)
+router.register(r"pg-fees", PGFeeDetailsViewSet)
+router.register(r"closing-ranks", ClosingRankViewSet)
+router.register(r"private-colleges", PrivateCollegeViewSet)
+router.register(r"nirf-rankings", NIRFUniversityRankingViewSet)
+router.register(r"faqs", FAQViewSet)
+router.register(r"faq-categories", FAQCategoryViewSet)
+router.register(r"college-choices", CollegeChoiceViewSet)
+router.register(r"ug-allotment", UGAllotmentDataViewSet, basename="ug-allotment")
 
 urlpatterns = [
-    path('auth/signup/', SignupView.as_view(), name='signup'),
-    path('auth/profile/', ProfileView.as_view(), name='profile'),
-    path('auth/forgot-password/', ForgotPasswordAPIView.as_view(), name='forgot-password'),  # ✅ ADD THIS
-    path('auth/reset-password/', ResetPasswordAPIView.as_view(), name='reset-password'),    # ✅ ADD THIS
-    path('medical-colleges/', MedicalCollegeList.as_view(), name='medical-colleges'),
-    path('rank-predictor/', RankPredictorView.as_view(), name='rank-predictor'),
-    path('college-database/', CollegeDatabaseList.as_view(), name='college-database'),
-    path('email-verification/', EmailVerificationView.as_view(), name='email-verification'),
-    path('verify-email-otp/', verify_email_otp, name='verify-email-otp'),
-
+    path("auth/signup/", SignupView.as_view(), name="signup"),
+    path("auth/profile/", ProfileView.as_view(), name="profile"),
+    path(
+        "auth/forgot-password/", ForgotPasswordAPIView.as_view(), name="forgot-password"
+    ),  # ✅ ADD THIS
+    path(
+        "auth/reset-password/", ResetPasswordAPIView.as_view(), name="reset-password"
+    ),  # ✅ ADD THIS
+    path("medical-colleges/", MedicalCollegeList.as_view(), name="medical-colleges"),
+    path("rank-predictor/", RankPredictorView.as_view(), name="rank-predictor"),
+    path("college-database/", CollegeDatabaseList.as_view(), name="college-database"),
+    path(
+        "email-verification/",
+        EmailVerificationView.as_view(),
+        name="email-verification",
+    ),
+    path("verify-email-otp/", verify_email_otp, name="verify-email-otp"),
+    path(
+        "ug-allotment/filter-options/",
+        UGAllotmentFilterOptionsView.as_view(),
+        name="ug-allotment-filter-options",
+    ),
+    path(
+        "ug-allotments/",
+        UGAllotmentDataList.as_view(),
+        name="ug-allotments",
+    ),
+    # path("api/ug-allotment/filter-options/", UGAllotmentFilterOptionsView.as_view()),
 ]

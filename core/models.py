@@ -8,31 +8,33 @@ class CustomUser(AbstractUser):
     neet_rank = models.CharField(max_length=20, blank=True)
     category = models.CharField(max_length=20, blank=True)
     state = models.CharField(max_length=50, blank=True)
-    avatar = models.ImageField(upload_to='avatars/', blank=True, null=True)  
+    avatar = models.ImageField(upload_to="avatars/", blank=True, null=True)
     email_verified = models.BooleanField(default=False)
     email_otp = models.CharField(max_length=6, blank=True, null=True)
-    
+
     # Add these fields (optional but useful for tracking)
     password_reset_count = models.IntegerField(default=0)
     last_password_reset = models.DateTimeField(null=True, blank=True)
-    
-        # ── UTM / Traffic Source Tracking ─────────────────────────────
-    utm_source   = models.CharField(max_length=255, blank=True, default='')
-    utm_medium   = models.CharField(max_length=255, blank=True, default='')
-    utm_campaign = models.CharField(max_length=255, blank=True, default='')
-    utm_term     = models.CharField(max_length=255, blank=True, default='')
-    utm_content  = models.CharField(max_length=255, blank=True, default='')
-    gclid        = models.CharField(max_length=500, blank=True, default='')
-    referrer     = models.CharField(max_length=500, blank=True, default='')
-    landing_url  = models.TextField(blank=True, default='')
-    signup_ip    = models.GenericIPAddressField(null=True, blank=True)
 
+    # ── UTM / Traffic Source Tracking ─────────────────────────────
+    utm_source = models.CharField(max_length=255, blank=True, default="")
+    utm_medium = models.CharField(max_length=255, blank=True, default="")
+    utm_campaign = models.CharField(max_length=255, blank=True, default="")
+    utm_term = models.CharField(max_length=255, blank=True, default="")
+    utm_content = models.CharField(max_length=255, blank=True, default="")
+    gclid = models.CharField(max_length=500, blank=True, default="")
+    referrer = models.CharField(max_length=500, blank=True, default="")
+    landing_url = models.TextField(blank=True, default="")
+    signup_ip = models.GenericIPAddressField(null=True, blank=True)
 
     def __str__(self):
         return self.email or self.username
-    
+
+
 class CollegeChoice(models.Model):
-    user = models.ForeignKey(CustomUser, on_delete=models.CASCADE, related_name='choices')
+    user = models.ForeignKey(
+        CustomUser, on_delete=models.CASCADE, related_name="choices"
+    )
     college_name = models.CharField(max_length=255)
     course_name = models.CharField(max_length=255)
     state = models.CharField(max_length=100)
@@ -54,6 +56,7 @@ class CollegeCutoff(models.Model):
     def __str__(self):
         return f"{self.institute} - {self.course} - {self.round}"
 
+
 class MedicalCollege(models.Model):
     name = models.CharField(max_length=255)
     state = models.CharField(max_length=100)
@@ -65,6 +68,7 @@ class MedicalCollege(models.Model):
 
     def __str__(self):
         return self.name
+
 
 class INICETAllotment(models.Model):
     round = models.CharField(max_length=20)
@@ -78,6 +82,7 @@ class INICETAllotment(models.Model):
     def __str__(self):
         return f"Round {self.round} - Rank {self.ai_rank} - {self.institute}"
 
+
 class UGSeatMatrix(models.Model):
     state = models.CharField(max_length=100)
     institute = models.CharField(max_length=255)
@@ -87,6 +92,7 @@ class UGSeatMatrix(models.Model):
 
     def __str__(self):
         return f"{self.institute} - {self.course}"
+
 
 class PGFeeDetails(models.Model):
     institute = models.CharField(max_length=255)
@@ -99,7 +105,6 @@ class PGFeeDetails(models.Model):
         return f"{self.institute} - {self.course}"
 
 
-
 class PrivateCollege(models.Model):
     name = models.CharField(max_length=255)
     state = models.CharField(max_length=100)
@@ -109,6 +114,7 @@ class PrivateCollege(models.Model):
     def __str__(self):
         return self.name
 
+
 class NIRFUniversityRanking(models.Model):
     rank = models.PositiveIntegerField()
     university_name = models.CharField(max_length=255)
@@ -117,7 +123,6 @@ class NIRFUniversityRanking(models.Model):
 
     def __str__(self):
         return f"{self.rank} - {self.university_name}"
-    
 
 
 class FAQCategory(models.Model):
@@ -126,14 +131,18 @@ class FAQCategory(models.Model):
     def __str__(self):
         return self.name
 
+
 class FAQ(models.Model):
     question = models.TextField()
     answer = models.TextField()
-    category = models.ForeignKey(FAQCategory, on_delete=models.CASCADE, related_name='faqs')
+    category = models.ForeignKey(
+        FAQCategory, on_delete=models.CASCADE, related_name="faqs"
+    )
 
     def __str__(self):
         return self.question
-    
+
+
 class RankPredictionCollege(models.Model):
     college_name = models.CharField(max_length=255)
     city = models.CharField(max_length=100)
@@ -141,34 +150,40 @@ class RankPredictionCollege(models.Model):
     course = models.CharField(max_length=255)
     ownership = models.CharField(max_length=50)  # Govt / Private
     is_aiims = models.BooleanField(default=False)
-    seat_type = models.CharField(max_length=100, blank=True)  # e.g., All India, State Quota
+    seat_type = models.CharField(
+        max_length=100, blank=True
+    )  # e.g., All India, State Quota
     closing_rank = models.PositiveIntegerField()  # This is the key to predict
     total_seats = models.PositiveIntegerField()
     intake_year = models.PositiveIntegerField(default=2025)  # Just in case
 
     def __str__(self):
-            return f"{self.college_name} - {self.course}"
-    
+        return f"{self.college_name} - {self.course}"
+
+
 class CollegeDatabase(models.Model):
-        COLLEGE_TYPE_CHOICES = [
-            ("UG", "Undergraduate"),
-            ("PG", "Postgraduate"),
-        ]
-    
-        college_name = models.CharField(max_length=255)
-        state = models.CharField(max_length=100)
-        city = models.CharField(max_length=100)
-        ownership = models.CharField(max_length=50)  # Government / Private
-        is_aiims = models.BooleanField(default=False)
-        college_type = models.CharField(max_length=2, choices=COLLEGE_TYPE_CHOICES)
-        course = models.CharField(max_length=255)
-        seat_type = models.CharField(max_length=100, blank=True)  # All India, State Quota, etc.
-        closing_rank = models.PositiveIntegerField(null=True, blank=True)
-        total_seats = models.PositiveIntegerField(default=0)
-    
-        def __str__(self):
-            return f"{self.college_name} ({self.course})"
-        
+    COLLEGE_TYPE_CHOICES = [
+        ("UG", "Undergraduate"),
+        ("PG", "Postgraduate"),
+    ]
+
+    college_name = models.CharField(max_length=255)
+    state = models.CharField(max_length=100)
+    city = models.CharField(max_length=100)
+    ownership = models.CharField(max_length=50)  # Government / Private
+    is_aiims = models.BooleanField(default=False)
+    college_type = models.CharField(max_length=2, choices=COLLEGE_TYPE_CHOICES)
+    course = models.CharField(max_length=255)
+    seat_type = models.CharField(
+        max_length=100, blank=True
+    )  # All India, State Quota, etc.
+    closing_rank = models.PositiveIntegerField(null=True, blank=True)
+    total_seats = models.PositiveIntegerField(default=0)
+
+    def __str__(self):
+        return f"{self.college_name} ({self.course})"
+
+
 email_verified = models.BooleanField(default=False)
 email_otp = models.CharField(max_length=6, blank=True, null=True)
 
@@ -221,6 +236,7 @@ CATEGORY_CHOICES = tuple((c, c) for c in CATEGORIES)
 class BaseTimestamp(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
     class Meta:
         abstract = True
 
@@ -234,7 +250,9 @@ class Allotment(BaseTimestamp):
     institute = models.CharField(max_length=300, blank=True, null=True)
     course = models.CharField(max_length=300, blank=True, null=True)
     quota = models.CharField(max_length=200, blank=True, null=True)
-    quota_category = models.CharField(max_length=200, blank=True, null=True)  # column named Category in CSV
+    quota_category = models.CharField(
+        max_length=200, blank=True, null=True
+    )  # column named Category in CSV
     fee = models.CharField(max_length=200, blank=True, null=True)
     stipend_year1 = models.CharField(max_length=200, blank=True, null=True)
     bond_years = models.CharField(max_length=50, blank=True, null=True)
@@ -320,9 +338,11 @@ class FeeStipendBond(BaseTimestamp):
     def __str__(self):
         return f"{self.institute} | {self.course} | {self.category}"
 
+
 # app/models.py
 # app/models.py
 from django.db import models
+
 
 # 1. Allotment Data
 class AllotmentData(models.Model):
@@ -341,6 +361,7 @@ class AllotmentData(models.Model):
 
     def __str__(self):
         return f"{self.institute} | {self.course} | {self.category}"
+
 
 # 2. Seat Matrix Data
 class SeatMatrixData(models.Model):
@@ -367,6 +388,7 @@ class SeatMatrixData(models.Model):
     cr_2024_4 = models.CharField(max_length=50, null=True, blank=True)
     cr_2024_5 = models.CharField(max_length=50, null=True, blank=True)
 
+
 # 3. Fee / Stipend / Bond Data
 class FeeStipendBondData(models.Model):
     category_type = models.CharField(max_length=255)  # taken from filename / mapping
@@ -379,6 +401,7 @@ class FeeStipendBondData(models.Model):
     bond_years = models.CharField(null=True, blank=True)
     bond_penalty = models.CharField(max_length=50)
     beds = models.CharField(max_length=50)
+
 
 # 4. Closing Ranks Data
 class ClosingRanksData(models.Model):
@@ -404,3 +427,30 @@ class ClosingRanksData(models.Model):
     cr_2024_4 = models.CharField(max_length=50, null=True, blank=True)
     cr_2024_5 = models.CharField(max_length=50, null=True, blank=True)
 
+
+class UGAllotmentData(models.Model):
+    round = models.IntegerField()
+    ai_rank = models.IntegerField()
+
+    state = models.CharField(max_length=255)
+    institute = models.TextField()
+    course = models.CharField(max_length=255)
+
+    quota = models.CharField(max_length=255)
+    category = models.CharField(max_length=255)
+
+    fee = models.BigIntegerField(null=True, blank=True)
+    beds = models.IntegerField(null=True, blank=True)
+
+    bond_years = models.IntegerField(null=True, blank=True)
+    bond_penalty = models.BigIntegerField(null=True, blank=True)
+
+    stipend_year1 = models.BigIntegerField(null=True, blank=True)
+
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    class Meta:
+        ordering = ["ai_rank"]
+
+    def __str__(self):
+        return f"{self.ai_rank} - {self.institute}"

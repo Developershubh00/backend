@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     # 'core',
     "core.apps.CoreConfig",
     "rest_framework",
+    "django_filters",
     "rest_framework_simplejwt",
     "corsheaders",
     "import_export",

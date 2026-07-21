@@ -17,6 +17,7 @@ from core.views import (
     UGAllotmentDataViewSet,
     UGAllotmentFilterOptionsView,
     UGAllotmentFilterOptionsView,
+    NEETPGAllotmentCSVView,
 )
 from django.urls import path
 from core.views import (
@@ -202,6 +203,11 @@ urlpatterns = [
         "api/ug-allotments/",
         UGAllotmentDataList.as_view(),
         name="ug-allotments",
+    ),
+    path(
+        "api/neet-pg-allotments/",
+        NEETPGAllotmentCSVView.as_view(),
+        name="neet-pg-allotments",
     ),
 ]
 

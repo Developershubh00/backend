@@ -3109,6 +3109,65 @@ from .serializers import UGAllotmentDataSerializer
 from .pagination import StandardResultsSetPagination
 
 
+class NEETPGAllotmentCSVView(APIView):
+    """Return PG allotment 2025 data from the CSV file as JSON."""
+
+    permission_classes = [AllowAny]
+
+    def get(self, request):
+        import csv
+        from pathlib import Path
+
+        csv_path = (
+            Path(settings.BASE_DIR)
+            / "static"
+            / "data"
+            / "allotments"
+            / "neet_pg_allotment_2025.csv"
+        )
+
+        if not csv_path.exists():
+            return Response({"error": "CSV file not found"}, status=404)
+
+        rows = []
+        with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
+            reader = csv.DictReader(handle)
+            for row in reader:
+                fee = (row.get("FEE") or "").strip()
+                stipend = (row.get("STIPEND") or "").strip()
+                bond_years_raw = (row.get("BOND YRS") or "0").strip()
+
+                try:
+                    bond_years = int(float(bond_years_raw)) if bond_years_raw else 0
+                except ValueError:
+                    bond_years = 0
+
+                beds_raw = str(row.get("BEDS") or "0").strip()
+                try:
+                    beds = int(beds_raw.replace(",", "")) if beds_raw else 0
+                except ValueError:
+                    beds = 0
+
+                rows.append(
+                    {
+                        "Round": int(str(row.get("ROUND") or "0").strip() or 0),
+                        "ai_rank": str(row.get("AI RANK") or "0").strip(),
+                        "State": str(row.get("STATE") or "").strip(),
+                        "Institute": str(row.get("INSTITUTE") or "").strip(),
+                        "Course": str(row.get("COURSE") or "").strip(),
+                        "Quota": str(row.get("QUOTA") or "").strip(),
+                        "Category": str(row.get("CATEGORY") or "").strip(),
+                        "Fee": fee or "₹0",
+                        "Stipend_Year_1": stipend or "₹0",
+                        "Bond_Years": bond_years,
+                        "Bond_Penalty": "₹0",
+                        "Beds": beds,
+                    }
+                )
+
+        return Response(rows)
+
+
 class UGAllotmentDataList(generics.ListAPIView):
     queryset = UGAllotmentData.objects.all()
 
